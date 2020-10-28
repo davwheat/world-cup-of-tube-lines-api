@@ -146,7 +146,7 @@ async function UpdatePollData() {
 
   // Log(JSON.stringify(historicalData));
 
-  await fs.writeFile('./data/data.json', JSON.stringify(historicalData));
+  await fs.writeFile('./data/data.json', JSON.stringify(historicalData, null, "\t"));
 }
 
 /**
