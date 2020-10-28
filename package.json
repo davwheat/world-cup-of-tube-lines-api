@@ -17,10 +17,10 @@
   "license": "MIT",
   "scripts": {
     "start": "node index.js",
-    "watch": "pm2 start index.js --watch --name \"WCOTL API\" -- --color",
+    "watch": "pm2 start ecosystem.config.js -- --color",
     "restart": "yarn stop && yarn watch",
     "format": "prettier --write \"**/*.{js,json}\"",
-    "stop": "pm2 stop index.js --watch",
+    "stop": "pm2 stop ecosystem.config.js",
     "status": "pm2 status",
     "monitor": "pm2 monit",
     "logs": "pm2 logs \"WCOTL API\""
