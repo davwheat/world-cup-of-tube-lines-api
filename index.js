@@ -31,6 +31,34 @@ app.use(
 // Add gzip/brotli compression
 app.use(shrinkRay({ zlib: { level: 7 }, brotli: { quality: 5 } }));
 
+/**
+ * @returns {string[]} Tweet IDs identified by the algorithm to be a poll from Geoff!
+ */
+async function GetTweetIDs() {
+  //   'https://api.twitter.com/2/tweets/search/recent?query=from:geofftech AND #WorldCupOfTubeLines&expansions=attachments.poll_ids',
+  const data = await fetch(
+    `https://api.twitter.com/2/tweets/search/recent?query=from:geofftech %23WorldCupOfTubeLines -has:mentions -is:retweet -is:quote&max_results=100&expansions=attachments.poll_ids`,
+    {
+      headers: {
+        Authorization: `Bearer ${TOKEN}`,
+      },
+    }
+  );
+
+  const json = await data.json();
+  // console.log(JSON.stringify(await data.json(), null, 2));
+
+  const pollTweets = json.data.filter(tweet => tweet.attachments && tweet.attachments.poll_ids && tweet.attachments.poll_ids[0]);
+
+  const ids = pollTweets.reduce((prev, curr) => [...prev, curr.id], []);
+
+  // Log(JSON.stringify(ids));
+
+  Log(`Identified ${ids.length} possible game tweets!`, Log.SEVERITY.INFO);
+
+  return ids;
+}
+
 async function UpdatePollData() {
   const tweetIds = require('./cup.json');
 
@@ -43,6 +71,18 @@ async function UpdatePollData() {
       if (id !== null) realIds[key] = id;
     }
   }
+
+  const extraIds = await GetTweetIDs();
+
+  let counter = 0;
+  extraIds.forEach(id => {
+    if (Object.values(realIds).includes(id)) return;
+
+    realIds[`unknown${counter}`] = id;
+    counter++;
+  });
+
+  Log(`${counter} IDs were not known to be correct`, counter > 0 ? Log.SEVERITY.WARNING : Log.SEVERITY.INFO);
 
   // Log(JSON.stringify(realIds));
 
@@ -81,6 +121,8 @@ async function UpdatePollData() {
   let historicalData = require('./data/data.json');
 
   allData.forEach(game => {
+    if (game.poll.voting_status === 'closed') return;
+
     if (!historicalData[game.game]) {
       historicalData[game.game] = {
         game: game.game,
@@ -100,7 +142,7 @@ async function UpdatePollData() {
 
   // update latest copy of data
   historicalData.latest_all = allData;
-  Log(JSON.stringify(historicalData.latest_all));
+  // Log(JSON.stringify(historicalData.latest_all));
 
   // Log(JSON.stringify(historicalData));
 
@@ -114,9 +156,14 @@ async function UpdatePollData() {
  */
 async function GetDataFromTwitterApi(...tweetIds) {
   const tweet = await (
-    await fetch(`https://api.twitter.com/2/tweets?ids=${tweetIds.join(',')}&expansions=attachments.poll_ids`, {
-      headers: { Authorization: `Bearer ${TOKEN}` },
-    })
+    await fetch(
+      `https://api.twitter.com/2/tweets?ids=${tweetIds.join(
+        ','
+      )}&expansions=attachments.poll_ids&poll.fields=duration_minutes,end_datetime,id,options,voting_status`,
+      {
+        headers: { Authorization: `Bearer ${TOKEN}` },
+      }
+    )
   ).json();
   Log('Received data from Twitter API', Log.SEVERITY.DEBUG);
 
@@ -132,12 +179,19 @@ app.get(`/getpolls`, async (req, res) => {
   return SendResponse.JSON(res, data.latest_all);
 });
 
+app.get(`/fullhistory`, async (req, res) => {
+  const allData = require('./data/data.json');
+
+  return SendResponse.JSON(res, allData);
+});
+
 Log(`Starting API listener...`, Log.SEVERITY.DEBUG);
 
 let listener = app.listen(port || 2678, () => {
   Log(`Listening at localhost:${listener.address().port}`, Log.SEVERITY.INFO);
 
   UpdatePollData();
+  // GetTweetIDs();
 
   setInterval(() => {
     Log('Fetching latest data from the Twitter API');
