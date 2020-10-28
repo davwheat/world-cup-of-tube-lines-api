@@ -1,0 +1,9 @@
+node_modules/
+.vscode/
+
+.env
+yarn-error.log
+livery-store/storage-credentials.json
+
+**/*.log
+livery-store/sync-files-dev.js
