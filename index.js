@@ -31,6 +31,7 @@ app.use(shrinkRay({ zlib: { level: 7 }, brotli: { quality: 5 } }));
 
 app.get(`/getpoll/:id`, async (req, res) => {
   const id = req.params.id;
+  Log('Received request for poll data', Log.SEVERITY.DEBUG);
 
   if (typeof id === 'undefined') return SendResponse.JSON(res, { error: 'invalid' });
 
@@ -39,10 +40,8 @@ app.get(`/getpoll/:id`, async (req, res) => {
   const tweet = await (
     await fetch(`https://api.twitter.com/2/tweets?ids=${id}&expansions=attachments.poll_ids`, { headers: { Authorization: `Bearer ${TOKEN}` } })
   ).json();
+  Log('Received data from Twitter API', Log.SEVERITY.DEBUG);
 
-  Log(TOKEN);
-
-  Log(JSON.stringify(tweet));
   return SendResponse.JSON(res, {
     tweets: tweet.data,
     polls: tweet.includes.polls,
