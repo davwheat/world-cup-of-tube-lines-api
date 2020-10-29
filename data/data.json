@@ -55115,8 +55115,6 @@
 			"poll": {
 				"id": "1320637627821924352",
 				"duration_minutes": 1440,
-				"voting_status": "closed",
-				"end_datetime": "2020-10-27T08:05:21.000Z",
 				"options": [
 					{
 						"position": 1,
@@ -55128,7 +55126,9 @@
 						"label": "Northern Line",
 						"votes": 3973
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-27T08:05:21.000Z"
 			}
 		},
 		{
@@ -55137,8 +55137,6 @@
 			"poll": {
 				"id": "1320637979174592513",
 				"duration_minutes": 1440,
-				"voting_status": "closed",
-				"end_datetime": "2020-10-27T08:06:45.000Z",
 				"options": [
 					{
 						"position": 1,
@@ -55150,7 +55148,9 @@
 						"label": "TfL Rail",
 						"votes": 1485
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-27T08:06:45.000Z"
 			}
 		},
 		{
@@ -55159,8 +55159,6 @@
 			"poll": {
 				"id": "1321001659766575106",
 				"duration_minutes": 1440,
-				"voting_status": "closed",
-				"end_datetime": "2020-10-28T08:11:53.000Z",
 				"options": [
 					{
 						"position": 1,
@@ -55172,7 +55170,9 @@
 						"label": "District Line",
 						"votes": 3369
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-28T08:11:53.000Z"
 			}
 		},
 		{
@@ -55181,8 +55181,6 @@
 			"poll": {
 				"id": "1321002110142586880",
 				"duration_minutes": 1440,
-				"voting_status": "closed",
-				"end_datetime": "2020-10-28T08:13:40.000Z",
 				"options": [
 					{
 						"position": 1,
@@ -55194,7 +55192,9 @@
 						"label": "Thameslink",
 						"votes": 4006
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-28T08:13:40.000Z"
 			}
 		},
 		{
@@ -55203,8 +55203,6 @@
 			"poll": {
 				"id": "1321364991115726849",
 				"duration_minutes": 1425,
-				"voting_status": "closed",
-				"end_datetime": "2020-10-29T08:00:38.000Z",
 				"options": [
 					{
 						"position": 1,
@@ -55216,7 +55214,9 @@
 						"label": "Victoria Line",
 						"votes": 3223
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-29T08:00:38.000Z"
 			}
 		},
 		{
@@ -55225,8 +55225,6 @@
 			"poll": {
 				"id": "1321365302144368640",
 				"duration_minutes": 1423,
-				"voting_status": "closed",
-				"end_datetime": "2020-10-29T07:59:52.000Z",
 				"options": [
 					{
 						"position": 1,
@@ -55238,7 +55236,9 @@
 						"label": "Trams",
 						"votes": 2231
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-29T07:59:52.000Z"
 			}
 		},
 		{
@@ -55247,20 +55247,20 @@
 			"poll": {
 				"id": "1321728842000670721",
 				"duration_minutes": 1440,
-				"voting_status": "open",
-				"end_datetime": "2020-10-30T08:21:27.000Z",
 				"options": [
 					{
 						"position": 1,
 						"label": "London Overground",
-						"votes": 661
+						"votes": 737
 					},
 					{
 						"position": 2,
 						"label": "Cable Car",
-						"votes": 221
+						"votes": 247
 					}
-				]
+				],
+				"voting_status": "open",
+				"end_datetime": "2020-10-30T08:21:27.000Z"
 			}
 		},
 		{
@@ -55269,20 +55269,20 @@
 			"poll": {
 				"id": "1321729312584814593",
 				"duration_minutes": 1440,
-				"voting_status": "open",
-				"end_datetime": "2020-10-30T08:23:19.000Z",
 				"options": [
 					{
 						"position": 1,
 						"label": "DLR",
-						"votes": 435
+						"votes": 531
 					},
 					{
 						"position": 2,
 						"label": "Piccadilly Line",
-						"votes": 306
+						"votes": 371
 					}
-				]
+				],
+				"voting_status": "open",
+				"end_datetime": "2020-10-30T08:23:19.000Z"
 			}
 		}
 	],
@@ -55390,6 +55390,20 @@
 					"one": 661,
 					"two": 221
 				}
+			},
+			{
+				"timestamp": 1603960647223,
+				"votes": {
+					"one": 737,
+					"two": 247
+				}
+			},
+			{
+				"timestamp": 1603960707232,
+				"votes": {
+					"one": 737,
+					"two": 247
+				}
 			}
 		]
 	},
@@ -55482,6 +55496,20 @@
 				"votes": {
 					"one": 435,
 					"two": 306
+				}
+			},
+			{
+				"timestamp": 1603960647223,
+				"votes": {
+					"one": 489,
+					"two": 348
+				}
+			},
+			{
+				"timestamp": 1603960707232,
+				"votes": {
+					"one": 531,
+					"two": 371
 				}
 			}
 		]
