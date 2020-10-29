@@ -55410,17 +55410,10 @@
 	"knockoutb4": {
 		"game": "knockoutb4",
 		"options": {
-			"one": "London Overground",
-			"two": "Cable Car"
+			"one": "DLR",
+			"two": "Piccadilly Line"
 		},
 		"results": [
-			{
-				"timestamp": 1603959889707,
-				"votes": {
-					"one": 148,
-					"two": 66
-				}
-			},
 			{
 				"timestamp": 1603959949695,
 				"votes": {
