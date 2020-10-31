@@ -85408,8 +85408,8 @@
 			}
 		]
 	},
-	"unknown0": {
-		"game": "unknown0",
+	"quartera2": {
+		"game": "quartera2",
 		"options": {
 			"one": "District Line",
 			"two": "Thameslink"
@@ -85421,16 +85421,7 @@
 					"one": 13,
 					"two": 22
 				}
-			}
-		]
-	},
-	"quartera2": {
-		"game": "quartera2",
-		"options": {
-			"one": "District Line",
-			"two": "Thameslink"
-		},
-		"results": [
+			},
 			{
 				"timestamp": 1604134953101,
 				"votes": {
