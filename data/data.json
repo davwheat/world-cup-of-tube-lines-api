@@ -55353,7 +55353,7 @@
 		},
 		{
 			"tweetId": "1323192824242802688",
-			"game": "unknown0",
+			"game": "quarterb2",
 			"poll": {
 				"voting_status": "open",
 				"end_datetime": "2020-11-03T09:01:47.000Z",
@@ -105504,8 +105504,8 @@
 			}
 		]
 	},
-	"unknown0": {
-		"game": "unknown0",
+	"quarterb2": {
+		"game": "quarterb2",
 		"options": {
 			"one": "London Overground",
 			"two": "DLR"
