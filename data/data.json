@@ -55113,8 +55113,6 @@
 			"tweetId": "1320637628518223872",
 			"game": "knockouta1",
 			"poll": {
-				"voting_status": "closed",
-				"end_datetime": "2020-10-27T08:05:21.000Z",
 				"id": "1320637627821924352",
 				"duration_minutes": 1440,
 				"options": [
@@ -55128,15 +55126,15 @@
 						"label": "Northern Line",
 						"votes": 3973
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-27T08:05:21.000Z"
 			}
 		},
 		{
 			"tweetId": "1320637979858247680",
 			"game": "knockouta2",
 			"poll": {
-				"voting_status": "closed",
-				"end_datetime": "2020-10-27T08:06:45.000Z",
 				"id": "1320637979174592513",
 				"duration_minutes": 1440,
 				"options": [
@@ -55150,15 +55148,15 @@
 						"label": "TfL Rail",
 						"votes": 1485
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-27T08:06:45.000Z"
 			}
 		},
 		{
 			"tweetId": "1321001660479639552",
 			"game": "knockouta3",
 			"poll": {
-				"voting_status": "closed",
-				"end_datetime": "2020-10-28T08:11:53.000Z",
 				"id": "1321001659766575106",
 				"duration_minutes": 1440,
 				"options": [
@@ -55172,15 +55170,15 @@
 						"label": "District Line",
 						"votes": 3369
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-28T08:11:53.000Z"
 			}
 		},
 		{
 			"tweetId": "1321002110801108993",
 			"game": "knockouta4",
 			"poll": {
-				"voting_status": "closed",
-				"end_datetime": "2020-10-28T08:13:40.000Z",
 				"id": "1321002110142586880",
 				"duration_minutes": 1440,
 				"options": [
@@ -55194,15 +55192,15 @@
 						"label": "Thameslink",
 						"votes": 4006
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-28T08:13:40.000Z"
 			}
 		},
 		{
 			"tweetId": "1321364991803621376",
 			"game": "knockoutb1",
 			"poll": {
-				"voting_status": "closed",
-				"end_datetime": "2020-10-29T08:00:38.000Z",
 				"id": "1321364991115726849",
 				"duration_minutes": 1425,
 				"options": [
@@ -55216,15 +55214,15 @@
 						"label": "Victoria Line",
 						"votes": 3223
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-29T08:00:38.000Z"
 			}
 		},
 		{
 			"tweetId": "1321365302811217923",
 			"game": "knockoutb2",
 			"poll": {
-				"voting_status": "closed",
-				"end_datetime": "2020-10-29T07:59:52.000Z",
 				"id": "1321365302144368640",
 				"duration_minutes": 1423,
 				"options": [
@@ -55238,15 +55236,15 @@
 						"label": "Trams",
 						"votes": 2231
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-29T07:59:52.000Z"
 			}
 		},
 		{
 			"tweetId": "1321728842680160256",
 			"game": "knockoutb3",
 			"poll": {
-				"voting_status": "closed",
-				"end_datetime": "2020-10-30T08:21:27.000Z",
 				"id": "1321728842000670721",
 				"duration_minutes": 1440,
 				"options": [
@@ -55260,15 +55258,15 @@
 						"label": "Cable Car",
 						"votes": 1588
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-30T08:21:27.000Z"
 			}
 		},
 		{
 			"tweetId": "1321729313247547392",
 			"game": "knockoutb4",
 			"poll": {
-				"voting_status": "closed",
-				"end_datetime": "2020-10-30T08:23:19.000Z",
 				"id": "1321729312584814593",
 				"duration_minutes": 1440,
 				"options": [
@@ -55282,15 +55280,15 @@
 						"label": "Piccadilly Line",
 						"votes": 2296
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-30T08:23:19.000Z"
 			}
 		},
 		{
 			"tweetId": "1322086641322938368",
 			"game": "quartera1",
 			"poll": {
-				"voting_status": "closed",
-				"end_datetime": "2020-10-31T08:03:12.000Z",
 				"id": "1322086640505049088",
 				"duration_minutes": 1440,
 				"options": [
@@ -55304,15 +55302,15 @@
 						"label": "Jubilee Line",
 						"votes": 3306
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-10-31T08:03:12.000Z"
 			}
 		},
 		{
 			"tweetId": "1322463418738266112",
 			"game": "quartera2",
 			"poll": {
-				"voting_status": "closed",
-				"end_datetime": "2020-11-01T09:00:23.000Z",
 				"id": "1322463417886715906",
 				"duration_minutes": 1440,
 				"options": [
@@ -55326,15 +55324,15 @@
 						"label": "Thameslink",
 						"votes": 3357
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-11-01T09:00:23.000Z"
 			}
 		},
 		{
 			"tweetId": "1322834253411807232",
 			"game": "quarterb1",
 			"poll": {
-				"voting_status": "closed",
-				"end_datetime": "2020-11-02T09:18:57.000Z",
 				"id": "1322834252594106373",
 				"duration_minutes": 1425,
 				"options": [
@@ -55348,29 +55346,53 @@
 						"label": "Metropolitan Line",
 						"votes": 2578
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-11-02T09:18:57.000Z"
 			}
 		},
 		{
 			"tweetId": "1323192824242802688",
 			"game": "quarterb2",
 			"poll": {
-				"voting_status": "open",
-				"end_datetime": "2020-11-03T09:01:47.000Z",
 				"id": "1323192823215247360",
 				"duration_minutes": 1423,
 				"options": [
 					{
 						"position": 1,
 						"label": "London Overground",
-						"votes": 1348
+						"votes": 1996
 					},
 					{
 						"position": 2,
 						"label": "DLR",
-						"votes": 1921
+						"votes": 2971
 					}
-				]
+				],
+				"voting_status": "closed",
+				"end_datetime": "2020-11-03T09:01:47.000Z"
+			}
+		},
+		{
+			"tweetId": "1323546027790606338",
+			"game": "unknown0",
+			"poll": {
+				"id": "1323546027090169856",
+				"duration_minutes": 1440,
+				"options": [
+					{
+						"position": 1,
+						"label": "Jubilee Line",
+						"votes": 4080
+					},
+					{
+						"position": 2,
+						"label": "Thameslink",
+						"votes": 4091
+					}
+				],
+				"voting_status": "open",
+				"end_datetime": "2020-11-04T08:42:17.000Z"
 			}
 		}
 	],
@@ -107028,6 +107050,10977 @@
 				"votes": {
 					"one": 1348,
 					"two": 1921
+				}
+			},
+			{
+				"timestamp": 1604321942929,
+				"votes": {
+					"one": 1348,
+					"two": 1921
+				}
+			},
+			{
+				"timestamp": 1604322002967,
+				"votes": {
+					"one": 1348,
+					"two": 1921
+				}
+			},
+			{
+				"timestamp": 1604322062885,
+				"votes": {
+					"one": 1348,
+					"two": 1921
+				}
+			},
+			{
+				"timestamp": 1604322122900,
+				"votes": {
+					"one": 1348,
+					"two": 1921
+				}
+			},
+			{
+				"timestamp": 1604322182901,
+				"votes": {
+					"one": 1348,
+					"two": 1921
+				}
+			},
+			{
+				"timestamp": 1604322243004,
+				"votes": {
+					"one": 1348,
+					"two": 1921
+				}
+			},
+			{
+				"timestamp": 1604322302894,
+				"votes": {
+					"one": 1348,
+					"two": 1921
+				}
+			},
+			{
+				"timestamp": 1604322362906,
+				"votes": {
+					"one": 1363,
+					"two": 1952
+				}
+			},
+			{
+				"timestamp": 1604322422895,
+				"votes": {
+					"one": 1363,
+					"two": 1952
+				}
+			},
+			{
+				"timestamp": 1604322483075,
+				"votes": {
+					"one": 1363,
+					"two": 1952
+				}
+			},
+			{
+				"timestamp": 1604322542941,
+				"votes": {
+					"one": 1363,
+					"two": 1952
+				}
+			},
+			{
+				"timestamp": 1604322602938,
+				"votes": {
+					"one": 1363,
+					"two": 1952
+				}
+			},
+			{
+				"timestamp": 1604322663095,
+				"votes": {
+					"one": 1363,
+					"two": 1952
+				}
+			},
+			{
+				"timestamp": 1604322722901,
+				"votes": {
+					"one": 1363,
+					"two": 1952
+				}
+			},
+			{
+				"timestamp": 1604322782896,
+				"votes": {
+					"one": 1363,
+					"two": 1952
+				}
+			},
+			{
+				"timestamp": 1604322842893,
+				"votes": {
+					"one": 1372,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604322902869,
+				"votes": {
+					"one": 1372,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604322962922,
+				"votes": {
+					"one": 1372,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604323022911,
+				"votes": {
+					"one": 1372,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604323082966,
+				"votes": {
+					"one": 1372,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604323142889,
+				"votes": {
+					"one": 1372,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604323202893,
+				"votes": {
+					"one": 1372,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604323262919,
+				"votes": {
+					"one": 1372,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604323322935,
+				"votes": {
+					"one": 1372,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604323382911,
+				"votes": {
+					"one": 1372,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604323443006,
+				"votes": {
+					"one": 1372,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604323503144,
+				"votes": {
+					"one": 1386,
+					"two": 2000
+				}
+			},
+			{
+				"timestamp": 1604323562919,
+				"votes": {
+					"one": 1386,
+					"two": 2000
+				}
+			},
+			{
+				"timestamp": 1604323622893,
+				"votes": {
+					"one": 1386,
+					"two": 2000
+				}
+			},
+			{
+				"timestamp": 1604323682897,
+				"votes": {
+					"one": 1386,
+					"two": 2000
+				}
+			},
+			{
+				"timestamp": 1604323742935,
+				"votes": {
+					"one": 1386,
+					"two": 2000
+				}
+			},
+			{
+				"timestamp": 1604323802956,
+				"votes": {
+					"one": 1386,
+					"two": 2000
+				}
+			},
+			{
+				"timestamp": 1604323862909,
+				"votes": {
+					"one": 1386,
+					"two": 2000
+				}
+			},
+			{
+				"timestamp": 1604323922947,
+				"votes": {
+					"one": 1386,
+					"two": 2000
+				}
+			},
+			{
+				"timestamp": 1604323982883,
+				"votes": {
+					"one": 1386,
+					"two": 2000
+				}
+			},
+			{
+				"timestamp": 1604324042908,
+				"votes": {
+					"one": 1386,
+					"two": 2000
+				}
+			},
+			{
+				"timestamp": 1604324102906,
+				"votes": {
+					"one": 1386,
+					"two": 2000
+				}
+			},
+			{
+				"timestamp": 1604324162913,
+				"votes": {
+					"one": 1406,
+					"two": 2024
+				}
+			},
+			{
+				"timestamp": 1604324222923,
+				"votes": {
+					"one": 1406,
+					"two": 2024
+				}
+			},
+			{
+				"timestamp": 1604324282919,
+				"votes": {
+					"one": 1406,
+					"two": 2024
+				}
+			},
+			{
+				"timestamp": 1604324342971,
+				"votes": {
+					"one": 1406,
+					"two": 2024
+				}
+			},
+			{
+				"timestamp": 1604324402905,
+				"votes": {
+					"one": 1406,
+					"two": 2024
+				}
+			},
+			{
+				"timestamp": 1604324462926,
+				"votes": {
+					"one": 1406,
+					"two": 2024
+				}
+			},
+			{
+				"timestamp": 1604324522920,
+				"votes": {
+					"one": 1406,
+					"two": 2024
+				}
+			},
+			{
+				"timestamp": 1604324582906,
+				"votes": {
+					"one": 1406,
+					"two": 2024
+				}
+			},
+			{
+				"timestamp": 1604324642898,
+				"votes": {
+					"one": 1411,
+					"two": 2053
+				}
+			},
+			{
+				"timestamp": 1604324702921,
+				"votes": {
+					"one": 1411,
+					"two": 2053
+				}
+			},
+			{
+				"timestamp": 1604324762910,
+				"votes": {
+					"one": 1411,
+					"two": 2053
+				}
+			},
+			{
+				"timestamp": 1604324822929,
+				"votes": {
+					"one": 1411,
+					"two": 2053
+				}
+			},
+			{
+				"timestamp": 1604324882893,
+				"votes": {
+					"one": 1411,
+					"two": 2053
+				}
+			},
+			{
+				"timestamp": 1604324942898,
+				"votes": {
+					"one": 1411,
+					"two": 2053
+				}
+			},
+			{
+				"timestamp": 1604325002894,
+				"votes": {
+					"one": 1411,
+					"two": 2053
+				}
+			},
+			{
+				"timestamp": 1604325062923,
+				"votes": {
+					"one": 1411,
+					"two": 2053
+				}
+			},
+			{
+				"timestamp": 1604325123010,
+				"votes": {
+					"one": 1411,
+					"two": 2053
+				}
+			},
+			{
+				"timestamp": 1604325182895,
+				"votes": {
+					"one": 1411,
+					"two": 2053
+				}
+			},
+			{
+				"timestamp": 1604325242897,
+				"votes": {
+					"one": 1426,
+					"two": 2085
+				}
+			},
+			{
+				"timestamp": 1604325302945,
+				"votes": {
+					"one": 1411,
+					"two": 2053
+				}
+			},
+			{
+				"timestamp": 1604325362931,
+				"votes": {
+					"one": 1426,
+					"two": 2085
+				}
+			},
+			{
+				"timestamp": 1604325422965,
+				"votes": {
+					"one": 1426,
+					"two": 2085
+				}
+			},
+			{
+				"timestamp": 1604325482895,
+				"votes": {
+					"one": 1426,
+					"two": 2085
+				}
+			},
+			{
+				"timestamp": 1604325542942,
+				"votes": {
+					"one": 1426,
+					"two": 2085
+				}
+			},
+			{
+				"timestamp": 1604325602955,
+				"votes": {
+					"one": 1426,
+					"two": 2085
+				}
+			},
+			{
+				"timestamp": 1604325662913,
+				"votes": {
+					"one": 1426,
+					"two": 2085
+				}
+			},
+			{
+				"timestamp": 1604325722905,
+				"votes": {
+					"one": 1426,
+					"two": 2085
+				}
+			},
+			{
+				"timestamp": 1604325782923,
+				"votes": {
+					"one": 1426,
+					"two": 2085
+				}
+			},
+			{
+				"timestamp": 1604325842954,
+				"votes": {
+					"one": 1426,
+					"two": 2085
+				}
+			},
+			{
+				"timestamp": 1604325902910,
+				"votes": {
+					"one": 1441,
+					"two": 2112
+				}
+			},
+			{
+				"timestamp": 1604325962907,
+				"votes": {
+					"one": 1441,
+					"two": 2112
+				}
+			},
+			{
+				"timestamp": 1604326022972,
+				"votes": {
+					"one": 1441,
+					"two": 2112
+				}
+			},
+			{
+				"timestamp": 1604326082907,
+				"votes": {
+					"one": 1441,
+					"two": 2112
+				}
+			},
+			{
+				"timestamp": 1604326142978,
+				"votes": {
+					"one": 1441,
+					"two": 2112
+				}
+			},
+			{
+				"timestamp": 1604326202885,
+				"votes": {
+					"one": 1441,
+					"two": 2112
+				}
+			},
+			{
+				"timestamp": 1604326262897,
+				"votes": {
+					"one": 1441,
+					"two": 2112
+				}
+			},
+			{
+				"timestamp": 1604326322902,
+				"votes": {
+					"one": 1441,
+					"two": 2112
+				}
+			},
+			{
+				"timestamp": 1604326382947,
+				"votes": {
+					"one": 1441,
+					"two": 2112
+				}
+			},
+			{
+				"timestamp": 1604326442921,
+				"votes": {
+					"one": 1441,
+					"two": 2112
+				}
+			},
+			{
+				"timestamp": 1604326502909,
+				"votes": {
+					"one": 1454,
+					"two": 2131
+				}
+			},
+			{
+				"timestamp": 1604326562906,
+				"votes": {
+					"one": 1454,
+					"two": 2131
+				}
+			},
+			{
+				"timestamp": 1604326623124,
+				"votes": {
+					"one": 1454,
+					"two": 2131
+				}
+			},
+			{
+				"timestamp": 1604326682913,
+				"votes": {
+					"one": 1454,
+					"two": 2131
+				}
+			},
+			{
+				"timestamp": 1604326742931,
+				"votes": {
+					"one": 1454,
+					"two": 2131
+				}
+			},
+			{
+				"timestamp": 1604326802960,
+				"votes": {
+					"one": 1454,
+					"two": 2131
+				}
+			},
+			{
+				"timestamp": 1604326862914,
+				"votes": {
+					"one": 1454,
+					"two": 2131
+				}
+			},
+			{
+				"timestamp": 1604326922935,
+				"votes": {
+					"one": 1454,
+					"two": 2131
+				}
+			},
+			{
+				"timestamp": 1604326982969,
+				"votes": {
+					"one": 1454,
+					"two": 2131
+				}
+			},
+			{
+				"timestamp": 1604327042914,
+				"votes": {
+					"one": 1454,
+					"two": 2131
+				}
+			},
+			{
+				"timestamp": 1604327102949,
+				"votes": {
+					"one": 1454,
+					"two": 2131
+				}
+			},
+			{
+				"timestamp": 1604327162909,
+				"votes": {
+					"one": 1460,
+					"two": 2144
+				}
+			},
+			{
+				"timestamp": 1604327222908,
+				"votes": {
+					"one": 1460,
+					"two": 2144
+				}
+			},
+			{
+				"timestamp": 1604327284622,
+				"votes": {
+					"one": 1460,
+					"two": 2144
+				}
+			},
+			{
+				"timestamp": 1604327342925,
+				"votes": {
+					"one": 1460,
+					"two": 2144
+				}
+			},
+			{
+				"timestamp": 1604327402925,
+				"votes": {
+					"one": 1460,
+					"two": 2144
+				}
+			},
+			{
+				"timestamp": 1604327462976,
+				"votes": {
+					"one": 1460,
+					"two": 2144
+				}
+			},
+			{
+				"timestamp": 1604327522978,
+				"votes": {
+					"one": 1460,
+					"two": 2144
+				}
+			},
+			{
+				"timestamp": 1604327582912,
+				"votes": {
+					"one": 1460,
+					"two": 2144
+				}
+			},
+			{
+				"timestamp": 1604327643010,
+				"votes": {
+					"one": 1460,
+					"two": 2144
+				}
+			},
+			{
+				"timestamp": 1604327702923,
+				"votes": {
+					"one": 1460,
+					"two": 2144
+				}
+			},
+			{
+				"timestamp": 1604327762970,
+				"votes": {
+					"one": 1474,
+					"two": 2154
+				}
+			},
+			{
+				"timestamp": 1604327822944,
+				"votes": {
+					"one": 1474,
+					"two": 2154
+				}
+			},
+			{
+				"timestamp": 1604327882933,
+				"votes": {
+					"one": 1474,
+					"two": 2154
+				}
+			},
+			{
+				"timestamp": 1604327943001,
+				"votes": {
+					"one": 1474,
+					"two": 2154
+				}
+			},
+			{
+				"timestamp": 1604328002932,
+				"votes": {
+					"one": 1474,
+					"two": 2154
+				}
+			},
+			{
+				"timestamp": 1604328062944,
+				"votes": {
+					"one": 1474,
+					"two": 2154
+				}
+			},
+			{
+				"timestamp": 1604328122959,
+				"votes": {
+					"one": 1474,
+					"two": 2154
+				}
+			},
+			{
+				"timestamp": 1604328182929,
+				"votes": {
+					"one": 1474,
+					"two": 2154
+				}
+			},
+			{
+				"timestamp": 1604328242953,
+				"votes": {
+					"one": 1474,
+					"two": 2154
+				}
+			},
+			{
+				"timestamp": 1604328302960,
+				"votes": {
+					"one": 1480,
+					"two": 2173
+				}
+			},
+			{
+				"timestamp": 1604328362962,
+				"votes": {
+					"one": 1480,
+					"two": 2173
+				}
+			},
+			{
+				"timestamp": 1604328422919,
+				"votes": {
+					"one": 1480,
+					"two": 2173
+				}
+			},
+			{
+				"timestamp": 1604328482947,
+				"votes": {
+					"one": 1480,
+					"two": 2173
+				}
+			},
+			{
+				"timestamp": 1604328542931,
+				"votes": {
+					"one": 1480,
+					"two": 2173
+				}
+			},
+			{
+				"timestamp": 1604328602933,
+				"votes": {
+					"one": 1480,
+					"two": 2173
+				}
+			},
+			{
+				"timestamp": 1604328662970,
+				"votes": {
+					"one": 1480,
+					"two": 2173
+				}
+			},
+			{
+				"timestamp": 1604328722910,
+				"votes": {
+					"one": 1480,
+					"two": 2173
+				}
+			},
+			{
+				"timestamp": 1604328782933,
+				"votes": {
+					"one": 1480,
+					"two": 2173
+				}
+			},
+			{
+				"timestamp": 1604328842945,
+				"votes": {
+					"one": 1480,
+					"two": 2173
+				}
+			},
+			{
+				"timestamp": 1604328903149,
+				"votes": {
+					"one": 1494,
+					"two": 2196
+				}
+			},
+			{
+				"timestamp": 1604328963054,
+				"votes": {
+					"one": 1480,
+					"two": 2173
+				}
+			},
+			{
+				"timestamp": 1604329022932,
+				"votes": {
+					"one": 1494,
+					"two": 2196
+				}
+			},
+			{
+				"timestamp": 1604329082957,
+				"votes": {
+					"one": 1494,
+					"two": 2196
+				}
+			},
+			{
+				"timestamp": 1604329142937,
+				"votes": {
+					"one": 1494,
+					"two": 2196
+				}
+			},
+			{
+				"timestamp": 1604329202986,
+				"votes": {
+					"one": 1494,
+					"two": 2196
+				}
+			},
+			{
+				"timestamp": 1604329262929,
+				"votes": {
+					"one": 1494,
+					"two": 2196
+				}
+			},
+			{
+				"timestamp": 1604329322973,
+				"votes": {
+					"one": 1494,
+					"two": 2196
+				}
+			},
+			{
+				"timestamp": 1604329382930,
+				"votes": {
+					"one": 1494,
+					"two": 2196
+				}
+			},
+			{
+				"timestamp": 1604329442955,
+				"votes": {
+					"one": 1494,
+					"two": 2196
+				}
+			},
+			{
+				"timestamp": 1604329502981,
+				"votes": {
+					"one": 1503,
+					"two": 2208
+				}
+			},
+			{
+				"timestamp": 1604329562910,
+				"votes": {
+					"one": 1503,
+					"two": 2208
+				}
+			},
+			{
+				"timestamp": 1604329622970,
+				"votes": {
+					"one": 1503,
+					"two": 2208
+				}
+			},
+			{
+				"timestamp": 1604329682996,
+				"votes": {
+					"one": 1503,
+					"two": 2208
+				}
+			},
+			{
+				"timestamp": 1604329743032,
+				"votes": {
+					"one": 1503,
+					"two": 2208
+				}
+			},
+			{
+				"timestamp": 1604329802946,
+				"votes": {
+					"one": 1503,
+					"two": 2208
+				}
+			},
+			{
+				"timestamp": 1604329862953,
+				"votes": {
+					"one": 1503,
+					"two": 2208
+				}
+			},
+			{
+				"timestamp": 1604329923002,
+				"votes": {
+					"one": 1503,
+					"two": 2208
+				}
+			},
+			{
+				"timestamp": 1604329982996,
+				"votes": {
+					"one": 1503,
+					"two": 2208
+				}
+			},
+			{
+				"timestamp": 1604330042947,
+				"votes": {
+					"one": 1503,
+					"two": 2208
+				}
+			},
+			{
+				"timestamp": 1604330102944,
+				"votes": {
+					"one": 1509,
+					"two": 2228
+				}
+			},
+			{
+				"timestamp": 1604330163006,
+				"votes": {
+					"one": 1509,
+					"two": 2228
+				}
+			},
+			{
+				"timestamp": 1604330222967,
+				"votes": {
+					"one": 1509,
+					"two": 2228
+				}
+			},
+			{
+				"timestamp": 1604330282975,
+				"votes": {
+					"one": 1509,
+					"two": 2228
+				}
+			},
+			{
+				"timestamp": 1604330342961,
+				"votes": {
+					"one": 1509,
+					"two": 2228
+				}
+			},
+			{
+				"timestamp": 1604330402988,
+				"votes": {
+					"one": 1509,
+					"two": 2228
+				}
+			},
+			{
+				"timestamp": 1604330463012,
+				"votes": {
+					"one": 1509,
+					"two": 2228
+				}
+			},
+			{
+				"timestamp": 1604330522945,
+				"votes": {
+					"one": 1509,
+					"two": 2228
+				}
+			},
+			{
+				"timestamp": 1604330582955,
+				"votes": {
+					"one": 1509,
+					"two": 2228
+				}
+			},
+			{
+				"timestamp": 1604330642999,
+				"votes": {
+					"one": 1509,
+					"two": 2228
+				}
+			},
+			{
+				"timestamp": 1604330702984,
+				"votes": {
+					"one": 1509,
+					"two": 2228
+				}
+			},
+			{
+				"timestamp": 1604330763011,
+				"votes": {
+					"one": 1521,
+					"two": 2249
+				}
+			},
+			{
+				"timestamp": 1604330822994,
+				"votes": {
+					"one": 1521,
+					"two": 2249
+				}
+			},
+			{
+				"timestamp": 1604330883012,
+				"votes": {
+					"one": 1521,
+					"two": 2249
+				}
+			},
+			{
+				"timestamp": 1604330942959,
+				"votes": {
+					"one": 1521,
+					"two": 2249
+				}
+			},
+			{
+				"timestamp": 1604331003067,
+				"votes": {
+					"one": 1521,
+					"two": 2249
+				}
+			},
+			{
+				"timestamp": 1604331062991,
+				"votes": {
+					"one": 1521,
+					"two": 2249
+				}
+			},
+			{
+				"timestamp": 1604331122971,
+				"votes": {
+					"one": 1521,
+					"two": 2249
+				}
+			},
+			{
+				"timestamp": 1604331182957,
+				"votes": {
+					"one": 1521,
+					"two": 2249
+				}
+			},
+			{
+				"timestamp": 1604331243223,
+				"votes": {
+					"one": 1521,
+					"two": 2249
+				}
+			},
+			{
+				"timestamp": 1604331302944,
+				"votes": {
+					"one": 1521,
+					"two": 2249
+				}
+			},
+			{
+				"timestamp": 1604331362928,
+				"votes": {
+					"one": 1521,
+					"two": 2249
+				}
+			},
+			{
+				"timestamp": 1604331422973,
+				"votes": {
+					"one": 1528,
+					"two": 2262
+				}
+			},
+			{
+				"timestamp": 1604331482950,
+				"votes": {
+					"one": 1528,
+					"two": 2262
+				}
+			},
+			{
+				"timestamp": 1604331543027,
+				"votes": {
+					"one": 1528,
+					"two": 2262
+				}
+			},
+			{
+				"timestamp": 1604331602935,
+				"votes": {
+					"one": 1528,
+					"two": 2262
+				}
+			},
+			{
+				"timestamp": 1604331662952,
+				"votes": {
+					"one": 1528,
+					"two": 2262
+				}
+			},
+			{
+				"timestamp": 1604331722940,
+				"votes": {
+					"one": 1528,
+					"two": 2262
+				}
+			},
+			{
+				"timestamp": 1604331782961,
+				"votes": {
+					"one": 1528,
+					"two": 2262
+				}
+			},
+			{
+				"timestamp": 1604331842960,
+				"votes": {
+					"one": 1528,
+					"two": 2262
+				}
+			},
+			{
+				"timestamp": 1604331903168,
+				"votes": {
+					"one": 1535,
+					"two": 2273
+				}
+			},
+			{
+				"timestamp": 1604331962999,
+				"votes": {
+					"one": 1535,
+					"two": 2273
+				}
+			},
+			{
+				"timestamp": 1604332023110,
+				"votes": {
+					"one": 1535,
+					"two": 2273
+				}
+			},
+			{
+				"timestamp": 1604332082987,
+				"votes": {
+					"one": 1535,
+					"two": 2273
+				}
+			},
+			{
+				"timestamp": 1604332142985,
+				"votes": {
+					"one": 1535,
+					"two": 2273
+				}
+			},
+			{
+				"timestamp": 1604332202985,
+				"votes": {
+					"one": 1535,
+					"two": 2273
+				}
+			},
+			{
+				"timestamp": 1604332262969,
+				"votes": {
+					"one": 1535,
+					"two": 2273
+				}
+			},
+			{
+				"timestamp": 1604332322962,
+				"votes": {
+					"one": 1535,
+					"two": 2273
+				}
+			},
+			{
+				"timestamp": 1604332382978,
+				"votes": {
+					"one": 1535,
+					"two": 2273
+				}
+			},
+			{
+				"timestamp": 1604332442945,
+				"votes": {
+					"one": 1535,
+					"two": 2273
+				}
+			},
+			{
+				"timestamp": 1604332503017,
+				"votes": {
+					"one": 1540,
+					"two": 2279
+				}
+			},
+			{
+				"timestamp": 1604332562961,
+				"votes": {
+					"one": 1535,
+					"two": 2273
+				}
+			},
+			{
+				"timestamp": 1604332622952,
+				"votes": {
+					"one": 1540,
+					"two": 2279
+				}
+			},
+			{
+				"timestamp": 1604332683099,
+				"votes": {
+					"one": 1540,
+					"two": 2279
+				}
+			},
+			{
+				"timestamp": 1604332742949,
+				"votes": {
+					"one": 1540,
+					"two": 2279
+				}
+			},
+			{
+				"timestamp": 1604332802949,
+				"votes": {
+					"one": 1540,
+					"two": 2279
+				}
+			},
+			{
+				"timestamp": 1604332862988,
+				"votes": {
+					"one": 1540,
+					"two": 2279
+				}
+			},
+			{
+				"timestamp": 1604332922976,
+				"votes": {
+					"one": 1540,
+					"two": 2279
+				}
+			},
+			{
+				"timestamp": 1604332982966,
+				"votes": {
+					"one": 1540,
+					"two": 2279
+				}
+			},
+			{
+				"timestamp": 1604333042954,
+				"votes": {
+					"one": 1540,
+					"two": 2279
+				}
+			},
+			{
+				"timestamp": 1604333102959,
+				"votes": {
+					"one": 1546,
+					"two": 2294
+				}
+			},
+			{
+				"timestamp": 1604333162970,
+				"votes": {
+					"one": 1546,
+					"two": 2294
+				}
+			},
+			{
+				"timestamp": 1604333222952,
+				"votes": {
+					"one": 1546,
+					"two": 2294
+				}
+			},
+			{
+				"timestamp": 1604333283002,
+				"votes": {
+					"one": 1546,
+					"two": 2294
+				}
+			},
+			{
+				"timestamp": 1604333342988,
+				"votes": {
+					"one": 1546,
+					"two": 2294
+				}
+			},
+			{
+				"timestamp": 1604333402964,
+				"votes": {
+					"one": 1546,
+					"two": 2294
+				}
+			},
+			{
+				"timestamp": 1604333462935,
+				"votes": {
+					"one": 1546,
+					"two": 2294
+				}
+			},
+			{
+				"timestamp": 1604333522985,
+				"votes": {
+					"one": 1546,
+					"two": 2294
+				}
+			},
+			{
+				"timestamp": 1604333582997,
+				"votes": {
+					"one": 1546,
+					"two": 2294
+				}
+			},
+			{
+				"timestamp": 1604333643017,
+				"votes": {
+					"one": 1546,
+					"two": 2294
+				}
+			},
+			{
+				"timestamp": 1604333703252,
+				"votes": {
+					"one": 1555,
+					"two": 2309
+				}
+			},
+			{
+				"timestamp": 1604333762938,
+				"votes": {
+					"one": 1555,
+					"two": 2309
+				}
+			},
+			{
+				"timestamp": 1604333822943,
+				"votes": {
+					"one": 1555,
+					"two": 2309
+				}
+			},
+			{
+				"timestamp": 1604333882953,
+				"votes": {
+					"one": 1555,
+					"two": 2309
+				}
+			},
+			{
+				"timestamp": 1604333943005,
+				"votes": {
+					"one": 1555,
+					"two": 2309
+				}
+			},
+			{
+				"timestamp": 1604334003020,
+				"votes": {
+					"one": 1555,
+					"two": 2309
+				}
+			},
+			{
+				"timestamp": 1604334063013,
+				"votes": {
+					"one": 1555,
+					"two": 2309
+				}
+			},
+			{
+				"timestamp": 1604334123027,
+				"votes": {
+					"one": 1555,
+					"two": 2309
+				}
+			},
+			{
+				"timestamp": 1604334182960,
+				"votes": {
+					"one": 1555,
+					"two": 2309
+				}
+			},
+			{
+				"timestamp": 1604334243046,
+				"votes": {
+					"one": 1555,
+					"two": 2309
+				}
+			},
+			{
+				"timestamp": 1604334302976,
+				"votes": {
+					"one": 1555,
+					"two": 2309
+				}
+			},
+			{
+				"timestamp": 1604334362976,
+				"votes": {
+					"one": 1564,
+					"two": 2323
+				}
+			},
+			{
+				"timestamp": 1604334422997,
+				"votes": {
+					"one": 1564,
+					"two": 2323
+				}
+			},
+			{
+				"timestamp": 1604334483011,
+				"votes": {
+					"one": 1564,
+					"two": 2323
+				}
+			},
+			{
+				"timestamp": 1604334542956,
+				"votes": {
+					"one": 1564,
+					"two": 2323
+				}
+			},
+			{
+				"timestamp": 1604334603391,
+				"votes": {
+					"one": 1564,
+					"two": 2323
+				}
+			},
+			{
+				"timestamp": 1604334662990,
+				"votes": {
+					"one": 1564,
+					"two": 2323
+				}
+			},
+			{
+				"timestamp": 1604334722990,
+				"votes": {
+					"one": 1564,
+					"two": 2323
+				}
+			},
+			{
+				"timestamp": 1604334782945,
+				"votes": {
+					"one": 1564,
+					"two": 2323
+				}
+			},
+			{
+				"timestamp": 1604334842970,
+				"votes": {
+					"one": 1564,
+					"two": 2323
+				}
+			},
+			{
+				"timestamp": 1604334902975,
+				"votes": {
+					"one": 1569,
+					"two": 2330
+				}
+			},
+			{
+				"timestamp": 1604334962997,
+				"votes": {
+					"one": 1569,
+					"two": 2330
+				}
+			},
+			{
+				"timestamp": 1604335022967,
+				"votes": {
+					"one": 1569,
+					"two": 2330
+				}
+			},
+			{
+				"timestamp": 1604335083000,
+				"votes": {
+					"one": 1569,
+					"two": 2330
+				}
+			},
+			{
+				"timestamp": 1604335143015,
+				"votes": {
+					"one": 1569,
+					"two": 2330
+				}
+			},
+			{
+				"timestamp": 1604335203060,
+				"votes": {
+					"one": 1569,
+					"two": 2330
+				}
+			},
+			{
+				"timestamp": 1604335262980,
+				"votes": {
+					"one": 1569,
+					"two": 2330
+				}
+			},
+			{
+				"timestamp": 1604335322975,
+				"votes": {
+					"one": 1569,
+					"two": 2330
+				}
+			},
+			{
+				"timestamp": 1604335383010,
+				"votes": {
+					"one": 1569,
+					"two": 2330
+				}
+			},
+			{
+				"timestamp": 1604335442950,
+				"votes": {
+					"one": 1569,
+					"two": 2330
+				}
+			},
+			{
+				"timestamp": 1604335502964,
+				"votes": {
+					"one": 1581,
+					"two": 2346
+				}
+			},
+			{
+				"timestamp": 1604335562993,
+				"votes": {
+					"one": 1581,
+					"two": 2346
+				}
+			},
+			{
+				"timestamp": 1604335622996,
+				"votes": {
+					"one": 1581,
+					"two": 2346
+				}
+			},
+			{
+				"timestamp": 1604335683050,
+				"votes": {
+					"one": 1581,
+					"two": 2346
+				}
+			},
+			{
+				"timestamp": 1604335742992,
+				"votes": {
+					"one": 1581,
+					"two": 2346
+				}
+			},
+			{
+				"timestamp": 1604335803006,
+				"votes": {
+					"one": 1581,
+					"two": 2346
+				}
+			},
+			{
+				"timestamp": 1604335862958,
+				"votes": {
+					"one": 1581,
+					"two": 2346
+				}
+			},
+			{
+				"timestamp": 1604335922970,
+				"votes": {
+					"one": 1581,
+					"two": 2346
+				}
+			},
+			{
+				"timestamp": 1604335983013,
+				"votes": {
+					"one": 1581,
+					"two": 2346
+				}
+			},
+			{
+				"timestamp": 1604336042965,
+				"votes": {
+					"one": 1581,
+					"two": 2346
+				}
+			},
+			{
+				"timestamp": 1604336102982,
+				"votes": {
+					"one": 1586,
+					"two": 2364
+				}
+			},
+			{
+				"timestamp": 1604336162988,
+				"votes": {
+					"one": 1586,
+					"two": 2364
+				}
+			},
+			{
+				"timestamp": 1604336222987,
+				"votes": {
+					"one": 1586,
+					"two": 2364
+				}
+			},
+			{
+				"timestamp": 1604336282989,
+				"votes": {
+					"one": 1586,
+					"two": 2364
+				}
+			},
+			{
+				"timestamp": 1604336342994,
+				"votes": {
+					"one": 1586,
+					"two": 2364
+				}
+			},
+			{
+				"timestamp": 1604336402990,
+				"votes": {
+					"one": 1586,
+					"two": 2364
+				}
+			},
+			{
+				"timestamp": 1604336463018,
+				"votes": {
+					"one": 1586,
+					"two": 2364
+				}
+			},
+			{
+				"timestamp": 1604336523010,
+				"votes": {
+					"one": 1586,
+					"two": 2364
+				}
+			},
+			{
+				"timestamp": 1604336582965,
+				"votes": {
+					"one": 1586,
+					"two": 2364
+				}
+			},
+			{
+				"timestamp": 1604336642990,
+				"votes": {
+					"one": 1586,
+					"two": 2364
+				}
+			},
+			{
+				"timestamp": 1604336702995,
+				"votes": {
+					"one": 1596,
+					"two": 2371
+				}
+			},
+			{
+				"timestamp": 1604336762986,
+				"votes": {
+					"one": 1596,
+					"two": 2371
+				}
+			},
+			{
+				"timestamp": 1604336823041,
+				"votes": {
+					"one": 1596,
+					"two": 2371
+				}
+			},
+			{
+				"timestamp": 1604336883011,
+				"votes": {
+					"one": 1596,
+					"two": 2371
+				}
+			},
+			{
+				"timestamp": 1604336943039,
+				"votes": {
+					"one": 1596,
+					"two": 2371
+				}
+			},
+			{
+				"timestamp": 1604337002979,
+				"votes": {
+					"one": 1596,
+					"two": 2371
+				}
+			},
+			{
+				"timestamp": 1604337063037,
+				"votes": {
+					"one": 1596,
+					"two": 2371
+				}
+			},
+			{
+				"timestamp": 1604337123014,
+				"votes": {
+					"one": 1596,
+					"two": 2371
+				}
+			},
+			{
+				"timestamp": 1604337183026,
+				"votes": {
+					"one": 1596,
+					"two": 2371
+				}
+			},
+			{
+				"timestamp": 1604337243002,
+				"votes": {
+					"one": 1596,
+					"two": 2371
+				}
+			},
+			{
+				"timestamp": 1604337302997,
+				"votes": {
+					"one": 1596,
+					"two": 2371
+				}
+			},
+			{
+				"timestamp": 1604337363278,
+				"votes": {
+					"one": 1604,
+					"two": 2381
+				}
+			},
+			{
+				"timestamp": 1604337423065,
+				"votes": {
+					"one": 1596,
+					"two": 2371
+				}
+			},
+			{
+				"timestamp": 1604337483041,
+				"votes": {
+					"one": 1604,
+					"two": 2381
+				}
+			},
+			{
+				"timestamp": 1604337543008,
+				"votes": {
+					"one": 1604,
+					"two": 2381
+				}
+			},
+			{
+				"timestamp": 1604337603017,
+				"votes": {
+					"one": 1604,
+					"two": 2381
+				}
+			},
+			{
+				"timestamp": 1604337663028,
+				"votes": {
+					"one": 1604,
+					"two": 2381
+				}
+			},
+			{
+				"timestamp": 1604337723023,
+				"votes": {
+					"one": 1604,
+					"two": 2381
+				}
+			},
+			{
+				"timestamp": 1604337783013,
+				"votes": {
+					"one": 1604,
+					"two": 2381
+				}
+			},
+			{
+				"timestamp": 1604337843009,
+				"votes": {
+					"one": 1604,
+					"two": 2381
+				}
+			},
+			{
+				"timestamp": 1604337903000,
+				"votes": {
+					"one": 1604,
+					"two": 2381
+				}
+			},
+			{
+				"timestamp": 1604337962988,
+				"votes": {
+					"one": 1647,
+					"two": 2440
+				}
+			},
+			{
+				"timestamp": 1604338022993,
+				"votes": {
+					"one": 1647,
+					"two": 2440
+				}
+			},
+			{
+				"timestamp": 1604338083028,
+				"votes": {
+					"one": 1647,
+					"two": 2440
+				}
+			},
+			{
+				"timestamp": 1604338143044,
+				"votes": {
+					"one": 1647,
+					"two": 2440
+				}
+			},
+			{
+				"timestamp": 1604338203007,
+				"votes": {
+					"one": 1647,
+					"two": 2440
+				}
+			},
+			{
+				"timestamp": 1604338263001,
+				"votes": {
+					"one": 1647,
+					"two": 2440
+				}
+			},
+			{
+				"timestamp": 1604338323012,
+				"votes": {
+					"one": 1647,
+					"two": 2440
+				}
+			},
+			{
+				"timestamp": 1604338382997,
+				"votes": {
+					"one": 1647,
+					"two": 2440
+				}
+			},
+			{
+				"timestamp": 1604338442992,
+				"votes": {
+					"one": 1647,
+					"two": 2440
+				}
+			},
+			{
+				"timestamp": 1604338503120,
+				"votes": {
+					"one": 1647,
+					"two": 2440
+				}
+			},
+			{
+				"timestamp": 1604338563026,
+				"votes": {
+					"one": 1676,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604338623019,
+				"votes": {
+					"one": 1676,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604338682996,
+				"votes": {
+					"one": 1676,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604338742996,
+				"votes": {
+					"one": 1676,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604338803018,
+				"votes": {
+					"one": 1676,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604338862983,
+				"votes": {
+					"one": 1676,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604338922979,
+				"votes": {
+					"one": 1676,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604338983021,
+				"votes": {
+					"one": 1676,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604339042981,
+				"votes": {
+					"one": 1676,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604339102994,
+				"votes": {
+					"one": 1676,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604339163055,
+				"votes": {
+					"one": 1676,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604339223001,
+				"votes": {
+					"one": 1696,
+					"two": 2505
+				}
+			},
+			{
+				"timestamp": 1604339282973,
+				"votes": {
+					"one": 1696,
+					"two": 2505
+				}
+			},
+			{
+				"timestamp": 1604339343035,
+				"votes": {
+					"one": 1696,
+					"two": 2505
+				}
+			},
+			{
+				"timestamp": 1604339402989,
+				"votes": {
+					"one": 1696,
+					"two": 2505
+				}
+			},
+			{
+				"timestamp": 1604339463012,
+				"votes": {
+					"one": 1696,
+					"two": 2505
+				}
+			},
+			{
+				"timestamp": 1604339523009,
+				"votes": {
+					"one": 1696,
+					"two": 2505
+				}
+			},
+			{
+				"timestamp": 1604339583032,
+				"votes": {
+					"one": 1696,
+					"two": 2505
+				}
+			},
+			{
+				"timestamp": 1604339642985,
+				"votes": {
+					"one": 1696,
+					"two": 2505
+				}
+			},
+			{
+				"timestamp": 1604339703006,
+				"votes": {
+					"one": 1696,
+					"two": 2505
+				}
+			},
+			{
+				"timestamp": 1604339763016,
+				"votes": {
+					"one": 1696,
+					"two": 2505
+				}
+			},
+			{
+				"timestamp": 1604339822994,
+				"votes": {
+					"one": 1696,
+					"two": 2505
+				}
+			},
+			{
+				"timestamp": 1604339883015,
+				"votes": {
+					"one": 1706,
+					"two": 2525
+				}
+			},
+			{
+				"timestamp": 1604339942991,
+				"votes": {
+					"one": 1706,
+					"two": 2525
+				}
+			},
+			{
+				"timestamp": 1604340003062,
+				"votes": {
+					"one": 1706,
+					"two": 2525
+				}
+			},
+			{
+				"timestamp": 1604340063060,
+				"votes": {
+					"one": 1706,
+					"two": 2525
+				}
+			},
+			{
+				"timestamp": 1604340123031,
+				"votes": {
+					"one": 1706,
+					"two": 2525
+				}
+			},
+			{
+				"timestamp": 1604340183081,
+				"votes": {
+					"one": 1706,
+					"two": 2525
+				}
+			},
+			{
+				"timestamp": 1604340243015,
+				"votes": {
+					"one": 1706,
+					"two": 2525
+				}
+			},
+			{
+				"timestamp": 1604340303020,
+				"votes": {
+					"one": 1706,
+					"two": 2525
+				}
+			},
+			{
+				"timestamp": 1604340363007,
+				"votes": {
+					"one": 1716,
+					"two": 2549
+				}
+			},
+			{
+				"timestamp": 1604340423006,
+				"votes": {
+					"one": 1716,
+					"two": 2549
+				}
+			},
+			{
+				"timestamp": 1604340483045,
+				"votes": {
+					"one": 1716,
+					"two": 2549
+				}
+			},
+			{
+				"timestamp": 1604340542980,
+				"votes": {
+					"one": 1716,
+					"two": 2549
+				}
+			},
+			{
+				"timestamp": 1604340603027,
+				"votes": {
+					"one": 1716,
+					"two": 2549
+				}
+			},
+			{
+				"timestamp": 1604340662987,
+				"votes": {
+					"one": 1716,
+					"two": 2549
+				}
+			},
+			{
+				"timestamp": 1604340723015,
+				"votes": {
+					"one": 1716,
+					"two": 2549
+				}
+			},
+			{
+				"timestamp": 1604340783026,
+				"votes": {
+					"one": 1716,
+					"two": 2549
+				}
+			},
+			{
+				"timestamp": 1604340843013,
+				"votes": {
+					"one": 1716,
+					"two": 2549
+				}
+			},
+			{
+				"timestamp": 1604340903037,
+				"votes": {
+					"one": 1716,
+					"two": 2549
+				}
+			},
+			{
+				"timestamp": 1604340962999,
+				"votes": {
+					"one": 1724,
+					"two": 2564
+				}
+			},
+			{
+				"timestamp": 1604341023010,
+				"votes": {
+					"one": 1724,
+					"two": 2564
+				}
+			},
+			{
+				"timestamp": 1604341083048,
+				"votes": {
+					"one": 1724,
+					"two": 2564
+				}
+			},
+			{
+				"timestamp": 1604341143002,
+				"votes": {
+					"one": 1724,
+					"two": 2564
+				}
+			},
+			{
+				"timestamp": 1604341203046,
+				"votes": {
+					"one": 1724,
+					"two": 2564
+				}
+			},
+			{
+				"timestamp": 1604341263013,
+				"votes": {
+					"one": 1724,
+					"two": 2564
+				}
+			},
+			{
+				"timestamp": 1604341323018,
+				"votes": {
+					"one": 1724,
+					"two": 2564
+				}
+			},
+			{
+				"timestamp": 1604341383001,
+				"votes": {
+					"one": 1724,
+					"two": 2564
+				}
+			},
+			{
+				"timestamp": 1604341443024,
+				"votes": {
+					"one": 1724,
+					"two": 2564
+				}
+			},
+			{
+				"timestamp": 1604341503054,
+				"votes": {
+					"one": 1724,
+					"two": 2564
+				}
+			},
+			{
+				"timestamp": 1604341562999,
+				"votes": {
+					"one": 1735,
+					"two": 2578
+				}
+			},
+			{
+				"timestamp": 1604341623039,
+				"votes": {
+					"one": 1735,
+					"two": 2578
+				}
+			},
+			{
+				"timestamp": 1604341683018,
+				"votes": {
+					"one": 1735,
+					"two": 2578
+				}
+			},
+			{
+				"timestamp": 1604341743016,
+				"votes": {
+					"one": 1735,
+					"two": 2578
+				}
+			},
+			{
+				"timestamp": 1604341803044,
+				"votes": {
+					"one": 1735,
+					"two": 2578
+				}
+			},
+			{
+				"timestamp": 1604341863084,
+				"votes": {
+					"one": 1735,
+					"two": 2578
+				}
+			},
+			{
+				"timestamp": 1604341923022,
+				"votes": {
+					"one": 1735,
+					"two": 2578
+				}
+			},
+			{
+				"timestamp": 1604341983062,
+				"votes": {
+					"one": 1735,
+					"two": 2578
+				}
+			},
+			{
+				"timestamp": 1604342043009,
+				"votes": {
+					"one": 1735,
+					"two": 2578
+				}
+			},
+			{
+				"timestamp": 1604342103000,
+				"votes": {
+					"one": 1735,
+					"two": 2578
+				}
+			},
+			{
+				"timestamp": 1604342163005,
+				"votes": {
+					"one": 1745,
+					"two": 2595
+				}
+			},
+			{
+				"timestamp": 1604342223095,
+				"votes": {
+					"one": 1745,
+					"two": 2595
+				}
+			},
+			{
+				"timestamp": 1604342283009,
+				"votes": {
+					"one": 1745,
+					"two": 2595
+				}
+			},
+			{
+				"timestamp": 1604342343055,
+				"votes": {
+					"one": 1745,
+					"two": 2595
+				}
+			},
+			{
+				"timestamp": 1604342403009,
+				"votes": {
+					"one": 1745,
+					"two": 2595
+				}
+			},
+			{
+				"timestamp": 1604342463001,
+				"votes": {
+					"one": 1745,
+					"two": 2595
+				}
+			},
+			{
+				"timestamp": 1604342523001,
+				"votes": {
+					"one": 1745,
+					"two": 2595
+				}
+			},
+			{
+				"timestamp": 1604342583056,
+				"votes": {
+					"one": 1745,
+					"two": 2595
+				}
+			},
+			{
+				"timestamp": 1604342643014,
+				"votes": {
+					"one": 1745,
+					"two": 2595
+				}
+			},
+			{
+				"timestamp": 1604342703007,
+				"votes": {
+					"one": 1745,
+					"two": 2595
+				}
+			},
+			{
+				"timestamp": 1604342763035,
+				"votes": {
+					"one": 1752,
+					"two": 2611
+				}
+			},
+			{
+				"timestamp": 1604342823218,
+				"votes": {
+					"one": 1752,
+					"two": 2611
+				}
+			},
+			{
+				"timestamp": 1604342883064,
+				"votes": {
+					"one": 1752,
+					"two": 2611
+				}
+			},
+			{
+				"timestamp": 1604342943020,
+				"votes": {
+					"one": 1752,
+					"two": 2611
+				}
+			},
+			{
+				"timestamp": 1604343003001,
+				"votes": {
+					"one": 1752,
+					"two": 2611
+				}
+			},
+			{
+				"timestamp": 1604343063065,
+				"votes": {
+					"one": 1752,
+					"two": 2611
+				}
+			},
+			{
+				"timestamp": 1604343122997,
+				"votes": {
+					"one": 1752,
+					"two": 2611
+				}
+			},
+			{
+				"timestamp": 1604343428064,
+				"votes": {
+					"one": 1765,
+					"two": 2624
+				}
+			},
+			{
+				"timestamp": 1604343603089,
+				"votes": {
+					"one": 1765,
+					"two": 2624
+				}
+			},
+			{
+				"timestamp": 1604343663022,
+				"votes": {
+					"one": 1765,
+					"two": 2624
+				}
+			},
+			{
+				"timestamp": 1604343723061,
+				"votes": {
+					"one": 1765,
+					"two": 2624
+				}
+			},
+			{
+				"timestamp": 1604343783055,
+				"votes": {
+					"one": 1765,
+					"two": 2624
+				}
+			},
+			{
+				"timestamp": 1604343843097,
+				"votes": {
+					"one": 1765,
+					"two": 2624
+				}
+			},
+			{
+				"timestamp": 1604343903030,
+				"votes": {
+					"one": 1765,
+					"two": 2624
+				}
+			},
+			{
+				"timestamp": 1604343963101,
+				"votes": {
+					"one": 1765,
+					"two": 2624
+				}
+			},
+			{
+				"timestamp": 1604344023030,
+				"votes": {
+					"one": 1777,
+					"two": 2635
+				}
+			},
+			{
+				"timestamp": 1604344082991,
+				"votes": {
+					"one": 1777,
+					"two": 2635
+				}
+			},
+			{
+				"timestamp": 1604344143012,
+				"votes": {
+					"one": 1777,
+					"two": 2635
+				}
+			},
+			{
+				"timestamp": 1604344203045,
+				"votes": {
+					"one": 1777,
+					"two": 2635
+				}
+			},
+			{
+				"timestamp": 1604344263010,
+				"votes": {
+					"one": 1777,
+					"two": 2635
+				}
+			},
+			{
+				"timestamp": 1604344323175,
+				"votes": {
+					"one": 1777,
+					"two": 2635
+				}
+			},
+			{
+				"timestamp": 1604344383005,
+				"votes": {
+					"one": 1777,
+					"two": 2635
+				}
+			},
+			{
+				"timestamp": 1604344443244,
+				"votes": {
+					"one": 1777,
+					"two": 2635
+				}
+			},
+			{
+				"timestamp": 1604344503007,
+				"votes": {
+					"one": 1777,
+					"two": 2635
+				}
+			},
+			{
+				"timestamp": 1604344563041,
+				"votes": {
+					"one": 1781,
+					"two": 2645
+				}
+			},
+			{
+				"timestamp": 1604344623324,
+				"votes": {
+					"one": 1777,
+					"two": 2635
+				}
+			},
+			{
+				"timestamp": 1604344683018,
+				"votes": {
+					"one": 1781,
+					"two": 2645
+				}
+			},
+			{
+				"timestamp": 1604344743039,
+				"votes": {
+					"one": 1781,
+					"two": 2645
+				}
+			},
+			{
+				"timestamp": 1604344803063,
+				"votes": {
+					"one": 1781,
+					"two": 2645
+				}
+			},
+			{
+				"timestamp": 1604344863034,
+				"votes": {
+					"one": 1781,
+					"two": 2645
+				}
+			},
+			{
+				"timestamp": 1604344923064,
+				"votes": {
+					"one": 1781,
+					"two": 2645
+				}
+			},
+			{
+				"timestamp": 1604344983011,
+				"votes": {
+					"one": 1781,
+					"two": 2645
+				}
+			},
+			{
+				"timestamp": 1604345043037,
+				"votes": {
+					"one": 1781,
+					"two": 2645
+				}
+			},
+			{
+				"timestamp": 1604345103022,
+				"votes": {
+					"one": 1781,
+					"two": 2645
+				}
+			},
+			{
+				"timestamp": 1604345163019,
+				"votes": {
+					"one": 1781,
+					"two": 2645
+				}
+			},
+			{
+				"timestamp": 1604345223146,
+				"votes": {
+					"one": 1783,
+					"two": 2653
+				}
+			},
+			{
+				"timestamp": 1604345283043,
+				"votes": {
+					"one": 1783,
+					"two": 2653
+				}
+			},
+			{
+				"timestamp": 1604345343029,
+				"votes": {
+					"one": 1783,
+					"two": 2653
+				}
+			},
+			{
+				"timestamp": 1604345403042,
+				"votes": {
+					"one": 1783,
+					"two": 2653
+				}
+			},
+			{
+				"timestamp": 1604345463038,
+				"votes": {
+					"one": 1783,
+					"two": 2653
+				}
+			},
+			{
+				"timestamp": 1604345523003,
+				"votes": {
+					"one": 1783,
+					"two": 2653
+				}
+			},
+			{
+				"timestamp": 1604345583034,
+				"votes": {
+					"one": 1783,
+					"two": 2653
+				}
+			},
+			{
+				"timestamp": 1604345643045,
+				"votes": {
+					"one": 1783,
+					"two": 2653
+				}
+			},
+			{
+				"timestamp": 1604345703053,
+				"votes": {
+					"one": 1783,
+					"two": 2653
+				}
+			},
+			{
+				"timestamp": 1604345763015,
+				"votes": {
+					"one": 1783,
+					"two": 2653
+				}
+			},
+			{
+				"timestamp": 1604345823035,
+				"votes": {
+					"one": 1783,
+					"two": 2653
+				}
+			},
+			{
+				"timestamp": 1604345883046,
+				"votes": {
+					"one": 1789,
+					"two": 2658
+				}
+			},
+			{
+				"timestamp": 1604345943058,
+				"votes": {
+					"one": 1789,
+					"two": 2658
+				}
+			},
+			{
+				"timestamp": 1604346003045,
+				"votes": {
+					"one": 1789,
+					"two": 2658
+				}
+			},
+			{
+				"timestamp": 1604346063040,
+				"votes": {
+					"one": 1789,
+					"two": 2658
+				}
+			},
+			{
+				"timestamp": 1604346123079,
+				"votes": {
+					"one": 1789,
+					"two": 2658
+				}
+			},
+			{
+				"timestamp": 1604346183047,
+				"votes": {
+					"one": 1789,
+					"two": 2658
+				}
+			},
+			{
+				"timestamp": 1604346243036,
+				"votes": {
+					"one": 1789,
+					"two": 2658
+				}
+			},
+			{
+				"timestamp": 1604346303023,
+				"votes": {
+					"one": 1789,
+					"two": 2658
+				}
+			},
+			{
+				"timestamp": 1604346363012,
+				"votes": {
+					"one": 1795,
+					"two": 2663
+				}
+			},
+			{
+				"timestamp": 1604346423144,
+				"votes": {
+					"one": 1795,
+					"two": 2663
+				}
+			},
+			{
+				"timestamp": 1604346483176,
+				"votes": {
+					"one": 1795,
+					"two": 2663
+				}
+			},
+			{
+				"timestamp": 1604346543034,
+				"votes": {
+					"one": 1795,
+					"two": 2663
+				}
+			},
+			{
+				"timestamp": 1604346603011,
+				"votes": {
+					"one": 1795,
+					"two": 2663
+				}
+			},
+			{
+				"timestamp": 1604346663028,
+				"votes": {
+					"one": 1795,
+					"two": 2663
+				}
+			},
+			{
+				"timestamp": 1604346723062,
+				"votes": {
+					"one": 1795,
+					"two": 2663
+				}
+			},
+			{
+				"timestamp": 1604346783050,
+				"votes": {
+					"one": 1795,
+					"two": 2663
+				}
+			},
+			{
+				"timestamp": 1604346843033,
+				"votes": {
+					"one": 1795,
+					"two": 2663
+				}
+			},
+			{
+				"timestamp": 1604346903139,
+				"votes": {
+					"one": 1795,
+					"two": 2663
+				}
+			},
+			{
+				"timestamp": 1604346963073,
+				"votes": {
+					"one": 1800,
+					"two": 2674
+				}
+			},
+			{
+				"timestamp": 1604347023077,
+				"votes": {
+					"one": 1800,
+					"two": 2674
+				}
+			},
+			{
+				"timestamp": 1604347083024,
+				"votes": {
+					"one": 1800,
+					"two": 2674
+				}
+			},
+			{
+				"timestamp": 1604347143025,
+				"votes": {
+					"one": 1800,
+					"two": 2674
+				}
+			},
+			{
+				"timestamp": 1604347203079,
+				"votes": {
+					"one": 1800,
+					"two": 2674
+				}
+			},
+			{
+				"timestamp": 1604347263107,
+				"votes": {
+					"one": 1800,
+					"two": 2674
+				}
+			},
+			{
+				"timestamp": 1604347323017,
+				"votes": {
+					"one": 1800,
+					"two": 2674
+				}
+			},
+			{
+				"timestamp": 1604347383054,
+				"votes": {
+					"one": 1800,
+					"two": 2674
+				}
+			},
+			{
+				"timestamp": 1604347443021,
+				"votes": {
+					"one": 1800,
+					"two": 2674
+				}
+			},
+			{
+				"timestamp": 1604347503197,
+				"votes": {
+					"one": 1800,
+					"two": 2674
+				}
+			},
+			{
+				"timestamp": 1604347563082,
+				"votes": {
+					"one": 1804,
+					"two": 2683
+				}
+			},
+			{
+				"timestamp": 1604347623103,
+				"votes": {
+					"one": 1804,
+					"two": 2683
+				}
+			},
+			{
+				"timestamp": 1604347683040,
+				"votes": {
+					"one": 1804,
+					"two": 2683
+				}
+			},
+			{
+				"timestamp": 1604347743154,
+				"votes": {
+					"one": 1804,
+					"two": 2683
+				}
+			},
+			{
+				"timestamp": 1604347803048,
+				"votes": {
+					"one": 1804,
+					"two": 2683
+				}
+			},
+			{
+				"timestamp": 1604347863038,
+				"votes": {
+					"one": 1804,
+					"two": 2683
+				}
+			},
+			{
+				"timestamp": 1604347923026,
+				"votes": {
+					"one": 1804,
+					"two": 2683
+				}
+			},
+			{
+				"timestamp": 1604347983065,
+				"votes": {
+					"one": 1804,
+					"two": 2683
+				}
+			},
+			{
+				"timestamp": 1604348043057,
+				"votes": {
+					"one": 1804,
+					"two": 2683
+				}
+			},
+			{
+				"timestamp": 1604348103097,
+				"votes": {
+					"one": 1804,
+					"two": 2683
+				}
+			},
+			{
+				"timestamp": 1604348163075,
+				"votes": {
+					"one": 1804,
+					"two": 2683
+				}
+			},
+			{
+				"timestamp": 1604348223046,
+				"votes": {
+					"one": 1810,
+					"two": 2694
+				}
+			},
+			{
+				"timestamp": 1604348283058,
+				"votes": {
+					"one": 1810,
+					"two": 2694
+				}
+			},
+			{
+				"timestamp": 1604348343090,
+				"votes": {
+					"one": 1810,
+					"two": 2694
+				}
+			},
+			{
+				"timestamp": 1604348403030,
+				"votes": {
+					"one": 1810,
+					"two": 2694
+				}
+			},
+			{
+				"timestamp": 1604348463380,
+				"votes": {
+					"one": 1810,
+					"two": 2694
+				}
+			},
+			{
+				"timestamp": 1604348523065,
+				"votes": {
+					"one": 1810,
+					"two": 2694
+				}
+			},
+			{
+				"timestamp": 1604348583048,
+				"votes": {
+					"one": 1810,
+					"two": 2694
+				}
+			},
+			{
+				"timestamp": 1604348643018,
+				"votes": {
+					"one": 1810,
+					"two": 2694
+				}
+			},
+			{
+				"timestamp": 1604348703043,
+				"votes": {
+					"one": 1810,
+					"two": 2694
+				}
+			},
+			{
+				"timestamp": 1604348763029,
+				"votes": {
+					"one": 1814,
+					"two": 2703
+				}
+			},
+			{
+				"timestamp": 1604348823067,
+				"votes": {
+					"one": 1814,
+					"two": 2703
+				}
+			},
+			{
+				"timestamp": 1604348883060,
+				"votes": {
+					"one": 1814,
+					"two": 2703
+				}
+			},
+			{
+				"timestamp": 1604348943034,
+				"votes": {
+					"one": 1814,
+					"two": 2703
+				}
+			},
+			{
+				"timestamp": 1604349003058,
+				"votes": {
+					"one": 1814,
+					"two": 2703
+				}
+			},
+			{
+				"timestamp": 1604349063027,
+				"votes": {
+					"one": 1814,
+					"two": 2703
+				}
+			},
+			{
+				"timestamp": 1604349123177,
+				"votes": {
+					"one": 1814,
+					"two": 2703
+				}
+			},
+			{
+				"timestamp": 1604349183063,
+				"votes": {
+					"one": 1814,
+					"two": 2703
+				}
+			},
+			{
+				"timestamp": 1604349243041,
+				"votes": {
+					"one": 1814,
+					"two": 2703
+				}
+			},
+			{
+				"timestamp": 1604349303065,
+				"votes": {
+					"one": 1814,
+					"two": 2703
+				}
+			},
+			{
+				"timestamp": 1604349363055,
+				"votes": {
+					"one": 1814,
+					"two": 2703
+				}
+			},
+			{
+				"timestamp": 1604349423063,
+				"votes": {
+					"one": 1821,
+					"two": 2709
+				}
+			},
+			{
+				"timestamp": 1604349483055,
+				"votes": {
+					"one": 1821,
+					"two": 2709
+				}
+			},
+			{
+				"timestamp": 1604349543036,
+				"votes": {
+					"one": 1821,
+					"two": 2709
+				}
+			},
+			{
+				"timestamp": 1604349603030,
+				"votes": {
+					"one": 1821,
+					"two": 2709
+				}
+			},
+			{
+				"timestamp": 1604349663054,
+				"votes": {
+					"one": 1821,
+					"two": 2709
+				}
+			},
+			{
+				"timestamp": 1604349723034,
+				"votes": {
+					"one": 1821,
+					"two": 2709
+				}
+			},
+			{
+				"timestamp": 1604349783106,
+				"votes": {
+					"one": 1821,
+					"two": 2709
+				}
+			},
+			{
+				"timestamp": 1604349843036,
+				"votes": {
+					"one": 1821,
+					"two": 2709
+				}
+			},
+			{
+				"timestamp": 1604349903036,
+				"votes": {
+					"one": 1821,
+					"two": 2709
+				}
+			},
+			{
+				"timestamp": 1604349963043,
+				"votes": {
+					"one": 1821,
+					"two": 2709
+				}
+			},
+			{
+				"timestamp": 1604350023035,
+				"votes": {
+					"one": 1826,
+					"two": 2719
+				}
+			},
+			{
+				"timestamp": 1604350083046,
+				"votes": {
+					"one": 1826,
+					"two": 2719
+				}
+			},
+			{
+				"timestamp": 1604350143123,
+				"votes": {
+					"one": 1826,
+					"two": 2719
+				}
+			},
+			{
+				"timestamp": 1604350203035,
+				"votes": {
+					"one": 1826,
+					"two": 2719
+				}
+			},
+			{
+				"timestamp": 1604350263086,
+				"votes": {
+					"one": 1826,
+					"two": 2719
+				}
+			},
+			{
+				"timestamp": 1604350323223,
+				"votes": {
+					"one": 1826,
+					"two": 2719
+				}
+			},
+			{
+				"timestamp": 1604350383064,
+				"votes": {
+					"one": 1826,
+					"two": 2719
+				}
+			},
+			{
+				"timestamp": 1604350443051,
+				"votes": {
+					"one": 1826,
+					"two": 2719
+				}
+			},
+			{
+				"timestamp": 1604350503023,
+				"votes": {
+					"one": 1826,
+					"two": 2719
+				}
+			},
+			{
+				"timestamp": 1604350563184,
+				"votes": {
+					"one": 1826,
+					"two": 2719
+				}
+			},
+			{
+				"timestamp": 1604350623058,
+				"votes": {
+					"one": 1833,
+					"two": 2728
+				}
+			},
+			{
+				"timestamp": 1604350683042,
+				"votes": {
+					"one": 1833,
+					"two": 2728
+				}
+			},
+			{
+				"timestamp": 1604350743067,
+				"votes": {
+					"one": 1833,
+					"two": 2728
+				}
+			},
+			{
+				"timestamp": 1604350803114,
+				"votes": {
+					"one": 1833,
+					"two": 2728
+				}
+			},
+			{
+				"timestamp": 1604350863061,
+				"votes": {
+					"one": 1833,
+					"two": 2728
+				}
+			},
+			{
+				"timestamp": 1604350923062,
+				"votes": {
+					"one": 1833,
+					"two": 2728
+				}
+			},
+			{
+				"timestamp": 1604350983067,
+				"votes": {
+					"one": 1833,
+					"two": 2728
+				}
+			},
+			{
+				"timestamp": 1604351043065,
+				"votes": {
+					"one": 1833,
+					"two": 2728
+				}
+			},
+			{
+				"timestamp": 1604351103040,
+				"votes": {
+					"one": 1833,
+					"two": 2728
+				}
+			},
+			{
+				"timestamp": 1604351163072,
+				"votes": {
+					"one": 1833,
+					"two": 2728
+				}
+			},
+			{
+				"timestamp": 1604351223047,
+				"votes": {
+					"one": 1839,
+					"two": 2736
+				}
+			},
+			{
+				"timestamp": 1604351283065,
+				"votes": {
+					"one": 1839,
+					"two": 2736
+				}
+			},
+			{
+				"timestamp": 1604351343059,
+				"votes": {
+					"one": 1839,
+					"two": 2736
+				}
+			},
+			{
+				"timestamp": 1604351403049,
+				"votes": {
+					"one": 1839,
+					"two": 2736
+				}
+			},
+			{
+				"timestamp": 1604351463058,
+				"votes": {
+					"one": 1839,
+					"two": 2736
+				}
+			},
+			{
+				"timestamp": 1604351523122,
+				"votes": {
+					"one": 1839,
+					"two": 2736
+				}
+			},
+			{
+				"timestamp": 1604351583041,
+				"votes": {
+					"one": 1839,
+					"two": 2736
+				}
+			},
+			{
+				"timestamp": 1604351643079,
+				"votes": {
+					"one": 1839,
+					"two": 2736
+				}
+			},
+			{
+				"timestamp": 1604351703146,
+				"votes": {
+					"one": 1839,
+					"two": 2736
+				}
+			},
+			{
+				"timestamp": 1604351763057,
+				"votes": {
+					"one": 1839,
+					"two": 2736
+				}
+			},
+			{
+				"timestamp": 1604351823052,
+				"votes": {
+					"one": 1845,
+					"two": 2747
+				}
+			},
+			{
+				"timestamp": 1604351883144,
+				"votes": {
+					"one": 1845,
+					"two": 2747
+				}
+			},
+			{
+				"timestamp": 1604351943038,
+				"votes": {
+					"one": 1845,
+					"two": 2747
+				}
+			},
+			{
+				"timestamp": 1604352003059,
+				"votes": {
+					"one": 1845,
+					"two": 2747
+				}
+			},
+			{
+				"timestamp": 1604352063060,
+				"votes": {
+					"one": 1845,
+					"two": 2747
+				}
+			},
+			{
+				"timestamp": 1604352123067,
+				"votes": {
+					"one": 1845,
+					"two": 2747
+				}
+			},
+			{
+				"timestamp": 1604352183058,
+				"votes": {
+					"one": 1845,
+					"two": 2747
+				}
+			},
+			{
+				"timestamp": 1604352243048,
+				"votes": {
+					"one": 1845,
+					"two": 2747
+				}
+			},
+			{
+				"timestamp": 1604352303047,
+				"votes": {
+					"one": 1845,
+					"two": 2747
+				}
+			},
+			{
+				"timestamp": 1604352363061,
+				"votes": {
+					"one": 1845,
+					"two": 2747
+				}
+			},
+			{
+				"timestamp": 1604352423081,
+				"votes": {
+					"one": 1845,
+					"two": 2747
+				}
+			},
+			{
+				"timestamp": 1604352483058,
+				"votes": {
+					"one": 1853,
+					"two": 2756
+				}
+			},
+			{
+				"timestamp": 1604352543074,
+				"votes": {
+					"one": 1853,
+					"two": 2756
+				}
+			},
+			{
+				"timestamp": 1604352603064,
+				"votes": {
+					"one": 1853,
+					"two": 2756
+				}
+			},
+			{
+				"timestamp": 1604352663147,
+				"votes": {
+					"one": 1853,
+					"two": 2756
+				}
+			},
+			{
+				"timestamp": 1604352723071,
+				"votes": {
+					"one": 1853,
+					"two": 2756
+				}
+			},
+			{
+				"timestamp": 1604352783062,
+				"votes": {
+					"one": 1853,
+					"two": 2756
+				}
+			},
+			{
+				"timestamp": 1604352843068,
+				"votes": {
+					"one": 1853,
+					"two": 2756
+				}
+			},
+			{
+				"timestamp": 1604352903070,
+				"votes": {
+					"one": 1853,
+					"two": 2756
+				}
+			},
+			{
+				"timestamp": 1604352963090,
+				"votes": {
+					"one": 1853,
+					"two": 2756
+				}
+			},
+			{
+				"timestamp": 1604353023108,
+				"votes": {
+					"one": 1857,
+					"two": 2765
+				}
+			},
+			{
+				"timestamp": 1604353083047,
+				"votes": {
+					"one": 1857,
+					"two": 2765
+				}
+			},
+			{
+				"timestamp": 1604353143047,
+				"votes": {
+					"one": 1857,
+					"two": 2765
+				}
+			},
+			{
+				"timestamp": 1604353203069,
+				"votes": {
+					"one": 1857,
+					"two": 2765
+				}
+			},
+			{
+				"timestamp": 1604353263159,
+				"votes": {
+					"one": 1857,
+					"two": 2765
+				}
+			},
+			{
+				"timestamp": 1604353323052,
+				"votes": {
+					"one": 1857,
+					"two": 2765
+				}
+			},
+			{
+				"timestamp": 1604353383077,
+				"votes": {
+					"one": 1857,
+					"two": 2765
+				}
+			},
+			{
+				"timestamp": 1604353443070,
+				"votes": {
+					"one": 1857,
+					"two": 2765
+				}
+			},
+			{
+				"timestamp": 1604353503103,
+				"votes": {
+					"one": 1857,
+					"two": 2765
+				}
+			},
+			{
+				"timestamp": 1604353563072,
+				"votes": {
+					"one": 1857,
+					"two": 2765
+				}
+			},
+			{
+				"timestamp": 1604353623082,
+				"votes": {
+					"one": 1864,
+					"two": 2771
+				}
+			},
+			{
+				"timestamp": 1604353683080,
+				"votes": {
+					"one": 1864,
+					"two": 2771
+				}
+			},
+			{
+				"timestamp": 1604353743101,
+				"votes": {
+					"one": 1864,
+					"two": 2771
+				}
+			},
+			{
+				"timestamp": 1604353803076,
+				"votes": {
+					"one": 1864,
+					"two": 2771
+				}
+			},
+			{
+				"timestamp": 1604353863149,
+				"votes": {
+					"one": 1864,
+					"two": 2771
+				}
+			},
+			{
+				"timestamp": 1604353923107,
+				"votes": {
+					"one": 1864,
+					"two": 2771
+				}
+			},
+			{
+				"timestamp": 1604353983087,
+				"votes": {
+					"one": 1864,
+					"two": 2771
+				}
+			},
+			{
+				"timestamp": 1604354043108,
+				"votes": {
+					"one": 1864,
+					"two": 2771
+				}
+			},
+			{
+				"timestamp": 1604354103083,
+				"votes": {
+					"one": 1864,
+					"two": 2771
+				}
+			},
+			{
+				"timestamp": 1604354163072,
+				"votes": {
+					"one": 1864,
+					"two": 2771
+				}
+			},
+			{
+				"timestamp": 1604354223072,
+				"votes": {
+					"one": 1864,
+					"two": 2771
+				}
+			},
+			{
+				"timestamp": 1604354283096,
+				"votes": {
+					"one": 1869,
+					"two": 2778
+				}
+			},
+			{
+				"timestamp": 1604354343073,
+				"votes": {
+					"one": 1869,
+					"two": 2778
+				}
+			},
+			{
+				"timestamp": 1604354403102,
+				"votes": {
+					"one": 1869,
+					"two": 2778
+				}
+			},
+			{
+				"timestamp": 1604354463098,
+				"votes": {
+					"one": 1869,
+					"two": 2778
+				}
+			},
+			{
+				"timestamp": 1604354523135,
+				"votes": {
+					"one": 1869,
+					"two": 2778
+				}
+			},
+			{
+				"timestamp": 1604354583361,
+				"votes": {
+					"one": 1869,
+					"two": 2778
+				}
+			},
+			{
+				"timestamp": 1604354643130,
+				"votes": {
+					"one": 1869,
+					"two": 2778
+				}
+			},
+			{
+				"timestamp": 1604354703082,
+				"votes": {
+					"one": 1869,
+					"two": 2778
+				}
+			},
+			{
+				"timestamp": 1604354763095,
+				"votes": {
+					"one": 1869,
+					"two": 2778
+				}
+			},
+			{
+				"timestamp": 1604354823048,
+				"votes": {
+					"one": 1869,
+					"two": 2785
+				}
+			},
+			{
+				"timestamp": 1604354883077,
+				"votes": {
+					"one": 1869,
+					"two": 2785
+				}
+			},
+			{
+				"timestamp": 1604354943062,
+				"votes": {
+					"one": 1869,
+					"two": 2785
+				}
+			},
+			{
+				"timestamp": 1604355003178,
+				"votes": {
+					"one": 1869,
+					"two": 2785
+				}
+			},
+			{
+				"timestamp": 1604355063100,
+				"votes": {
+					"one": 1869,
+					"two": 2785
+				}
+			},
+			{
+				"timestamp": 1604355123121,
+				"votes": {
+					"one": 1869,
+					"two": 2785
+				}
+			},
+			{
+				"timestamp": 1604355183116,
+				"votes": {
+					"one": 1869,
+					"two": 2785
+				}
+			},
+			{
+				"timestamp": 1604355243074,
+				"votes": {
+					"one": 1869,
+					"two": 2785
+				}
+			},
+			{
+				"timestamp": 1604355303105,
+				"votes": {
+					"one": 1869,
+					"two": 2785
+				}
+			},
+			{
+				"timestamp": 1604355363094,
+				"votes": {
+					"one": 1869,
+					"two": 2785
+				}
+			},
+			{
+				"timestamp": 1604355423074,
+				"votes": {
+					"one": 1873,
+					"two": 2786
+				}
+			},
+			{
+				"timestamp": 1604355483085,
+				"votes": {
+					"one": 1873,
+					"two": 2786
+				}
+			},
+			{
+				"timestamp": 1604355543071,
+				"votes": {
+					"one": 1873,
+					"two": 2786
+				}
+			},
+			{
+				"timestamp": 1604355603087,
+				"votes": {
+					"one": 1873,
+					"two": 2786
+				}
+			},
+			{
+				"timestamp": 1604355663057,
+				"votes": {
+					"one": 1873,
+					"two": 2786
+				}
+			},
+			{
+				"timestamp": 1604355723098,
+				"votes": {
+					"one": 1873,
+					"two": 2786
+				}
+			},
+			{
+				"timestamp": 1604355783099,
+				"votes": {
+					"one": 1873,
+					"two": 2786
+				}
+			},
+			{
+				"timestamp": 1604355843096,
+				"votes": {
+					"one": 1873,
+					"two": 2786
+				}
+			},
+			{
+				"timestamp": 1604355903128,
+				"votes": {
+					"one": 1873,
+					"two": 2786
+				}
+			},
+			{
+				"timestamp": 1604355963231,
+				"votes": {
+					"one": 1873,
+					"two": 2786
+				}
+			},
+			{
+				"timestamp": 1604356023112,
+				"votes": {
+					"one": 1873,
+					"two": 2786
+				}
+			},
+			{
+				"timestamp": 1604356083067,
+				"votes": {
+					"one": 1875,
+					"two": 2790
+				}
+			},
+			{
+				"timestamp": 1604356143214,
+				"votes": {
+					"one": 1875,
+					"two": 2790
+				}
+			},
+			{
+				"timestamp": 1604356203093,
+				"votes": {
+					"one": 1875,
+					"two": 2790
+				}
+			},
+			{
+				"timestamp": 1604356263076,
+				"votes": {
+					"one": 1875,
+					"two": 2790
+				}
+			},
+			{
+				"timestamp": 1604356323098,
+				"votes": {
+					"one": 1875,
+					"two": 2790
+				}
+			},
+			{
+				"timestamp": 1604356383072,
+				"votes": {
+					"one": 1875,
+					"two": 2790
+				}
+			},
+			{
+				"timestamp": 1604356443077,
+				"votes": {
+					"one": 1875,
+					"two": 2790
+				}
+			},
+			{
+				"timestamp": 1604356503074,
+				"votes": {
+					"one": 1875,
+					"two": 2790
+				}
+			},
+			{
+				"timestamp": 1604356563107,
+				"votes": {
+					"one": 1875,
+					"two": 2790
+				}
+			},
+			{
+				"timestamp": 1604356623065,
+				"votes": {
+					"one": 1878,
+					"two": 2794
+				}
+			},
+			{
+				"timestamp": 1604356683319,
+				"votes": {
+					"one": 1878,
+					"two": 2794
+				}
+			},
+			{
+				"timestamp": 1604356743139,
+				"votes": {
+					"one": 1878,
+					"two": 2794
+				}
+			},
+			{
+				"timestamp": 1604356803174,
+				"votes": {
+					"one": 1878,
+					"two": 2794
+				}
+			},
+			{
+				"timestamp": 1604356863137,
+				"votes": {
+					"one": 1878,
+					"two": 2794
+				}
+			},
+			{
+				"timestamp": 1604356923099,
+				"votes": {
+					"one": 1878,
+					"two": 2794
+				}
+			},
+			{
+				"timestamp": 1604356983089,
+				"votes": {
+					"one": 1878,
+					"two": 2794
+				}
+			},
+			{
+				"timestamp": 1604357043085,
+				"votes": {
+					"one": 1878,
+					"two": 2794
+				}
+			},
+			{
+				"timestamp": 1604357103072,
+				"votes": {
+					"one": 1878,
+					"two": 2794
+				}
+			},
+			{
+				"timestamp": 1604357163059,
+				"votes": {
+					"one": 1878,
+					"two": 2794
+				}
+			},
+			{
+				"timestamp": 1604357223162,
+				"votes": {
+					"one": 1883,
+					"two": 2800
+				}
+			},
+			{
+				"timestamp": 1604357283106,
+				"votes": {
+					"one": 1883,
+					"two": 2800
+				}
+			},
+			{
+				"timestamp": 1604357343076,
+				"votes": {
+					"one": 1883,
+					"two": 2800
+				}
+			},
+			{
+				"timestamp": 1604357403081,
+				"votes": {
+					"one": 1883,
+					"two": 2800
+				}
+			},
+			{
+				"timestamp": 1604357463141,
+				"votes": {
+					"one": 1883,
+					"two": 2800
+				}
+			},
+			{
+				"timestamp": 1604357523103,
+				"votes": {
+					"one": 1883,
+					"two": 2800
+				}
+			},
+			{
+				"timestamp": 1604357583089,
+				"votes": {
+					"one": 1883,
+					"two": 2800
+				}
+			},
+			{
+				"timestamp": 1604357643097,
+				"votes": {
+					"one": 1883,
+					"two": 2800
+				}
+			},
+			{
+				"timestamp": 1604357703122,
+				"votes": {
+					"one": 1883,
+					"two": 2800
+				}
+			},
+			{
+				"timestamp": 1604357763090,
+				"votes": {
+					"one": 1883,
+					"two": 2800
+				}
+			},
+			{
+				"timestamp": 1604357823085,
+				"votes": {
+					"one": 1883,
+					"two": 2800
+				}
+			},
+			{
+				"timestamp": 1604357883069,
+				"votes": {
+					"one": 1885,
+					"two": 2802
+				}
+			},
+			{
+				"timestamp": 1604357943081,
+				"votes": {
+					"one": 1885,
+					"two": 2802
+				}
+			},
+			{
+				"timestamp": 1604358003067,
+				"votes": {
+					"one": 1885,
+					"two": 2802
+				}
+			},
+			{
+				"timestamp": 1604358063126,
+				"votes": {
+					"one": 1885,
+					"two": 2802
+				}
+			},
+			{
+				"timestamp": 1604358123108,
+				"votes": {
+					"one": 1885,
+					"two": 2802
+				}
+			},
+			{
+				"timestamp": 1604358183093,
+				"votes": {
+					"one": 1885,
+					"two": 2802
+				}
+			},
+			{
+				"timestamp": 1604358243101,
+				"votes": {
+					"one": 1885,
+					"two": 2802
+				}
+			},
+			{
+				"timestamp": 1604358303106,
+				"votes": {
+					"one": 1885,
+					"two": 2802
+				}
+			},
+			{
+				"timestamp": 1604358363099,
+				"votes": {
+					"one": 1885,
+					"two": 2802
+				}
+			},
+			{
+				"timestamp": 1604358423088,
+				"votes": {
+					"one": 1889,
+					"two": 2810
+				}
+			},
+			{
+				"timestamp": 1604358483128,
+				"votes": {
+					"one": 1889,
+					"two": 2810
+				}
+			},
+			{
+				"timestamp": 1604358543082,
+				"votes": {
+					"one": 1889,
+					"two": 2810
+				}
+			},
+			{
+				"timestamp": 1604358603436,
+				"votes": {
+					"one": 1889,
+					"two": 2810
+				}
+			},
+			{
+				"timestamp": 1604358663105,
+				"votes": {
+					"one": 1889,
+					"two": 2810
+				}
+			},
+			{
+				"timestamp": 1604358723088,
+				"votes": {
+					"one": 1889,
+					"two": 2810
+				}
+			},
+			{
+				"timestamp": 1604358783095,
+				"votes": {
+					"one": 1889,
+					"two": 2810
+				}
+			},
+			{
+				"timestamp": 1604358843077,
+				"votes": {
+					"one": 1889,
+					"two": 2810
+				}
+			},
+			{
+				"timestamp": 1604358903090,
+				"votes": {
+					"one": 1889,
+					"two": 2810
+				}
+			},
+			{
+				"timestamp": 1604358963126,
+				"votes": {
+					"one": 1889,
+					"two": 2810
+				}
+			},
+			{
+				"timestamp": 1604359023075,
+				"votes": {
+					"one": 1889,
+					"two": 2810
+				}
+			},
+			{
+				"timestamp": 1604359083108,
+				"votes": {
+					"one": 1890,
+					"two": 2813
+				}
+			},
+			{
+				"timestamp": 1604359143093,
+				"votes": {
+					"one": 1890,
+					"two": 2813
+				}
+			},
+			{
+				"timestamp": 1604359203120,
+				"votes": {
+					"one": 1890,
+					"two": 2813
+				}
+			},
+			{
+				"timestamp": 1604359263071,
+				"votes": {
+					"one": 1890,
+					"two": 2813
+				}
+			},
+			{
+				"timestamp": 1604359323091,
+				"votes": {
+					"one": 1890,
+					"two": 2813
+				}
+			},
+			{
+				"timestamp": 1604359383225,
+				"votes": {
+					"one": 1890,
+					"two": 2813
+				}
+			},
+			{
+				"timestamp": 1604359443083,
+				"votes": {
+					"one": 1890,
+					"two": 2813
+				}
+			},
+			{
+				"timestamp": 1604359503121,
+				"votes": {
+					"one": 1890,
+					"two": 2813
+				}
+			},
+			{
+				"timestamp": 1604359563159,
+				"votes": {
+					"one": 1890,
+					"two": 2813
+				}
+			},
+			{
+				"timestamp": 1604359623107,
+				"votes": {
+					"one": 1893,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604359683090,
+				"votes": {
+					"one": 1890,
+					"two": 2813
+				}
+			},
+			{
+				"timestamp": 1604359743077,
+				"votes": {
+					"one": 1893,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604359803117,
+				"votes": {
+					"one": 1893,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604359863099,
+				"votes": {
+					"one": 1893,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604359923107,
+				"votes": {
+					"one": 1893,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604359983135,
+				"votes": {
+					"one": 1893,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604360043131,
+				"votes": {
+					"one": 1893,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604360103129,
+				"votes": {
+					"one": 1893,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604360163090,
+				"votes": {
+					"one": 1893,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604360223090,
+				"votes": {
+					"one": 1896,
+					"two": 2822
+				}
+			},
+			{
+				"timestamp": 1604360283111,
+				"votes": {
+					"one": 1896,
+					"two": 2822
+				}
+			},
+			{
+				"timestamp": 1604360343097,
+				"votes": {
+					"one": 1896,
+					"two": 2822
+				}
+			},
+			{
+				"timestamp": 1604360403087,
+				"votes": {
+					"one": 1896,
+					"two": 2822
+				}
+			},
+			{
+				"timestamp": 1604360463110,
+				"votes": {
+					"one": 1896,
+					"two": 2822
+				}
+			},
+			{
+				"timestamp": 1604360523103,
+				"votes": {
+					"one": 1896,
+					"two": 2822
+				}
+			},
+			{
+				"timestamp": 1604360583132,
+				"votes": {
+					"one": 1896,
+					"two": 2822
+				}
+			},
+			{
+				"timestamp": 1604360643116,
+				"votes": {
+					"one": 1896,
+					"two": 2822
+				}
+			},
+			{
+				"timestamp": 1604360703092,
+				"votes": {
+					"one": 1896,
+					"two": 2822
+				}
+			},
+			{
+				"timestamp": 1604360763101,
+				"votes": {
+					"one": 1896,
+					"two": 2822
+				}
+			},
+			{
+				"timestamp": 1604360823203,
+				"votes": {
+					"one": 1900,
+					"two": 2826
+				}
+			},
+			{
+				"timestamp": 1604360883108,
+				"votes": {
+					"one": 1900,
+					"two": 2826
+				}
+			},
+			{
+				"timestamp": 1604360943104,
+				"votes": {
+					"one": 1900,
+					"two": 2826
+				}
+			},
+			{
+				"timestamp": 1604361003115,
+				"votes": {
+					"one": 1900,
+					"two": 2826
+				}
+			},
+			{
+				"timestamp": 1604361063112,
+				"votes": {
+					"one": 1900,
+					"two": 2826
+				}
+			},
+			{
+				"timestamp": 1604361123100,
+				"votes": {
+					"one": 1900,
+					"two": 2826
+				}
+			},
+			{
+				"timestamp": 1604361183104,
+				"votes": {
+					"one": 1900,
+					"two": 2826
+				}
+			},
+			{
+				"timestamp": 1604361243108,
+				"votes": {
+					"one": 1900,
+					"two": 2826
+				}
+			},
+			{
+				"timestamp": 1604361303093,
+				"votes": {
+					"one": 1900,
+					"two": 2826
+				}
+			},
+			{
+				"timestamp": 1604361363099,
+				"votes": {
+					"one": 1900,
+					"two": 2826
+				}
+			},
+			{
+				"timestamp": 1604361423176,
+				"votes": {
+					"one": 1901,
+					"two": 2829
+				}
+			},
+			{
+				"timestamp": 1604361483109,
+				"votes": {
+					"one": 1901,
+					"two": 2829
+				}
+			},
+			{
+				"timestamp": 1604361543102,
+				"votes": {
+					"one": 1901,
+					"two": 2829
+				}
+			},
+			{
+				"timestamp": 1604361603107,
+				"votes": {
+					"one": 1901,
+					"two": 2829
+				}
+			},
+			{
+				"timestamp": 1604361663097,
+				"votes": {
+					"one": 1901,
+					"two": 2829
+				}
+			},
+			{
+				"timestamp": 1604361723127,
+				"votes": {
+					"one": 1901,
+					"two": 2829
+				}
+			},
+			{
+				"timestamp": 1604361783116,
+				"votes": {
+					"one": 1901,
+					"two": 2829
+				}
+			},
+			{
+				"timestamp": 1604361843096,
+				"votes": {
+					"one": 1901,
+					"two": 2829
+				}
+			},
+			{
+				"timestamp": 1604361903109,
+				"votes": {
+					"one": 1901,
+					"two": 2829
+				}
+			},
+			{
+				"timestamp": 1604361963134,
+				"votes": {
+					"one": 1901,
+					"two": 2829
+				}
+			},
+			{
+				"timestamp": 1604362023108,
+				"votes": {
+					"one": 1905,
+					"two": 2832
+				}
+			},
+			{
+				"timestamp": 1604362083088,
+				"votes": {
+					"one": 1905,
+					"two": 2832
+				}
+			},
+			{
+				"timestamp": 1604362143111,
+				"votes": {
+					"one": 1905,
+					"two": 2832
+				}
+			},
+			{
+				"timestamp": 1604362203097,
+				"votes": {
+					"one": 1905,
+					"two": 2832
+				}
+			},
+			{
+				"timestamp": 1604362263219,
+				"votes": {
+					"one": 1905,
+					"two": 2832
+				}
+			},
+			{
+				"timestamp": 1604362323199,
+				"votes": {
+					"one": 1905,
+					"two": 2832
+				}
+			},
+			{
+				"timestamp": 1604362383129,
+				"votes": {
+					"one": 1905,
+					"two": 2832
+				}
+			},
+			{
+				"timestamp": 1604362443114,
+				"votes": {
+					"one": 1905,
+					"two": 2832
+				}
+			},
+			{
+				"timestamp": 1604362503119,
+				"votes": {
+					"one": 1905,
+					"two": 2832
+				}
+			},
+			{
+				"timestamp": 1604362563234,
+				"votes": {
+					"one": 1905,
+					"two": 2832
+				}
+			},
+			{
+				"timestamp": 1604362623117,
+				"votes": {
+					"one": 1905,
+					"two": 2832
+				}
+			},
+			{
+				"timestamp": 1604362683099,
+				"votes": {
+					"one": 1908,
+					"two": 2834
+				}
+			},
+			{
+				"timestamp": 1604362743119,
+				"votes": {
+					"one": 1908,
+					"two": 2834
+				}
+			},
+			{
+				"timestamp": 1604362803231,
+				"votes": {
+					"one": 1908,
+					"two": 2834
+				}
+			},
+			{
+				"timestamp": 1604362863095,
+				"votes": {
+					"one": 1908,
+					"two": 2834
+				}
+			},
+			{
+				"timestamp": 1604362923120,
+				"votes": {
+					"one": 1908,
+					"two": 2834
+				}
+			},
+			{
+				"timestamp": 1604362983112,
+				"votes": {
+					"one": 1908,
+					"two": 2834
+				}
+			},
+			{
+				"timestamp": 1604363043096,
+				"votes": {
+					"one": 1908,
+					"two": 2834
+				}
+			},
+			{
+				"timestamp": 1604363103348,
+				"votes": {
+					"one": 1908,
+					"two": 2834
+				}
+			},
+			{
+				"timestamp": 1604363163099,
+				"votes": {
+					"one": 1908,
+					"two": 2834
+				}
+			},
+			{
+				"timestamp": 1604363223132,
+				"votes": {
+					"one": 1908,
+					"two": 2834
+				}
+			},
+			{
+				"timestamp": 1604363283124,
+				"votes": {
+					"one": 1914,
+					"two": 2836
+				}
+			},
+			{
+				"timestamp": 1604363343095,
+				"votes": {
+					"one": 1914,
+					"two": 2836
+				}
+			},
+			{
+				"timestamp": 1604363403118,
+				"votes": {
+					"one": 1914,
+					"two": 2836
+				}
+			},
+			{
+				"timestamp": 1604363463109,
+				"votes": {
+					"one": 1914,
+					"two": 2836
+				}
+			},
+			{
+				"timestamp": 1604363523105,
+				"votes": {
+					"one": 1914,
+					"two": 2836
+				}
+			},
+			{
+				"timestamp": 1604363583095,
+				"votes": {
+					"one": 1914,
+					"two": 2836
+				}
+			},
+			{
+				"timestamp": 1604363643134,
+				"votes": {
+					"one": 1914,
+					"two": 2836
+				}
+			},
+			{
+				"timestamp": 1604363703124,
+				"votes": {
+					"one": 1914,
+					"two": 2836
+				}
+			},
+			{
+				"timestamp": 1604363763098,
+				"votes": {
+					"one": 1914,
+					"two": 2836
+				}
+			},
+			{
+				"timestamp": 1604363823177,
+				"votes": {
+					"one": 1914,
+					"two": 2836
+				}
+			},
+			{
+				"timestamp": 1604363883103,
+				"votes": {
+					"one": 1915,
+					"two": 2839
+				}
+			},
+			{
+				"timestamp": 1604363943126,
+				"votes": {
+					"one": 1915,
+					"two": 2839
+				}
+			},
+			{
+				"timestamp": 1604364003108,
+				"votes": {
+					"one": 1915,
+					"two": 2839
+				}
+			},
+			{
+				"timestamp": 1604364063152,
+				"votes": {
+					"one": 1915,
+					"two": 2839
+				}
+			},
+			{
+				"timestamp": 1604364123175,
+				"votes": {
+					"one": 1915,
+					"two": 2839
+				}
+			},
+			{
+				"timestamp": 1604364183105,
+				"votes": {
+					"one": 1915,
+					"two": 2839
+				}
+			},
+			{
+				"timestamp": 1604364243120,
+				"votes": {
+					"one": 1915,
+					"two": 2839
+				}
+			},
+			{
+				"timestamp": 1604364303154,
+				"votes": {
+					"one": 1915,
+					"two": 2839
+				}
+			},
+			{
+				"timestamp": 1604364363107,
+				"votes": {
+					"one": 1915,
+					"two": 2839
+				}
+			},
+			{
+				"timestamp": 1604364423167,
+				"votes": {
+					"one": 1915,
+					"two": 2839
+				}
+			},
+			{
+				"timestamp": 1604364483131,
+				"votes": {
+					"one": 1915,
+					"two": 2841
+				}
+			},
+			{
+				"timestamp": 1604364543129,
+				"votes": {
+					"one": 1915,
+					"two": 2841
+				}
+			},
+			{
+				"timestamp": 1604364603134,
+				"votes": {
+					"one": 1915,
+					"two": 2841
+				}
+			},
+			{
+				"timestamp": 1604364663116,
+				"votes": {
+					"one": 1915,
+					"two": 2841
+				}
+			},
+			{
+				"timestamp": 1604364723131,
+				"votes": {
+					"one": 1915,
+					"two": 2841
+				}
+			},
+			{
+				"timestamp": 1604364783139,
+				"votes": {
+					"one": 1915,
+					"two": 2841
+				}
+			},
+			{
+				"timestamp": 1604364843105,
+				"votes": {
+					"one": 1915,
+					"two": 2841
+				}
+			},
+			{
+				"timestamp": 1604364903120,
+				"votes": {
+					"one": 1915,
+					"two": 2841
+				}
+			},
+			{
+				"timestamp": 1604364963134,
+				"votes": {
+					"one": 1915,
+					"two": 2841
+				}
+			},
+			{
+				"timestamp": 1604365023122,
+				"votes": {
+					"one": 1915,
+					"two": 2841
+				}
+			},
+			{
+				"timestamp": 1604365083116,
+				"votes": {
+					"one": 1915,
+					"two": 2843
+				}
+			},
+			{
+				"timestamp": 1604365143107,
+				"votes": {
+					"one": 1915,
+					"two": 2843
+				}
+			},
+			{
+				"timestamp": 1604365203323,
+				"votes": {
+					"one": 1915,
+					"two": 2843
+				}
+			},
+			{
+				"timestamp": 1604365263311,
+				"votes": {
+					"one": 1915,
+					"two": 2843
+				}
+			},
+			{
+				"timestamp": 1604365323104,
+				"votes": {
+					"one": 1915,
+					"two": 2843
+				}
+			},
+			{
+				"timestamp": 1604365383133,
+				"votes": {
+					"one": 1915,
+					"two": 2843
+				}
+			},
+			{
+				"timestamp": 1604365443139,
+				"votes": {
+					"one": 1915,
+					"two": 2843
+				}
+			},
+			{
+				"timestamp": 1604365503153,
+				"votes": {
+					"one": 1915,
+					"two": 2843
+				}
+			},
+			{
+				"timestamp": 1604365563117,
+				"votes": {
+					"one": 1915,
+					"two": 2843
+				}
+			},
+			{
+				"timestamp": 1604365623093,
+				"votes": {
+					"one": 1915,
+					"two": 2843
+				}
+			},
+			{
+				"timestamp": 1604365683115,
+				"votes": {
+					"one": 1915,
+					"two": 2844
+				}
+			},
+			{
+				"timestamp": 1604365743126,
+				"votes": {
+					"one": 1915,
+					"two": 2844
+				}
+			},
+			{
+				"timestamp": 1604365803128,
+				"votes": {
+					"one": 1915,
+					"two": 2844
+				}
+			},
+			{
+				"timestamp": 1604365863129,
+				"votes": {
+					"one": 1915,
+					"two": 2844
+				}
+			},
+			{
+				"timestamp": 1604365923096,
+				"votes": {
+					"one": 1915,
+					"two": 2844
+				}
+			},
+			{
+				"timestamp": 1604365983126,
+				"votes": {
+					"one": 1915,
+					"two": 2844
+				}
+			},
+			{
+				"timestamp": 1604366043123,
+				"votes": {
+					"one": 1915,
+					"two": 2844
+				}
+			},
+			{
+				"timestamp": 1604366103126,
+				"votes": {
+					"one": 1915,
+					"two": 2844
+				}
+			},
+			{
+				"timestamp": 1604366163115,
+				"votes": {
+					"one": 1915,
+					"two": 2844
+				}
+			},
+			{
+				"timestamp": 1604366223112,
+				"votes": {
+					"one": 1915,
+					"two": 2844
+				}
+			},
+			{
+				"timestamp": 1604366283173,
+				"votes": {
+					"one": 1917,
+					"two": 2845
+				}
+			},
+			{
+				"timestamp": 1604366343253,
+				"votes": {
+					"one": 1917,
+					"two": 2845
+				}
+			},
+			{
+				"timestamp": 1604366403145,
+				"votes": {
+					"one": 1917,
+					"two": 2845
+				}
+			},
+			{
+				"timestamp": 1604366463142,
+				"votes": {
+					"one": 1917,
+					"two": 2845
+				}
+			},
+			{
+				"timestamp": 1604366523117,
+				"votes": {
+					"one": 1917,
+					"two": 2845
+				}
+			},
+			{
+				"timestamp": 1604366583142,
+				"votes": {
+					"one": 1917,
+					"two": 2845
+				}
+			},
+			{
+				"timestamp": 1604366643169,
+				"votes": {
+					"one": 1917,
+					"two": 2845
+				}
+			},
+			{
+				"timestamp": 1604366703165,
+				"votes": {
+					"one": 1917,
+					"two": 2845
+				}
+			},
+			{
+				"timestamp": 1604366763123,
+				"votes": {
+					"one": 1917,
+					"two": 2845
+				}
+			},
+			{
+				"timestamp": 1604366823127,
+				"votes": {
+					"one": 1917,
+					"two": 2845
+				}
+			},
+			{
+				"timestamp": 1604366883162,
+				"votes": {
+					"one": 1918,
+					"two": 2847
+				}
+			},
+			{
+				"timestamp": 1604366943170,
+				"votes": {
+					"one": 1918,
+					"two": 2847
+				}
+			},
+			{
+				"timestamp": 1604367003121,
+				"votes": {
+					"one": 1918,
+					"two": 2847
+				}
+			},
+			{
+				"timestamp": 1604367063197,
+				"votes": {
+					"one": 1918,
+					"two": 2847
+				}
+			},
+			{
+				"timestamp": 1604367123134,
+				"votes": {
+					"one": 1918,
+					"two": 2847
+				}
+			},
+			{
+				"timestamp": 1604367183122,
+				"votes": {
+					"one": 1918,
+					"two": 2847
+				}
+			},
+			{
+				"timestamp": 1604367243138,
+				"votes": {
+					"one": 1918,
+					"two": 2847
+				}
+			},
+			{
+				"timestamp": 1604367303118,
+				"votes": {
+					"one": 1918,
+					"two": 2847
+				}
+			},
+			{
+				"timestamp": 1604367363124,
+				"votes": {
+					"one": 1918,
+					"two": 2847
+				}
+			},
+			{
+				"timestamp": 1604367423127,
+				"votes": {
+					"one": 1918,
+					"two": 2847
+				}
+			},
+			{
+				"timestamp": 1604367483138,
+				"votes": {
+					"one": 1920,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604367543135,
+				"votes": {
+					"one": 1920,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604367603135,
+				"votes": {
+					"one": 1920,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604367663142,
+				"votes": {
+					"one": 1920,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604367723136,
+				"votes": {
+					"one": 1920,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604367783208,
+				"votes": {
+					"one": 1920,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604367843293,
+				"votes": {
+					"one": 1920,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604367903165,
+				"votes": {
+					"one": 1920,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604367963143,
+				"votes": {
+					"one": 1920,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604368023169,
+				"votes": {
+					"one": 1920,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604368083162,
+				"votes": {
+					"one": 1922,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604368143119,
+				"votes": {
+					"one": 1922,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604368203119,
+				"votes": {
+					"one": 1922,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604368263227,
+				"votes": {
+					"one": 1922,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604368323143,
+				"votes": {
+					"one": 1922,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604368383148,
+				"votes": {
+					"one": 1922,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604368443155,
+				"votes": {
+					"one": 1922,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604368503153,
+				"votes": {
+					"one": 1922,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604368563129,
+				"votes": {
+					"one": 1922,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604368623167,
+				"votes": {
+					"one": 1922,
+					"two": 2849
+				}
+			},
+			{
+				"timestamp": 1604368683147,
+				"votes": {
+					"one": 1923,
+					"two": 2850
+				}
+			},
+			{
+				"timestamp": 1604368743182,
+				"votes": {
+					"one": 1923,
+					"two": 2850
+				}
+			},
+			{
+				"timestamp": 1604368803155,
+				"votes": {
+					"one": 1923,
+					"two": 2850
+				}
+			},
+			{
+				"timestamp": 1604368863141,
+				"votes": {
+					"one": 1923,
+					"two": 2850
+				}
+			},
+			{
+				"timestamp": 1604368923150,
+				"votes": {
+					"one": 1923,
+					"two": 2850
+				}
+			},
+			{
+				"timestamp": 1604368983182,
+				"votes": {
+					"one": 1923,
+					"two": 2850
+				}
+			},
+			{
+				"timestamp": 1604369043157,
+				"votes": {
+					"one": 1923,
+					"two": 2850
+				}
+			},
+			{
+				"timestamp": 1604369103143,
+				"votes": {
+					"one": 1923,
+					"two": 2850
+				}
+			},
+			{
+				"timestamp": 1604369163132,
+				"votes": {
+					"one": 1923,
+					"two": 2850
+				}
+			},
+			{
+				"timestamp": 1604369223132,
+				"votes": {
+					"one": 1923,
+					"two": 2850
+				}
+			},
+			{
+				"timestamp": 1604369283144,
+				"votes": {
+					"one": 1922,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604369343135,
+				"votes": {
+					"one": 1922,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604369403195,
+				"votes": {
+					"one": 1922,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604369463166,
+				"votes": {
+					"one": 1922,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604369523261,
+				"votes": {
+					"one": 1922,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604369583166,
+				"votes": {
+					"one": 1922,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604369643159,
+				"votes": {
+					"one": 1922,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604369703150,
+				"votes": {
+					"one": 1922,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604369763260,
+				"votes": {
+					"one": 1922,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604369823136,
+				"votes": {
+					"one": 1922,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604369883191,
+				"votes": {
+					"one": 1923,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604369943192,
+				"votes": {
+					"one": 1923,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604370003171,
+				"votes": {
+					"one": 1923,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604370063134,
+				"votes": {
+					"one": 1923,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604370123158,
+				"votes": {
+					"one": 1923,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604370183210,
+				"votes": {
+					"one": 1923,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604370243138,
+				"votes": {
+					"one": 1923,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604370303142,
+				"votes": {
+					"one": 1923,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604370363167,
+				"votes": {
+					"one": 1923,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604370423150,
+				"votes": {
+					"one": 1923,
+					"two": 2852
+				}
+			},
+			{
+				"timestamp": 1604370483166,
+				"votes": {
+					"one": 1923,
+					"two": 2853
+				}
+			},
+			{
+				"timestamp": 1604370543151,
+				"votes": {
+					"one": 1923,
+					"two": 2853
+				}
+			},
+			{
+				"timestamp": 1604370603142,
+				"votes": {
+					"one": 1923,
+					"two": 2853
+				}
+			},
+			{
+				"timestamp": 1604370663135,
+				"votes": {
+					"one": 1923,
+					"two": 2853
+				}
+			},
+			{
+				"timestamp": 1604370723170,
+				"votes": {
+					"one": 1923,
+					"two": 2853
+				}
+			},
+			{
+				"timestamp": 1604370783142,
+				"votes": {
+					"one": 1923,
+					"two": 2853
+				}
+			},
+			{
+				"timestamp": 1604370843125,
+				"votes": {
+					"one": 1923,
+					"two": 2853
+				}
+			},
+			{
+				"timestamp": 1604370903189,
+				"votes": {
+					"one": 1923,
+					"two": 2853
+				}
+			},
+			{
+				"timestamp": 1604370963165,
+				"votes": {
+					"one": 1923,
+					"two": 2853
+				}
+			},
+			{
+				"timestamp": 1604371023183,
+				"votes": {
+					"one": 1923,
+					"two": 2853
+				}
+			},
+			{
+				"timestamp": 1604371083141,
+				"votes": {
+					"one": 1923,
+					"two": 2854
+				}
+			},
+			{
+				"timestamp": 1604371143144,
+				"votes": {
+					"one": 1923,
+					"two": 2854
+				}
+			},
+			{
+				"timestamp": 1604371203147,
+				"votes": {
+					"one": 1923,
+					"two": 2854
+				}
+			},
+			{
+				"timestamp": 1604371263144,
+				"votes": {
+					"one": 1923,
+					"two": 2854
+				}
+			},
+			{
+				"timestamp": 1604371323144,
+				"votes": {
+					"one": 1923,
+					"two": 2854
+				}
+			},
+			{
+				"timestamp": 1604371383143,
+				"votes": {
+					"one": 1923,
+					"two": 2854
+				}
+			},
+			{
+				"timestamp": 1604371443188,
+				"votes": {
+					"one": 1923,
+					"two": 2854
+				}
+			},
+			{
+				"timestamp": 1604371503163,
+				"votes": {
+					"one": 1923,
+					"two": 2854
+				}
+			},
+			{
+				"timestamp": 1604371563149,
+				"votes": {
+					"one": 1923,
+					"two": 2854
+				}
+			},
+			{
+				"timestamp": 1604371623145,
+				"votes": {
+					"one": 1923,
+					"two": 2854
+				}
+			},
+			{
+				"timestamp": 1604371683148,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604371743138,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604371803143,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604371863258,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604371923414,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604371983142,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604372043142,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604372103155,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604372163186,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604372223170,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604372283178,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604372343161,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604372403231,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604372463178,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604372523161,
+				"votes": {
+					"one": 1923,
+					"two": 2855
+				}
+			},
+			{
+				"timestamp": 1604372583167,
+				"votes": {
+					"one": 1923,
+					"two": 2856
+				}
+			},
+			{
+				"timestamp": 1604372643392,
+				"votes": {
+					"one": 1923,
+					"two": 2856
+				}
+			},
+			{
+				"timestamp": 1604372703164,
+				"votes": {
+					"one": 1923,
+					"two": 2856
+				}
+			},
+			{
+				"timestamp": 1604372763163,
+				"votes": {
+					"one": 1923,
+					"two": 2856
+				}
+			},
+			{
+				"timestamp": 1604372823147,
+				"votes": {
+					"one": 1923,
+					"two": 2856
+				}
+			},
+			{
+				"timestamp": 1604372883179,
+				"votes": {
+					"one": 1923,
+					"two": 2856
+				}
+			},
+			{
+				"timestamp": 1604372943149,
+				"votes": {
+					"one": 1923,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373003224,
+				"votes": {
+					"one": 1923,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373063363,
+				"votes": {
+					"one": 1923,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373123143,
+				"votes": {
+					"one": 1923,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373183153,
+				"votes": {
+					"one": 1923,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373243223,
+				"votes": {
+					"one": 1923,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373303163,
+				"votes": {
+					"one": 1923,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373363188,
+				"votes": {
+					"one": 1923,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373423312,
+				"votes": {
+					"one": 1923,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373483145,
+				"votes": {
+					"one": 1924,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373543213,
+				"votes": {
+					"one": 1924,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373603177,
+				"votes": {
+					"one": 1924,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373663152,
+				"votes": {
+					"one": 1924,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373723167,
+				"votes": {
+					"one": 1924,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373783225,
+				"votes": {
+					"one": 1924,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373843169,
+				"votes": {
+					"one": 1924,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373903158,
+				"votes": {
+					"one": 1924,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604373963215,
+				"votes": {
+					"one": 1924,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604374023186,
+				"votes": {
+					"one": 1924,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604374083171,
+				"votes": {
+					"one": 1925,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604374143162,
+				"votes": {
+					"one": 1925,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604374203211,
+				"votes": {
+					"one": 1925,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604374263159,
+				"votes": {
+					"one": 1925,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604374323194,
+				"votes": {
+					"one": 1925,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604374383174,
+				"votes": {
+					"one": 1925,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604374443190,
+				"votes": {
+					"one": 1925,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604374503213,
+				"votes": {
+					"one": 1925,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604374563490,
+				"votes": {
+					"one": 1925,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604374623177,
+				"votes": {
+					"one": 1925,
+					"two": 2857
+				}
+			},
+			{
+				"timestamp": 1604374683159,
+				"votes": {
+					"one": 1925,
+					"two": 2858
+				}
+			},
+			{
+				"timestamp": 1604374743164,
+				"votes": {
+					"one": 1925,
+					"two": 2858
+				}
+			},
+			{
+				"timestamp": 1604374803156,
+				"votes": {
+					"one": 1925,
+					"two": 2858
+				}
+			},
+			{
+				"timestamp": 1604374863170,
+				"votes": {
+					"one": 1925,
+					"two": 2858
+				}
+			},
+			{
+				"timestamp": 1604374923258,
+				"votes": {
+					"one": 1925,
+					"two": 2858
+				}
+			},
+			{
+				"timestamp": 1604374983174,
+				"votes": {
+					"one": 1925,
+					"two": 2858
+				}
+			},
+			{
+				"timestamp": 1604375043177,
+				"votes": {
+					"one": 1925,
+					"two": 2858
+				}
+			},
+			{
+				"timestamp": 1604375103162,
+				"votes": {
+					"one": 1925,
+					"two": 2858
+				}
+			},
+			{
+				"timestamp": 1604375163174,
+				"votes": {
+					"one": 1925,
+					"two": 2858
+				}
+			},
+			{
+				"timestamp": 1604375223181,
+				"votes": {
+					"one": 1925,
+					"two": 2858
+				}
+			},
+			{
+				"timestamp": 1604375283184,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604375343202,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604375403183,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604375463168,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604375523175,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604375583174,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604375643191,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604375703201,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604375763203,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604375823195,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604375883170,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604375943175,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376003216,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376063231,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376123237,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376183194,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376243198,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376303161,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376363238,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376423174,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376483171,
+				"votes": {
+					"one": 1926,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376543181,
+				"votes": {
+					"one": 1927,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376603189,
+				"votes": {
+					"one": 1927,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376663226,
+				"votes": {
+					"one": 1927,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376723187,
+				"votes": {
+					"one": 1927,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376783197,
+				"votes": {
+					"one": 1927,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376843346,
+				"votes": {
+					"one": 1927,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376903193,
+				"votes": {
+					"one": 1927,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604376963193,
+				"votes": {
+					"one": 1927,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604377023160,
+				"votes": {
+					"one": 1927,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604377083195,
+				"votes": {
+					"one": 1927,
+					"two": 2859
+				}
+			},
+			{
+				"timestamp": 1604377143194,
+				"votes": {
+					"one": 1927,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604377203206,
+				"votes": {
+					"one": 1927,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604377263191,
+				"votes": {
+					"one": 1927,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604377323185,
+				"votes": {
+					"one": 1927,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604377383167,
+				"votes": {
+					"one": 1927,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604377443175,
+				"votes": {
+					"one": 1927,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604377503174,
+				"votes": {
+					"one": 1927,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604377563169,
+				"votes": {
+					"one": 1927,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604377623238,
+				"votes": {
+					"one": 1927,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604377683160,
+				"votes": {
+					"one": 1927,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604377743203,
+				"votes": {
+					"one": 1928,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604377803178,
+				"votes": {
+					"one": 1928,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604377863199,
+				"votes": {
+					"one": 1928,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604377923201,
+				"votes": {
+					"one": 1928,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604377983171,
+				"votes": {
+					"one": 1928,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604378043173,
+				"votes": {
+					"one": 1928,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604378103204,
+				"votes": {
+					"one": 1928,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604378163207,
+				"votes": {
+					"one": 1928,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604378223188,
+				"votes": {
+					"one": 1928,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604378283188,
+				"votes": {
+					"one": 1928,
+					"two": 2860
+				}
+			},
+			{
+				"timestamp": 1604378343176,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604378403199,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604378463179,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604378523186,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604378583180,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604378643196,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604378703188,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604378763202,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604378823206,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604378883446,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604378943199,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604379003234,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604379063183,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604379123198,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604379183190,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604379243197,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604379303205,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604379363178,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604379423247,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604379483202,
+				"votes": {
+					"one": 1928,
+					"two": 2861
+				}
+			},
+			{
+				"timestamp": 1604379543204,
+				"votes": {
+					"one": 1928,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604379603205,
+				"votes": {
+					"one": 1928,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604379663182,
+				"votes": {
+					"one": 1928,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604379723233,
+				"votes": {
+					"one": 1928,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604379783484,
+				"votes": {
+					"one": 1928,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604379843203,
+				"votes": {
+					"one": 1928,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604379903194,
+				"votes": {
+					"one": 1928,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604379963228,
+				"votes": {
+					"one": 1928,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380023204,
+				"votes": {
+					"one": 1928,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380083193,
+				"votes": {
+					"one": 1928,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380143211,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380203196,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380263213,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380323196,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380383199,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380443195,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380503251,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380563220,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380623214,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380683195,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380743221,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380803221,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380863203,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380923204,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604380983243,
+				"votes": {
+					"one": 1929,
+					"two": 2862
+				}
+			},
+			{
+				"timestamp": 1604381043203,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381103270,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381163238,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381223242,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381283209,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381343472,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381403211,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381463254,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381523196,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381583187,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381643197,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381703262,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381763198,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381823198,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381883245,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604381943214,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604382003221,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604382063242,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604382123195,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604382183196,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604382243216,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604382303253,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604382363290,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604382423223,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604382483252,
+				"votes": {
+					"one": 1929,
+					"two": 2863
+				}
+			},
+			{
+				"timestamp": 1604382543248,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604382603347,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604382663235,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604382723206,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604382783246,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604382843351,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604382903231,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604382963214,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604383023250,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604383083216,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604383143227,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604383203233,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604383263240,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604383323210,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604383383252,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604383443218,
+				"votes": {
+					"one": 1929,
+					"two": 2864
+				}
+			},
+			{
+				"timestamp": 1604383503233,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604383563251,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604383623247,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604383683247,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604383743476,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604383803241,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604383863230,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604383923469,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604383983218,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604384043235,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604384103232,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604384163217,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604384223214,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604384283239,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604384343214,
+				"votes": {
+					"one": 1930,
+					"two": 2866
+				}
+			},
+			{
+				"timestamp": 1604384403265,
+				"votes": {
+					"one": 1930,
+					"two": 2869
+				}
+			},
+			{
+				"timestamp": 1604384463222,
+				"votes": {
+					"one": 1930,
+					"two": 2869
+				}
+			},
+			{
+				"timestamp": 1604384523229,
+				"votes": {
+					"one": 1930,
+					"two": 2869
+				}
+			},
+			{
+				"timestamp": 1604384583219,
+				"votes": {
+					"one": 1930,
+					"two": 2869
+				}
+			},
+			{
+				"timestamp": 1604384643218,
+				"votes": {
+					"one": 1930,
+					"two": 2869
+				}
+			},
+			{
+				"timestamp": 1604384703231,
+				"votes": {
+					"one": 1930,
+					"two": 2869
+				}
+			},
+			{
+				"timestamp": 1604384763230,
+				"votes": {
+					"one": 1930,
+					"two": 2869
+				}
+			},
+			{
+				"timestamp": 1604384823258,
+				"votes": {
+					"one": 1930,
+					"two": 2869
+				}
+			},
+			{
+				"timestamp": 1604384883231,
+				"votes": {
+					"one": 1930,
+					"two": 2869
+				}
+			},
+			{
+				"timestamp": 1604384943207,
+				"votes": {
+					"one": 1931,
+					"two": 2871
+				}
+			},
+			{
+				"timestamp": 1604385003247,
+				"votes": {
+					"one": 1931,
+					"two": 2871
+				}
+			},
+			{
+				"timestamp": 1604385063238,
+				"votes": {
+					"one": 1931,
+					"two": 2871
+				}
+			},
+			{
+				"timestamp": 1604385123281,
+				"votes": {
+					"one": 1931,
+					"two": 2871
+				}
+			},
+			{
+				"timestamp": 1604385183257,
+				"votes": {
+					"one": 1931,
+					"two": 2871
+				}
+			},
+			{
+				"timestamp": 1604385243234,
+				"votes": {
+					"one": 1931,
+					"two": 2871
+				}
+			},
+			{
+				"timestamp": 1604385303273,
+				"votes": {
+					"one": 1931,
+					"two": 2871
+				}
+			},
+			{
+				"timestamp": 1604385363215,
+				"votes": {
+					"one": 1931,
+					"two": 2871
+				}
+			},
+			{
+				"timestamp": 1604385423247,
+				"votes": {
+					"one": 1931,
+					"two": 2871
+				}
+			},
+			{
+				"timestamp": 1604385483264,
+				"votes": {
+					"one": 1931,
+					"two": 2871
+				}
+			},
+			{
+				"timestamp": 1604385543224,
+				"votes": {
+					"one": 1931,
+					"two": 2872
+				}
+			},
+			{
+				"timestamp": 1604385603260,
+				"votes": {
+					"one": 1931,
+					"two": 2872
+				}
+			},
+			{
+				"timestamp": 1604385663233,
+				"votes": {
+					"one": 1931,
+					"two": 2872
+				}
+			},
+			{
+				"timestamp": 1604385723224,
+				"votes": {
+					"one": 1931,
+					"two": 2872
+				}
+			},
+			{
+				"timestamp": 1604385783264,
+				"votes": {
+					"one": 1931,
+					"two": 2872
+				}
+			},
+			{
+				"timestamp": 1604385843275,
+				"votes": {
+					"one": 1931,
+					"two": 2872
+				}
+			},
+			{
+				"timestamp": 1604385903247,
+				"votes": {
+					"one": 1931,
+					"two": 2872
+				}
+			},
+			{
+				"timestamp": 1604385963240,
+				"votes": {
+					"one": 1931,
+					"two": 2872
+				}
+			},
+			{
+				"timestamp": 1604386023242,
+				"votes": {
+					"one": 1931,
+					"two": 2872
+				}
+			},
+			{
+				"timestamp": 1604386083281,
+				"votes": {
+					"one": 1931,
+					"two": 2872
+				}
+			},
+			{
+				"timestamp": 1604386143281,
+				"votes": {
+					"one": 1931,
+					"two": 2876
+				}
+			},
+			{
+				"timestamp": 1604386203236,
+				"votes": {
+					"one": 1931,
+					"two": 2876
+				}
+			},
+			{
+				"timestamp": 1604386263257,
+				"votes": {
+					"one": 1931,
+					"two": 2876
+				}
+			},
+			{
+				"timestamp": 1604386323231,
+				"votes": {
+					"one": 1931,
+					"two": 2876
+				}
+			},
+			{
+				"timestamp": 1604386383234,
+				"votes": {
+					"one": 1931,
+					"two": 2876
+				}
+			},
+			{
+				"timestamp": 1604386443304,
+				"votes": {
+					"one": 1931,
+					"two": 2876
+				}
+			},
+			{
+				"timestamp": 1604386503272,
+				"votes": {
+					"one": 1931,
+					"two": 2876
+				}
+			},
+			{
+				"timestamp": 1604386563493,
+				"votes": {
+					"one": 1931,
+					"two": 2876
+				}
+			},
+			{
+				"timestamp": 1604386623219,
+				"votes": {
+					"one": 1931,
+					"two": 2876
+				}
+			},
+			{
+				"timestamp": 1604386683282,
+				"votes": {
+					"one": 1931,
+					"two": 2876
+				}
+			},
+			{
+				"timestamp": 1604386743239,
+				"votes": {
+					"one": 1932,
+					"two": 2878
+				}
+			},
+			{
+				"timestamp": 1604386803243,
+				"votes": {
+					"one": 1932,
+					"two": 2878
+				}
+			},
+			{
+				"timestamp": 1604386863252,
+				"votes": {
+					"one": 1932,
+					"two": 2878
+				}
+			},
+			{
+				"timestamp": 1604386923241,
+				"votes": {
+					"one": 1932,
+					"two": 2878
+				}
+			},
+			{
+				"timestamp": 1604386983247,
+				"votes": {
+					"one": 1932,
+					"two": 2878
+				}
+			},
+			{
+				"timestamp": 1604387043250,
+				"votes": {
+					"one": 1932,
+					"two": 2878
+				}
+			},
+			{
+				"timestamp": 1604387103235,
+				"votes": {
+					"one": 1932,
+					"two": 2878
+				}
+			},
+			{
+				"timestamp": 1604387163255,
+				"votes": {
+					"one": 1932,
+					"two": 2878
+				}
+			},
+			{
+				"timestamp": 1604387223265,
+				"votes": {
+					"one": 1932,
+					"two": 2878
+				}
+			},
+			{
+				"timestamp": 1604387283246,
+				"votes": {
+					"one": 1932,
+					"two": 2878
+				}
+			},
+			{
+				"timestamp": 1604387343279,
+				"votes": {
+					"one": 1932,
+					"two": 2882
+				}
+			},
+			{
+				"timestamp": 1604387403257,
+				"votes": {
+					"one": 1932,
+					"two": 2882
+				}
+			},
+			{
+				"timestamp": 1604387463281,
+				"votes": {
+					"one": 1932,
+					"two": 2882
+				}
+			},
+			{
+				"timestamp": 1604387523245,
+				"votes": {
+					"one": 1932,
+					"two": 2882
+				}
+			},
+			{
+				"timestamp": 1604387583300,
+				"votes": {
+					"one": 1932,
+					"two": 2882
+				}
+			},
+			{
+				"timestamp": 1604387643261,
+				"votes": {
+					"one": 1932,
+					"two": 2882
+				}
+			},
+			{
+				"timestamp": 1604387703270,
+				"votes": {
+					"one": 1932,
+					"two": 2882
+				}
+			},
+			{
+				"timestamp": 1604387763252,
+				"votes": {
+					"one": 1932,
+					"two": 2882
+				}
+			},
+			{
+				"timestamp": 1604387823261,
+				"votes": {
+					"one": 1932,
+					"two": 2882
+				}
+			},
+			{
+				"timestamp": 1604387883257,
+				"votes": {
+					"one": 1932,
+					"two": 2882
+				}
+			},
+			{
+				"timestamp": 1604387943280,
+				"votes": {
+					"one": 1932,
+					"two": 2882
+				}
+			},
+			{
+				"timestamp": 1604388003248,
+				"votes": {
+					"one": 1933,
+					"two": 2884
+				}
+			},
+			{
+				"timestamp": 1604388063291,
+				"votes": {
+					"one": 1933,
+					"two": 2884
+				}
+			},
+			{
+				"timestamp": 1604388123288,
+				"votes": {
+					"one": 1933,
+					"two": 2884
+				}
+			},
+			{
+				"timestamp": 1604388183275,
+				"votes": {
+					"one": 1933,
+					"two": 2884
+				}
+			},
+			{
+				"timestamp": 1604388243262,
+				"votes": {
+					"one": 1933,
+					"two": 2884
+				}
+			},
+			{
+				"timestamp": 1604388303264,
+				"votes": {
+					"one": 1933,
+					"two": 2884
+				}
+			},
+			{
+				"timestamp": 1604388363241,
+				"votes": {
+					"one": 1933,
+					"two": 2884
+				}
+			},
+			{
+				"timestamp": 1604388423241,
+				"votes": {
+					"one": 1933,
+					"two": 2884
+				}
+			},
+			{
+				"timestamp": 1604388483260,
+				"votes": {
+					"one": 1933,
+					"two": 2884
+				}
+			},
+			{
+				"timestamp": 1604388543519,
+				"votes": {
+					"one": 1934,
+					"two": 2887
+				}
+			},
+			{
+				"timestamp": 1604388603246,
+				"votes": {
+					"one": 1934,
+					"two": 2887
+				}
+			},
+			{
+				"timestamp": 1604388663332,
+				"votes": {
+					"one": 1934,
+					"two": 2887
+				}
+			},
+			{
+				"timestamp": 1604388723270,
+				"votes": {
+					"one": 1934,
+					"two": 2887
+				}
+			},
+			{
+				"timestamp": 1604388783429,
+				"votes": {
+					"one": 1934,
+					"two": 2887
+				}
+			},
+			{
+				"timestamp": 1604388843264,
+				"votes": {
+					"one": 1934,
+					"two": 2887
+				}
+			},
+			{
+				"timestamp": 1604388903273,
+				"votes": {
+					"one": 1934,
+					"two": 2887
+				}
+			},
+			{
+				"timestamp": 1604388963262,
+				"votes": {
+					"one": 1934,
+					"two": 2887
+				}
+			},
+			{
+				"timestamp": 1604389023269,
+				"votes": {
+					"one": 1934,
+					"two": 2887
+				}
+			},
+			{
+				"timestamp": 1604389083316,
+				"votes": {
+					"one": 1934,
+					"two": 2887
+				}
+			},
+			{
+				"timestamp": 1604389143322,
+				"votes": {
+					"one": 1934,
+					"two": 2887
+				}
+			},
+			{
+				"timestamp": 1604389203252,
+				"votes": {
+					"one": 1936,
+					"two": 2888
+				}
+			},
+			{
+				"timestamp": 1604389263267,
+				"votes": {
+					"one": 1936,
+					"two": 2888
+				}
+			},
+			{
+				"timestamp": 1604389323271,
+				"votes": {
+					"one": 1936,
+					"two": 2888
+				}
+			},
+			{
+				"timestamp": 1604389383270,
+				"votes": {
+					"one": 1936,
+					"two": 2888
+				}
+			},
+			{
+				"timestamp": 1604389443268,
+				"votes": {
+					"one": 1936,
+					"two": 2888
+				}
+			},
+			{
+				"timestamp": 1604389503269,
+				"votes": {
+					"one": 1936,
+					"two": 2888
+				}
+			},
+			{
+				"timestamp": 1604389563321,
+				"votes": {
+					"one": 1936,
+					"two": 2888
+				}
+			},
+			{
+				"timestamp": 1604389623282,
+				"votes": {
+					"one": 1936,
+					"two": 2888
+				}
+			},
+			{
+				"timestamp": 1604389683266,
+				"votes": {
+					"one": 1936,
+					"two": 2888
+				}
+			},
+			{
+				"timestamp": 1604389743274,
+				"votes": {
+					"one": 1936,
+					"two": 2888
+				}
+			},
+			{
+				"timestamp": 1604389803246,
+				"votes": {
+					"one": 1939,
+					"two": 2891
+				}
+			},
+			{
+				"timestamp": 1604389863275,
+				"votes": {
+					"one": 1939,
+					"two": 2891
+				}
+			},
+			{
+				"timestamp": 1604389923257,
+				"votes": {
+					"one": 1939,
+					"two": 2891
+				}
+			},
+			{
+				"timestamp": 1604389983306,
+				"votes": {
+					"one": 1939,
+					"two": 2891
+				}
+			},
+			{
+				"timestamp": 1604390043519,
+				"votes": {
+					"one": 1939,
+					"two": 2891
+				}
+			},
+			{
+				"timestamp": 1604390103254,
+				"votes": {
+					"one": 1939,
+					"two": 2891
+				}
+			},
+			{
+				"timestamp": 1604390163271,
+				"votes": {
+					"one": 1939,
+					"two": 2891
+				}
+			},
+			{
+				"timestamp": 1604390223277,
+				"votes": {
+					"one": 1939,
+					"two": 2891
+				}
+			},
+			{
+				"timestamp": 1604390283293,
+				"votes": {
+					"one": 1939,
+					"two": 2891
+				}
+			},
+			{
+				"timestamp": 1604390343280,
+				"votes": {
+					"one": 1939,
+					"two": 2891
+				}
+			},
+			{
+				"timestamp": 1604390403271,
+				"votes": {
+					"one": 1942,
+					"two": 2894
+				}
+			},
+			{
+				"timestamp": 1604390463312,
+				"votes": {
+					"one": 1942,
+					"two": 2894
+				}
+			},
+			{
+				"timestamp": 1604390523319,
+				"votes": {
+					"one": 1942,
+					"two": 2894
+				}
+			},
+			{
+				"timestamp": 1604390583276,
+				"votes": {
+					"one": 1942,
+					"two": 2894
+				}
+			},
+			{
+				"timestamp": 1604390643276,
+				"votes": {
+					"one": 1942,
+					"two": 2894
+				}
+			},
+			{
+				"timestamp": 1604390703275,
+				"votes": {
+					"one": 1942,
+					"two": 2894
+				}
+			},
+			{
+				"timestamp": 1604390763271,
+				"votes": {
+					"one": 1942,
+					"two": 2894
+				}
+			},
+			{
+				"timestamp": 1604390823272,
+				"votes": {
+					"one": 1942,
+					"two": 2894
+				}
+			},
+			{
+				"timestamp": 1604390883261,
+				"votes": {
+					"one": 1942,
+					"two": 2894
+				}
+			},
+			{
+				"timestamp": 1604390943255,
+				"votes": {
+					"one": 1942,
+					"two": 2894
+				}
+			},
+			{
+				"timestamp": 1604391003277,
+				"votes": {
+					"one": 1945,
+					"two": 2899
+				}
+			},
+			{
+				"timestamp": 1604391063298,
+				"votes": {
+					"one": 1945,
+					"two": 2899
+				}
+			},
+			{
+				"timestamp": 1604391123298,
+				"votes": {
+					"one": 1945,
+					"two": 2899
+				}
+			},
+			{
+				"timestamp": 1604391183402,
+				"votes": {
+					"one": 1945,
+					"two": 2899
+				}
+			},
+			{
+				"timestamp": 1604391243262,
+				"votes": {
+					"one": 1945,
+					"two": 2899
+				}
+			},
+			{
+				"timestamp": 1604391303273,
+				"votes": {
+					"one": 1945,
+					"two": 2899
+				}
+			},
+			{
+				"timestamp": 1604391363249,
+				"votes": {
+					"one": 1945,
+					"two": 2899
+				}
+			},
+			{
+				"timestamp": 1604391423264,
+				"votes": {
+					"one": 1945,
+					"two": 2899
+				}
+			},
+			{
+				"timestamp": 1604391483267,
+				"votes": {
+					"one": 1945,
+					"two": 2899
+				}
+			},
+			{
+				"timestamp": 1604391543296,
+				"votes": {
+					"one": 1945,
+					"two": 2899
+				}
+			},
+			{
+				"timestamp": 1604391603300,
+				"votes": {
+					"one": 1947,
+					"two": 2902
+				}
+			},
+			{
+				"timestamp": 1604391663273,
+				"votes": {
+					"one": 1947,
+					"two": 2902
+				}
+			},
+			{
+				"timestamp": 1604391723256,
+				"votes": {
+					"one": 1947,
+					"two": 2902
+				}
+			},
+			{
+				"timestamp": 1604391783290,
+				"votes": {
+					"one": 1947,
+					"two": 2902
+				}
+			},
+			{
+				"timestamp": 1604391843269,
+				"votes": {
+					"one": 1947,
+					"two": 2902
+				}
+			},
+			{
+				"timestamp": 1604391903281,
+				"votes": {
+					"one": 1947,
+					"two": 2902
+				}
+			},
+			{
+				"timestamp": 1604391963309,
+				"votes": {
+					"one": 1947,
+					"two": 2902
+				}
+			},
+			{
+				"timestamp": 1604392023243,
+				"votes": {
+					"one": 1947,
+					"two": 2902
+				}
+			},
+			{
+				"timestamp": 1604392083288,
+				"votes": {
+					"one": 1947,
+					"two": 2902
+				}
+			},
+			{
+				"timestamp": 1604392143290,
+				"votes": {
+					"one": 1947,
+					"two": 2902
+				}
+			},
+			{
+				"timestamp": 1604392203277,
+				"votes": {
+					"one": 1948,
+					"two": 2907
+				}
+			},
+			{
+				"timestamp": 1604392263285,
+				"votes": {
+					"one": 1948,
+					"two": 2907
+				}
+			},
+			{
+				"timestamp": 1604392323279,
+				"votes": {
+					"one": 1948,
+					"two": 2907
+				}
+			},
+			{
+				"timestamp": 1604392383267,
+				"votes": {
+					"one": 1948,
+					"two": 2907
+				}
+			},
+			{
+				"timestamp": 1604392443292,
+				"votes": {
+					"one": 1948,
+					"two": 2907
+				}
+			},
+			{
+				"timestamp": 1604392503501,
+				"votes": {
+					"one": 1948,
+					"two": 2907
+				}
+			},
+			{
+				"timestamp": 1604392563294,
+				"votes": {
+					"one": 1948,
+					"two": 2907
+				}
+			},
+			{
+				"timestamp": 1604392623296,
+				"votes": {
+					"one": 1948,
+					"two": 2907
+				}
+			},
+			{
+				"timestamp": 1604392683283,
+				"votes": {
+					"one": 1948,
+					"two": 2907
+				}
+			},
+			{
+				"timestamp": 1604392743266,
+				"votes": {
+					"one": 1948,
+					"two": 2907
+				}
+			},
+			{
+				"timestamp": 1604392803282,
+				"votes": {
+					"one": 1948,
+					"two": 2907
+				}
+			},
+			{
+				"timestamp": 1604392863332,
+				"votes": {
+					"one": 1978,
+					"two": 2948
+				}
+			},
+			{
+				"timestamp": 1604392923266,
+				"votes": {
+					"one": 1978,
+					"two": 2948
+				}
+			},
+			{
+				"timestamp": 1604392983272,
+				"votes": {
+					"one": 1978,
+					"two": 2948
+				}
+			},
+			{
+				"timestamp": 1604393043303,
+				"votes": {
+					"one": 1978,
+					"two": 2948
+				}
+			},
+			{
+				"timestamp": 1604393103275,
+				"votes": {
+					"one": 1978,
+					"two": 2948
+				}
+			},
+			{
+				"timestamp": 1604393163341,
+				"votes": {
+					"one": 1978,
+					"two": 2948
+				}
+			},
+			{
+				"timestamp": 1604393223371,
+				"votes": {
+					"one": 1978,
+					"two": 2948
+				}
+			},
+			{
+				"timestamp": 1604393283301,
+				"votes": {
+					"one": 1978,
+					"two": 2948
+				}
+			},
+			{
+				"timestamp": 1604393343299,
+				"votes": {
+					"one": 1978,
+					"two": 2948
+				}
+			},
+			{
+				"timestamp": 1604393403298,
+				"votes": {
+					"one": 1992,
+					"two": 2964
+				}
+			},
+			{
+				"timestamp": 1604393463310,
+				"votes": {
+					"one": 1992,
+					"two": 2964
+				}
+			},
+			{
+				"timestamp": 1604393523297,
+				"votes": {
+					"one": 1992,
+					"two": 2964
+				}
+			},
+			{
+				"timestamp": 1604393583397,
+				"votes": {
+					"one": 1992,
+					"two": 2964
+				}
+			},
+			{
+				"timestamp": 1604393643484,
+				"votes": {
+					"one": 1992,
+					"two": 2964
+				}
+			},
+			{
+				"timestamp": 1604393703284,
+				"votes": {
+					"one": 1992,
+					"two": 2964
+				}
+			},
+			{
+				"timestamp": 1604393763307,
+				"votes": {
+					"one": 1992,
+					"two": 2964
+				}
+			},
+			{
+				"timestamp": 1604393823287,
+				"votes": {
+					"one": 1992,
+					"two": 2964
+				}
+			},
+			{
+				"timestamp": 1604393883294,
+				"votes": {
+					"one": 1992,
+					"two": 2964
+				}
+			},
+			{
+				"timestamp": 1604393943319,
+				"votes": {
+					"one": 1992,
+					"two": 2964
+				}
+			},
+			{
+				"timestamp": 1604394003311,
+				"votes": {
+					"one": 1996,
+					"two": 2970
+				}
+			},
+			{
+				"timestamp": 1604394063285,
+				"votes": {
+					"one": 1996,
+					"two": 2970
+				}
+			}
+		]
+	},
+	"unknown0": {
+		"game": "unknown0",
+		"options": {
+			"one": "Jubilee Line",
+			"two": "Thameslink"
+		},
+		"results": [
+			{
+				"timestamp": 1604392983272,
+				"votes": {
+					"one": 0,
+					"two": 0
+				}
+			},
+			{
+				"timestamp": 1604393043303,
+				"votes": {
+					"one": 58,
+					"two": 55
+				}
+			},
+			{
+				"timestamp": 1604393103275,
+				"votes": {
+					"one": 127,
+					"two": 123
+				}
+			},
+			{
+				"timestamp": 1604393163341,
+				"votes": {
+					"one": 194,
+					"two": 163
+				}
+			},
+			{
+				"timestamp": 1604393223371,
+				"votes": {
+					"one": 249,
+					"two": 209
+				}
+			},
+			{
+				"timestamp": 1604393283301,
+				"votes": {
+					"one": 288,
+					"two": 236
+				}
+			},
+			{
+				"timestamp": 1604393343299,
+				"votes": {
+					"one": 302,
+					"two": 259
+				}
+			},
+			{
+				"timestamp": 1604393403298,
+				"votes": {
+					"one": 368,
+					"two": 311
+				}
+			},
+			{
+				"timestamp": 1604393463310,
+				"votes": {
+					"one": 386,
+					"two": 325
+				}
+			},
+			{
+				"timestamp": 1604393523297,
+				"votes": {
+					"one": 448,
+					"two": 392
+				}
+			},
+			{
+				"timestamp": 1604393583397,
+				"votes": {
+					"one": 448,
+					"two": 392
+				}
+			},
+			{
+				"timestamp": 1604393643484,
+				"votes": {
+					"one": 464,
+					"two": 405
+				}
+			},
+			{
+				"timestamp": 1604393703284,
+				"votes": {
+					"one": 509,
+					"two": 455
+				}
+			},
+			{
+				"timestamp": 1604393763307,
+				"votes": {
+					"one": 509,
+					"two": 455
+				}
+			},
+			{
+				"timestamp": 1604393823287,
+				"votes": {
+					"one": 509,
+					"two": 455
+				}
+			},
+			{
+				"timestamp": 1604393883294,
+				"votes": {
+					"one": 574,
+					"two": 513
+				}
+			},
+			{
+				"timestamp": 1604393943319,
+				"votes": {
+					"one": 632,
+					"two": 561
+				}
+			},
+			{
+				"timestamp": 1604394003311,
+				"votes": {
+					"one": 632,
+					"two": 561
+				}
+			},
+			{
+				"timestamp": 1604394063285,
+				"votes": {
+					"one": 679,
+					"two": 620
+				}
+			},
+			{
+				"timestamp": 1604394123272,
+				"votes": {
+					"one": 679,
+					"two": 620
+				}
+			},
+			{
+				"timestamp": 1604394183277,
+				"votes": {
+					"one": 733,
+					"two": 668
+				}
+			},
+			{
+				"timestamp": 1604394243295,
+				"votes": {
+					"one": 733,
+					"two": 668
+				}
+			},
+			{
+				"timestamp": 1604394303279,
+				"votes": {
+					"one": 733,
+					"two": 668
+				}
+			},
+			{
+				"timestamp": 1604394363296,
+				"votes": {
+					"one": 772,
+					"two": 713
+				}
+			},
+			{
+				"timestamp": 1604394423305,
+				"votes": {
+					"one": 806,
+					"two": 750
+				}
+			},
+			{
+				"timestamp": 1604394483309,
+				"votes": {
+					"one": 806,
+					"two": 750
+				}
+			},
+			{
+				"timestamp": 1604394543267,
+				"votes": {
+					"one": 806,
+					"two": 750
+				}
+			},
+			{
+				"timestamp": 1604394603280,
+				"votes": {
+					"one": 837,
+					"two": 788
+				}
+			},
+			{
+				"timestamp": 1604394663294,
+				"votes": {
+					"one": 837,
+					"two": 788
+				}
+			},
+			{
+				"timestamp": 1604394723286,
+				"votes": {
+					"one": 879,
+					"two": 837
+				}
+			},
+			{
+				"timestamp": 1604394783294,
+				"votes": {
+					"one": 929,
+					"two": 876
+				}
+			},
+			{
+				"timestamp": 1604394843286,
+				"votes": {
+					"one": 929,
+					"two": 876
+				}
+			},
+			{
+				"timestamp": 1604394903590,
+				"votes": {
+					"one": 929,
+					"two": 876
+				}
+			},
+			{
+				"timestamp": 1604394963255,
+				"votes": {
+					"one": 971,
+					"two": 921
+				}
+			},
+			{
+				"timestamp": 1604395023282,
+				"votes": {
+					"one": 971,
+					"two": 921
+				}
+			},
+			{
+				"timestamp": 1604395083311,
+				"votes": {
+					"one": 971,
+					"two": 921
+				}
+			},
+			{
+				"timestamp": 1604395143276,
+				"votes": {
+					"one": 1007,
+					"two": 955
+				}
+			},
+			{
+				"timestamp": 1604395203301,
+				"votes": {
+					"one": 1041,
+					"two": 993
+				}
+			},
+			{
+				"timestamp": 1604395263342,
+				"votes": {
+					"one": 1041,
+					"two": 993
+				}
+			},
+			{
+				"timestamp": 1604395323269,
+				"votes": {
+					"one": 1041,
+					"two": 993
+				}
+			},
+			{
+				"timestamp": 1604395383284,
+				"votes": {
+					"one": 1078,
+					"two": 1036
+				}
+			},
+			{
+				"timestamp": 1604395443294,
+				"votes": {
+					"one": 1115,
+					"two": 1070
+				}
+			},
+			{
+				"timestamp": 1604395503289,
+				"votes": {
+					"one": 1115,
+					"two": 1070
+				}
+			},
+			{
+				"timestamp": 1604395563312,
+				"votes": {
+					"one": 1165,
+					"two": 1128
+				}
+			},
+			{
+				"timestamp": 1604395623385,
+				"votes": {
+					"one": 1165,
+					"two": 1128
+				}
+			},
+			{
+				"timestamp": 1604395683310,
+				"votes": {
+					"one": 1165,
+					"two": 1128
+				}
+			},
+			{
+				"timestamp": 1604395743283,
+				"votes": {
+					"one": 1214,
+					"two": 1179
+				}
+			},
+			{
+				"timestamp": 1604395803304,
+				"votes": {
+					"one": 1214,
+					"two": 1179
+				}
+			},
+			{
+				"timestamp": 1604395863336,
+				"votes": {
+					"one": 1252,
+					"two": 1206
+				}
+			},
+			{
+				"timestamp": 1604395923305,
+				"votes": {
+					"one": 1278,
+					"two": 1248
+				}
+			},
+			{
+				"timestamp": 1604395983302,
+				"votes": {
+					"one": 1278,
+					"two": 1248
+				}
+			},
+			{
+				"timestamp": 1604396043294,
+				"votes": {
+					"one": 1311,
+					"two": 1307
+				}
+			},
+			{
+				"timestamp": 1604396103371,
+				"votes": {
+					"one": 1311,
+					"two": 1307
+				}
+			},
+			{
+				"timestamp": 1604396163307,
+				"votes": {
+					"one": 1311,
+					"two": 1307
+				}
+			},
+			{
+				"timestamp": 1604396223383,
+				"votes": {
+					"one": 1363,
+					"two": 1373
+				}
+			},
+			{
+				"timestamp": 1604396283355,
+				"votes": {
+					"one": 1363,
+					"two": 1373
+				}
+			},
+			{
+				"timestamp": 1604396343366,
+				"votes": {
+					"one": 1417,
+					"two": 1438
+				}
+			},
+			{
+				"timestamp": 1604396403334,
+				"votes": {
+					"one": 1464,
+					"two": 1490
+				}
+			},
+			{
+				"timestamp": 1604396463336,
+				"votes": {
+					"one": 1464,
+					"two": 1490
+				}
+			},
+			{
+				"timestamp": 1604396523278,
+				"votes": {
+					"one": 1492,
+					"two": 1529
+				}
+			},
+			{
+				"timestamp": 1604396583291,
+				"votes": {
+					"one": 1492,
+					"two": 1529
+				}
+			},
+			{
+				"timestamp": 1604396643298,
+				"votes": {
+					"one": 1492,
+					"two": 1529
+				}
+			},
+			{
+				"timestamp": 1604396703291,
+				"votes": {
+					"one": 1492,
+					"two": 1529
+				}
+			},
+			{
+				"timestamp": 1604396763303,
+				"votes": {
+					"one": 1492,
+					"two": 1529
+				}
+			},
+			{
+				"timestamp": 1604396823315,
+				"votes": {
+					"one": 1555,
+					"two": 1597
+				}
+			},
+			{
+				"timestamp": 1604396883293,
+				"votes": {
+					"one": 1555,
+					"two": 1597
+				}
+			},
+			{
+				"timestamp": 1604396943538,
+				"votes": {
+					"one": 1555,
+					"two": 1597
+				}
+			},
+			{
+				"timestamp": 1604397003289,
+				"votes": {
+					"one": 1555,
+					"two": 1597
+				}
+			},
+			{
+				"timestamp": 1604397063294,
+				"votes": {
+					"one": 1606,
+					"two": 1679
+				}
+			},
+			{
+				"timestamp": 1604397123315,
+				"votes": {
+					"one": 1606,
+					"two": 1679
+				}
+			},
+			{
+				"timestamp": 1604397183520,
+				"votes": {
+					"one": 1606,
+					"two": 1679
+				}
+			},
+			{
+				"timestamp": 1604397243304,
+				"votes": {
+					"one": 1606,
+					"two": 1679
+				}
+			},
+			{
+				"timestamp": 1604397303340,
+				"votes": {
+					"one": 1665,
+					"two": 1735
+				}
+			},
+			{
+				"timestamp": 1604397363304,
+				"votes": {
+					"one": 1665,
+					"two": 1735
+				}
+			},
+			{
+				"timestamp": 1604397423320,
+				"votes": {
+					"one": 1665,
+					"two": 1735
+				}
+			},
+			{
+				"timestamp": 1604397483314,
+				"votes": {
+					"one": 1665,
+					"two": 1735
+				}
+			},
+			{
+				"timestamp": 1604397543478,
+				"votes": {
+					"one": 1732,
+					"two": 1781
+				}
+			},
+			{
+				"timestamp": 1604397603313,
+				"votes": {
+					"one": 1732,
+					"two": 1781
+				}
+			},
+			{
+				"timestamp": 1604397663299,
+				"votes": {
+					"one": 1732,
+					"two": 1781
+				}
+			},
+			{
+				"timestamp": 1604397723308,
+				"votes": {
+					"one": 1732,
+					"two": 1781
+				}
+			},
+			{
+				"timestamp": 1604397783305,
+				"votes": {
+					"one": 1776,
+					"two": 1844
+				}
+			},
+			{
+				"timestamp": 1604397843292,
+				"votes": {
+					"one": 1776,
+					"two": 1844
+				}
+			},
+			{
+				"timestamp": 1604397903285,
+				"votes": {
+					"one": 1776,
+					"two": 1844
+				}
+			},
+			{
+				"timestamp": 1604397963280,
+				"votes": {
+					"one": 1776,
+					"two": 1844
+				}
+			},
+			{
+				"timestamp": 1604398023333,
+				"votes": {
+					"one": 1825,
+					"two": 1895
+				}
+			},
+			{
+				"timestamp": 1604398083312,
+				"votes": {
+					"one": 1825,
+					"two": 1895
+				}
+			},
+			{
+				"timestamp": 1604398143298,
+				"votes": {
+					"one": 1825,
+					"two": 1895
+				}
+			},
+			{
+				"timestamp": 1604398203310,
+				"votes": {
+					"one": 1825,
+					"two": 1895
+				}
+			},
+			{
+				"timestamp": 1604398263300,
+				"votes": {
+					"one": 1892,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604398323351,
+				"votes": {
+					"one": 1892,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604398383305,
+				"votes": {
+					"one": 1892,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604398443334,
+				"votes": {
+					"one": 1892,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604398503307,
+				"votes": {
+					"one": 1892,
+					"two": 1972
+				}
+			},
+			{
+				"timestamp": 1604398563365,
+				"votes": {
+					"one": 1963,
+					"two": 2055
+				}
+			},
+			{
+				"timestamp": 1604398623325,
+				"votes": {
+					"one": 1963,
+					"two": 2055
+				}
+			},
+			{
+				"timestamp": 1604398683294,
+				"votes": {
+					"one": 1963,
+					"two": 2055
+				}
+			},
+			{
+				"timestamp": 1604398743330,
+				"votes": {
+					"one": 2032,
+					"two": 2112
+				}
+			},
+			{
+				"timestamp": 1604398803291,
+				"votes": {
+					"one": 2032,
+					"two": 2112
+				}
+			},
+			{
+				"timestamp": 1604398863407,
+				"votes": {
+					"one": 2032,
+					"two": 2112
+				}
+			},
+			{
+				"timestamp": 1604398923343,
+				"votes": {
+					"one": 2032,
+					"two": 2112
+				}
+			},
+			{
+				"timestamp": 1604398983308,
+				"votes": {
+					"one": 2088,
+					"two": 2156
+				}
+			},
+			{
+				"timestamp": 1604399043323,
+				"votes": {
+					"one": 2088,
+					"two": 2156
+				}
+			},
+			{
+				"timestamp": 1604399103355,
+				"votes": {
+					"one": 2088,
+					"two": 2156
+				}
+			},
+			{
+				"timestamp": 1604399163427,
+				"votes": {
+					"one": 2088,
+					"two": 2156
+				}
+			},
+			{
+				"timestamp": 1604399223338,
+				"votes": {
+					"one": 2130,
+					"two": 2196
+				}
+			},
+			{
+				"timestamp": 1604399283334,
+				"votes": {
+					"one": 2130,
+					"two": 2196
+				}
+			},
+			{
+				"timestamp": 1604399343302,
+				"votes": {
+					"one": 2130,
+					"two": 2196
+				}
+			},
+			{
+				"timestamp": 1604399403341,
+				"votes": {
+					"one": 2130,
+					"two": 2196
+				}
+			},
+			{
+				"timestamp": 1604399463329,
+				"votes": {
+					"one": 2130,
+					"two": 2196
+				}
+			},
+			{
+				"timestamp": 1604399523325,
+				"votes": {
+					"one": 2180,
+					"two": 2238
+				}
+			},
+			{
+				"timestamp": 1604399583331,
+				"votes": {
+					"one": 2180,
+					"two": 2238
+				}
+			},
+			{
+				"timestamp": 1604399643336,
+				"votes": {
+					"one": 2180,
+					"two": 2238
+				}
+			},
+			{
+				"timestamp": 1604399703330,
+				"votes": {
+					"one": 2180,
+					"two": 2238
+				}
+			},
+			{
+				"timestamp": 1604399763316,
+				"votes": {
+					"one": 2228,
+					"two": 2283
+				}
+			},
+			{
+				"timestamp": 1604399823339,
+				"votes": {
+					"one": 2228,
+					"two": 2283
+				}
+			},
+			{
+				"timestamp": 1604399883327,
+				"votes": {
+					"one": 2228,
+					"two": 2283
+				}
+			},
+			{
+				"timestamp": 1604399943329,
+				"votes": {
+					"one": 2228,
+					"two": 2283
+				}
+			},
+			{
+				"timestamp": 1604400003358,
+				"votes": {
+					"one": 2277,
+					"two": 2325
+				}
+			},
+			{
+				"timestamp": 1604400063364,
+				"votes": {
+					"one": 2277,
+					"two": 2325
+				}
+			},
+			{
+				"timestamp": 1604400123332,
+				"votes": {
+					"one": 2277,
+					"two": 2325
+				}
+			},
+			{
+				"timestamp": 1604400183397,
+				"votes": {
+					"one": 2329,
+					"two": 2377
+				}
+			},
+			{
+				"timestamp": 1604400243334,
+				"votes": {
+					"one": 2329,
+					"two": 2377
+				}
+			},
+			{
+				"timestamp": 1604400303396,
+				"votes": {
+					"one": 2329,
+					"two": 2377
+				}
+			},
+			{
+				"timestamp": 1604400363509,
+				"votes": {
+					"one": 2329,
+					"two": 2377
+				}
+			},
+			{
+				"timestamp": 1604400423406,
+				"votes": {
+					"one": 2329,
+					"two": 2377
+				}
+			},
+			{
+				"timestamp": 1604400483559,
+				"votes": {
+					"one": 2373,
+					"two": 2411
+				}
+			},
+			{
+				"timestamp": 1604400543355,
+				"votes": {
+					"one": 2373,
+					"two": 2411
+				}
+			},
+			{
+				"timestamp": 1604400603333,
+				"votes": {
+					"one": 2373,
+					"two": 2411
+				}
+			},
+			{
+				"timestamp": 1604400663602,
+				"votes": {
+					"one": 2373,
+					"two": 2411
+				}
+			},
+			{
+				"timestamp": 1604400723337,
+				"votes": {
+					"one": 2414,
+					"two": 2440
+				}
+			},
+			{
+				"timestamp": 1604400783623,
+				"votes": {
+					"one": 2414,
+					"two": 2440
+				}
+			},
+			{
+				"timestamp": 1604400843351,
+				"votes": {
+					"one": 2414,
+					"two": 2440
+				}
+			},
+			{
+				"timestamp": 1604400903339,
+				"votes": {
+					"one": 2461,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604400963371,
+				"votes": {
+					"one": 2461,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604401023397,
+				"votes": {
+					"one": 2461,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604401083482,
+				"votes": {
+					"one": 2461,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604401143463,
+				"votes": {
+					"one": 2461,
+					"two": 2476
+				}
+			},
+			{
+				"timestamp": 1604401203428,
+				"votes": {
+					"one": 2511,
+					"two": 2510
+				}
+			},
+			{
+				"timestamp": 1604401263677,
+				"votes": {
+					"one": 2511,
+					"two": 2510
+				}
+			},
+			{
+				"timestamp": 1604401323429,
+				"votes": {
+					"one": 2511,
+					"two": 2510
+				}
+			},
+			{
+				"timestamp": 1604401383434,
+				"votes": {
+					"one": 2511,
+					"two": 2510
+				}
+			},
+			{
+				"timestamp": 1604401443439,
+				"votes": {
+					"one": 2541,
+					"two": 2549
+				}
+			},
+			{
+				"timestamp": 1604401503466,
+				"votes": {
+					"one": 2541,
+					"two": 2549
+				}
+			},
+			{
+				"timestamp": 1604401563435,
+				"votes": {
+					"one": 2541,
+					"two": 2549
+				}
+			},
+			{
+				"timestamp": 1604401623458,
+				"votes": {
+					"one": 2541,
+					"two": 2549
+				}
+			},
+			{
+				"timestamp": 1604401683429,
+				"votes": {
+					"one": 2571,
+					"two": 2591
+				}
+			},
+			{
+				"timestamp": 1604401743438,
+				"votes": {
+					"one": 2571,
+					"two": 2591
+				}
+			},
+			{
+				"timestamp": 1604401803534,
+				"votes": {
+					"one": 2571,
+					"two": 2591
+				}
+			},
+			{
+				"timestamp": 1604401863464,
+				"votes": {
+					"one": 2571,
+					"two": 2591
+				}
+			},
+			{
+				"timestamp": 1604401923438,
+				"votes": {
+					"one": 2571,
+					"two": 2591
+				}
+			},
+			{
+				"timestamp": 1604401983465,
+				"votes": {
+					"one": 2571,
+					"two": 2591
+				}
+			},
+			{
+				"timestamp": 1604402043564,
+				"votes": {
+					"one": 2571,
+					"two": 2591
+				}
+			},
+			{
+				"timestamp": 1604402103446,
+				"votes": {
+					"one": 2571,
+					"two": 2591
+				}
+			},
+			{
+				"timestamp": 1604402163461,
+				"votes": {
+					"one": 2571,
+					"two": 2591
+				}
+			},
+			{
+				"timestamp": 1604402223458,
+				"votes": {
+					"one": 2571,
+					"two": 2591
+				}
+			},
+			{
+				"timestamp": 1604402283447,
+				"votes": {
+					"one": 2668,
+					"two": 2690
+				}
+			},
+			{
+				"timestamp": 1604402343462,
+				"votes": {
+					"one": 2668,
+					"two": 2690
+				}
+			},
+			{
+				"timestamp": 1604402403471,
+				"votes": {
+					"one": 2668,
+					"two": 2690
+				}
+			},
+			{
+				"timestamp": 1604402463464,
+				"votes": {
+					"one": 2668,
+					"two": 2690
+				}
+			},
+			{
+				"timestamp": 1604402523440,
+				"votes": {
+					"one": 2668,
+					"two": 2690
+				}
+			},
+			{
+				"timestamp": 1604402583475,
+				"votes": {
+					"one": 2668,
+					"two": 2690
+				}
+			},
+			{
+				"timestamp": 1604402643468,
+				"votes": {
+					"one": 2668,
+					"two": 2690
+				}
+			},
+			{
+				"timestamp": 1604402703451,
+				"votes": {
+					"one": 2668,
+					"two": 2690
+				}
+			},
+			{
+				"timestamp": 1604402763478,
+				"votes": {
+					"one": 2668,
+					"two": 2690
+				}
+			},
+			{
+				"timestamp": 1604402823483,
+				"votes": {
+					"one": 2781,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604402883471,
+				"votes": {
+					"one": 2781,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604402943529,
+				"votes": {
+					"one": 2781,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604403003473,
+				"votes": {
+					"one": 2781,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604403063442,
+				"votes": {
+					"one": 2781,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604403123435,
+				"votes": {
+					"one": 2781,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604403183501,
+				"votes": {
+					"one": 2781,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604403243451,
+				"votes": {
+					"one": 2781,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604403303578,
+				"votes": {
+					"one": 2781,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604403363489,
+				"votes": {
+					"one": 2781,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604403423457,
+				"votes": {
+					"one": 2781,
+					"two": 2817
+				}
+			},
+			{
+				"timestamp": 1604403483467,
+				"votes": {
+					"one": 2892,
+					"two": 2923
+				}
+			},
+			{
+				"timestamp": 1604403543468,
+				"votes": {
+					"one": 2892,
+					"two": 2923
+				}
+			},
+			{
+				"timestamp": 1604403603472,
+				"votes": {
+					"one": 2892,
+					"two": 2923
+				}
+			},
+			{
+				"timestamp": 1604403663471,
+				"votes": {
+					"one": 2892,
+					"two": 2923
+				}
+			},
+			{
+				"timestamp": 1604403723496,
+				"votes": {
+					"one": 2892,
+					"two": 2923
+				}
+			},
+			{
+				"timestamp": 1604403783464,
+				"votes": {
+					"one": 2892,
+					"two": 2923
+				}
+			},
+			{
+				"timestamp": 1604403843463,
+				"votes": {
+					"one": 2892,
+					"two": 2923
+				}
+			},
+			{
+				"timestamp": 1604403903452,
+				"votes": {
+					"one": 2892,
+					"two": 2923
+				}
+			},
+			{
+				"timestamp": 1604403963463,
+				"votes": {
+					"one": 2892,
+					"two": 2923
+				}
+			},
+			{
+				"timestamp": 1604404023453,
+				"votes": {
+					"one": 2892,
+					"two": 2923
+				}
+			},
+			{
+				"timestamp": 1604404083488,
+				"votes": {
+					"one": 2967,
+					"two": 3009
+				}
+			},
+			{
+				"timestamp": 1604404143480,
+				"votes": {
+					"one": 2967,
+					"two": 3009
+				}
+			},
+			{
+				"timestamp": 1604404203482,
+				"votes": {
+					"one": 2967,
+					"two": 3009
+				}
+			},
+			{
+				"timestamp": 1604404263456,
+				"votes": {
+					"one": 2967,
+					"two": 3009
+				}
+			},
+			{
+				"timestamp": 1604404323510,
+				"votes": {
+					"one": 2967,
+					"two": 3009
+				}
+			},
+			{
+				"timestamp": 1604404383468,
+				"votes": {
+					"one": 2967,
+					"two": 3009
+				}
+			},
+			{
+				"timestamp": 1604404443465,
+				"votes": {
+					"one": 2967,
+					"two": 3009
+				}
+			},
+			{
+				"timestamp": 1604404503498,
+				"votes": {
+					"one": 2967,
+					"two": 3009
+				}
+			},
+			{
+				"timestamp": 1604404563508,
+				"votes": {
+					"one": 2967,
+					"two": 3009
+				}
+			},
+			{
+				"timestamp": 1604404623503,
+				"votes": {
+					"one": 2967,
+					"two": 3009
+				}
+			},
+			{
+				"timestamp": 1604404683475,
+				"votes": {
+					"one": 3063,
+					"two": 3092
+				}
+			},
+			{
+				"timestamp": 1604404743467,
+				"votes": {
+					"one": 3063,
+					"two": 3092
+				}
+			},
+			{
+				"timestamp": 1604404803514,
+				"votes": {
+					"one": 3063,
+					"two": 3092
+				}
+			},
+			{
+				"timestamp": 1604404863480,
+				"votes": {
+					"one": 3063,
+					"two": 3092
+				}
+			},
+			{
+				"timestamp": 1604404923488,
+				"votes": {
+					"one": 3063,
+					"two": 3092
+				}
+			},
+			{
+				"timestamp": 1604404983489,
+				"votes": {
+					"one": 3063,
+					"two": 3092
+				}
+			},
+			{
+				"timestamp": 1604405043454,
+				"votes": {
+					"one": 3063,
+					"two": 3092
+				}
+			},
+			{
+				"timestamp": 1604405103476,
+				"votes": {
+					"one": 3063,
+					"two": 3092
+				}
+			},
+			{
+				"timestamp": 1604405163475,
+				"votes": {
+					"one": 3063,
+					"two": 3092
+				}
+			},
+			{
+				"timestamp": 1604405223472,
+				"votes": {
+					"one": 3063,
+					"two": 3092
+				}
+			},
+			{
+				"timestamp": 1604405283485,
+				"votes": {
+					"one": 3148,
+					"two": 3160
+				}
+			},
+			{
+				"timestamp": 1604405343470,
+				"votes": {
+					"one": 3148,
+					"two": 3160
+				}
+			},
+			{
+				"timestamp": 1604405403470,
+				"votes": {
+					"one": 3148,
+					"two": 3160
+				}
+			},
+			{
+				"timestamp": 1604405463541,
+				"votes": {
+					"one": 3148,
+					"two": 3160
+				}
+			},
+			{
+				"timestamp": 1604405523464,
+				"votes": {
+					"one": 3148,
+					"two": 3160
+				}
+			},
+			{
+				"timestamp": 1604405583506,
+				"votes": {
+					"one": 3148,
+					"two": 3160
+				}
+			},
+			{
+				"timestamp": 1604405643452,
+				"votes": {
+					"one": 3148,
+					"two": 3160
+				}
+			},
+			{
+				"timestamp": 1604405703471,
+				"votes": {
+					"one": 3148,
+					"two": 3160
+				}
+			},
+			{
+				"timestamp": 1604405763571,
+				"votes": {
+					"one": 3148,
+					"two": 3160
+				}
+			},
+			{
+				"timestamp": 1604405823464,
+				"votes": {
+					"one": 3148,
+					"two": 3160
+				}
+			},
+			{
+				"timestamp": 1604405883490,
+				"votes": {
+					"one": 3201,
+					"two": 3228
+				}
+			},
+			{
+				"timestamp": 1604405943456,
+				"votes": {
+					"one": 3201,
+					"two": 3228
+				}
+			},
+			{
+				"timestamp": 1604406003478,
+				"votes": {
+					"one": 3201,
+					"two": 3228
+				}
+			},
+			{
+				"timestamp": 1604406063447,
+				"votes": {
+					"one": 3201,
+					"two": 3228
+				}
+			},
+			{
+				"timestamp": 1604406123535,
+				"votes": {
+					"one": 3201,
+					"two": 3228
+				}
+			},
+			{
+				"timestamp": 1604406183462,
+				"votes": {
+					"one": 3201,
+					"two": 3228
+				}
+			},
+			{
+				"timestamp": 1604406243469,
+				"votes": {
+					"one": 3201,
+					"two": 3228
+				}
+			},
+			{
+				"timestamp": 1604406303448,
+				"votes": {
+					"one": 3201,
+					"two": 3228
+				}
+			},
+			{
+				"timestamp": 1604406363479,
+				"votes": {
+					"one": 3201,
+					"two": 3228
+				}
+			},
+			{
+				"timestamp": 1604406423482,
+				"votes": {
+					"one": 3201,
+					"two": 3228
+				}
+			},
+			{
+				"timestamp": 1604406483486,
+				"votes": {
+					"one": 3201,
+					"two": 3228
+				}
+			},
+			{
+				"timestamp": 1604406543495,
+				"votes": {
+					"one": 3265,
+					"two": 3296
+				}
+			},
+			{
+				"timestamp": 1604406603476,
+				"votes": {
+					"one": 3265,
+					"two": 3296
+				}
+			},
+			{
+				"timestamp": 1604406663534,
+				"votes": {
+					"one": 3265,
+					"two": 3296
+				}
+			},
+			{
+				"timestamp": 1604406723479,
+				"votes": {
+					"one": 3265,
+					"two": 3296
+				}
+			},
+			{
+				"timestamp": 1604406783516,
+				"votes": {
+					"one": 3265,
+					"two": 3296
+				}
+			},
+			{
+				"timestamp": 1604406843492,
+				"votes": {
+					"one": 3265,
+					"two": 3296
+				}
+			},
+			{
+				"timestamp": 1604406903823,
+				"votes": {
+					"one": 3265,
+					"two": 3296
+				}
+			},
+			{
+				"timestamp": 1604406963506,
+				"votes": {
+					"one": 3265,
+					"two": 3296
+				}
+			},
+			{
+				"timestamp": 1604407023478,
+				"votes": {
+					"one": 3265,
+					"two": 3296
+				}
+			},
+			{
+				"timestamp": 1604407083480,
+				"votes": {
+					"one": 3342,
+					"two": 3353
+				}
+			},
+			{
+				"timestamp": 1604407143484,
+				"votes": {
+					"one": 3342,
+					"two": 3353
+				}
+			},
+			{
+				"timestamp": 1604407203479,
+				"votes": {
+					"one": 3342,
+					"two": 3353
+				}
+			},
+			{
+				"timestamp": 1604407263523,
+				"votes": {
+					"one": 3342,
+					"two": 3353
+				}
+			},
+			{
+				"timestamp": 1604407323504,
+				"votes": {
+					"one": 3342,
+					"two": 3353
+				}
+			},
+			{
+				"timestamp": 1604407383512,
+				"votes": {
+					"one": 3342,
+					"two": 3353
+				}
+			},
+			{
+				"timestamp": 1604407443518,
+				"votes": {
+					"one": 3342,
+					"two": 3353
+				}
+			},
+			{
+				"timestamp": 1604407503484,
+				"votes": {
+					"one": 3342,
+					"two": 3353
+				}
+			},
+			{
+				"timestamp": 1604407563479,
+				"votes": {
+					"one": 3342,
+					"two": 3353
+				}
+			},
+			{
+				"timestamp": 1604407623496,
+				"votes": {
+					"one": 3342,
+					"two": 3353
+				}
+			},
+			{
+				"timestamp": 1604407683481,
+				"votes": {
+					"one": 3417,
+					"two": 3424
+				}
+			},
+			{
+				"timestamp": 1604407743462,
+				"votes": {
+					"one": 3417,
+					"two": 3424
+				}
+			},
+			{
+				"timestamp": 1604407803488,
+				"votes": {
+					"one": 3417,
+					"two": 3424
+				}
+			},
+			{
+				"timestamp": 1604407863483,
+				"votes": {
+					"one": 3417,
+					"two": 3424
+				}
+			},
+			{
+				"timestamp": 1604407923471,
+				"votes": {
+					"one": 3417,
+					"two": 3424
+				}
+			},
+			{
+				"timestamp": 1604407983518,
+				"votes": {
+					"one": 3417,
+					"two": 3424
+				}
+			},
+			{
+				"timestamp": 1604408043499,
+				"votes": {
+					"one": 3417,
+					"two": 3424
+				}
+			},
+			{
+				"timestamp": 1604408103489,
+				"votes": {
+					"one": 3417,
+					"two": 3424
+				}
+			},
+			{
+				"timestamp": 1604408163503,
+				"votes": {
+					"one": 3417,
+					"two": 3424
+				}
+			},
+			{
+				"timestamp": 1604408223573,
+				"votes": {
+					"one": 3417,
+					"two": 3424
+				}
+			},
+			{
+				"timestamp": 1604408283504,
+				"votes": {
+					"one": 3484,
+					"two": 3475
+				}
+			},
+			{
+				"timestamp": 1604408343570,
+				"votes": {
+					"one": 3484,
+					"two": 3475
+				}
+			},
+			{
+				"timestamp": 1604408403507,
+				"votes": {
+					"one": 3484,
+					"two": 3475
+				}
+			},
+			{
+				"timestamp": 1604408463485,
+				"votes": {
+					"one": 3484,
+					"two": 3475
+				}
+			},
+			{
+				"timestamp": 1604408523502,
+				"votes": {
+					"one": 3484,
+					"two": 3475
+				}
+			},
+			{
+				"timestamp": 1604408583521,
+				"votes": {
+					"one": 3484,
+					"two": 3475
+				}
+			},
+			{
+				"timestamp": 1604408643537,
+				"votes": {
+					"one": 3484,
+					"two": 3475
+				}
+			},
+			{
+				"timestamp": 1604408703492,
+				"votes": {
+					"one": 3484,
+					"two": 3475
+				}
+			},
+			{
+				"timestamp": 1604408763566,
+				"votes": {
+					"one": 3484,
+					"two": 3475
+				}
+			},
+			{
+				"timestamp": 1604408823539,
+				"votes": {
+					"one": 3484,
+					"two": 3475
+				}
+			},
+			{
+				"timestamp": 1604408883530,
+				"votes": {
+					"one": 3546,
+					"two": 3534
+				}
+			},
+			{
+				"timestamp": 1604408943491,
+				"votes": {
+					"one": 3546,
+					"two": 3534
+				}
+			},
+			{
+				"timestamp": 1604409003493,
+				"votes": {
+					"one": 3546,
+					"two": 3534
+				}
+			},
+			{
+				"timestamp": 1604409063535,
+				"votes": {
+					"one": 3546,
+					"two": 3534
+				}
+			},
+			{
+				"timestamp": 1604409123572,
+				"votes": {
+					"one": 3546,
+					"two": 3534
+				}
+			},
+			{
+				"timestamp": 1604409183549,
+				"votes": {
+					"one": 3546,
+					"two": 3534
+				}
+			},
+			{
+				"timestamp": 1604409243506,
+				"votes": {
+					"one": 3546,
+					"two": 3534
+				}
+			},
+			{
+				"timestamp": 1604409303488,
+				"votes": {
+					"one": 3546,
+					"two": 3534
+				}
+			},
+			{
+				"timestamp": 1604409363483,
+				"votes": {
+					"one": 3546,
+					"two": 3534
+				}
+			},
+			{
+				"timestamp": 1604409423516,
+				"votes": {
+					"one": 3546,
+					"two": 3534
+				}
+			},
+			{
+				"timestamp": 1604409483493,
+				"votes": {
+					"one": 3613,
+					"two": 3603
+				}
+			},
+			{
+				"timestamp": 1604409543498,
+				"votes": {
+					"one": 3613,
+					"two": 3603
+				}
+			},
+			{
+				"timestamp": 1604409603484,
+				"votes": {
+					"one": 3613,
+					"two": 3603
+				}
+			},
+			{
+				"timestamp": 1604409663528,
+				"votes": {
+					"one": 3613,
+					"two": 3603
+				}
+			},
+			{
+				"timestamp": 1604409723475,
+				"votes": {
+					"one": 3613,
+					"two": 3603
+				}
+			},
+			{
+				"timestamp": 1604409783478,
+				"votes": {
+					"one": 3613,
+					"two": 3603
+				}
+			},
+			{
+				"timestamp": 1604409843494,
+				"votes": {
+					"one": 3613,
+					"two": 3603
+				}
+			},
+			{
+				"timestamp": 1604409903526,
+				"votes": {
+					"one": 3613,
+					"two": 3603
+				}
+			},
+			{
+				"timestamp": 1604409963538,
+				"votes": {
+					"one": 3613,
+					"two": 3603
+				}
+			},
+			{
+				"timestamp": 1604410023549,
+				"votes": {
+					"one": 3613,
+					"two": 3603
+				}
+			},
+			{
+				"timestamp": 1604410083502,
+				"votes": {
+					"one": 3613,
+					"two": 3603
+				}
+			},
+			{
+				"timestamp": 1604410143483,
+				"votes": {
+					"one": 3668,
+					"two": 3662
+				}
+			},
+			{
+				"timestamp": 1604410203502,
+				"votes": {
+					"one": 3668,
+					"two": 3662
+				}
+			},
+			{
+				"timestamp": 1604410263505,
+				"votes": {
+					"one": 3668,
+					"two": 3662
+				}
+			},
+			{
+				"timestamp": 1604410323529,
+				"votes": {
+					"one": 3668,
+					"two": 3662
+				}
+			},
+			{
+				"timestamp": 1604410383505,
+				"votes": {
+					"one": 3668,
+					"two": 3662
+				}
+			},
+			{
+				"timestamp": 1604410443530,
+				"votes": {
+					"one": 3668,
+					"two": 3662
+				}
+			},
+			{
+				"timestamp": 1604410503504,
+				"votes": {
+					"one": 3668,
+					"two": 3662
+				}
+			},
+			{
+				"timestamp": 1604410563527,
+				"votes": {
+					"one": 3668,
+					"two": 3662
+				}
+			},
+			{
+				"timestamp": 1604410623574,
+				"votes": {
+					"one": 3668,
+					"two": 3662
+				}
+			},
+			{
+				"timestamp": 1604410683521,
+				"votes": {
+					"one": 3703,
+					"two": 3706
+				}
+			},
+			{
+				"timestamp": 1604410743549,
+				"votes": {
+					"one": 3703,
+					"two": 3706
+				}
+			},
+			{
+				"timestamp": 1604410803485,
+				"votes": {
+					"one": 3703,
+					"two": 3706
+				}
+			},
+			{
+				"timestamp": 1604410863502,
+				"votes": {
+					"one": 3703,
+					"two": 3706
+				}
+			},
+			{
+				"timestamp": 1604410923506,
+				"votes": {
+					"one": 3703,
+					"two": 3706
+				}
+			},
+			{
+				"timestamp": 1604410983502,
+				"votes": {
+					"one": 3703,
+					"two": 3706
+				}
+			},
+			{
+				"timestamp": 1604411043506,
+				"votes": {
+					"one": 3703,
+					"two": 3706
+				}
+			},
+			{
+				"timestamp": 1604411103517,
+				"votes": {
+					"one": 3703,
+					"two": 3706
+				}
+			},
+			{
+				"timestamp": 1604411163505,
+				"votes": {
+					"one": 3703,
+					"two": 3706
+				}
+			},
+			{
+				"timestamp": 1604411202636,
+				"votes": {
+					"one": 3703,
+					"two": 3706
+				}
+			},
+			{
+				"timestamp": 1604411262544,
+				"votes": {
+					"one": 3703,
+					"two": 3706
+				}
+			},
+			{
+				"timestamp": 1604411322547,
+				"votes": {
+					"one": 3750,
+					"two": 3753
+				}
+			},
+			{
+				"timestamp": 1604411382538,
+				"votes": {
+					"one": 3750,
+					"two": 3753
+				}
+			},
+			{
+				"timestamp": 1604411442567,
+				"votes": {
+					"one": 3750,
+					"two": 3753
+				}
+			},
+			{
+				"timestamp": 1604411502603,
+				"votes": {
+					"one": 3750,
+					"two": 3753
+				}
+			},
+			{
+				"timestamp": 1604411562525,
+				"votes": {
+					"one": 3750,
+					"two": 3753
+				}
+			},
+			{
+				"timestamp": 1604411622541,
+				"votes": {
+					"one": 3750,
+					"two": 3753
+				}
+			},
+			{
+				"timestamp": 1604411682510,
+				"votes": {
+					"one": 3750,
+					"two": 3753
+				}
+			},
+			{
+				"timestamp": 1604411742560,
+				"votes": {
+					"one": 3750,
+					"two": 3753
+				}
+			},
+			{
+				"timestamp": 1604411802529,
+				"votes": {
+					"one": 3750,
+					"two": 3753
+				}
+			},
+			{
+				"timestamp": 1604411862548,
+				"votes": {
+					"one": 3750,
+					"two": 3753
+				}
+			},
+			{
+				"timestamp": 1604411922593,
+				"votes": {
+					"one": 3796,
+					"two": 3797
+				}
+			},
+			{
+				"timestamp": 1604411982542,
+				"votes": {
+					"one": 3796,
+					"two": 3797
+				}
+			},
+			{
+				"timestamp": 1604412042529,
+				"votes": {
+					"one": 3796,
+					"two": 3797
+				}
+			},
+			{
+				"timestamp": 1604412102544,
+				"votes": {
+					"one": 3796,
+					"two": 3797
+				}
+			},
+			{
+				"timestamp": 1604412162580,
+				"votes": {
+					"one": 3796,
+					"two": 3797
+				}
+			},
+			{
+				"timestamp": 1604412222537,
+				"votes": {
+					"one": 3796,
+					"two": 3797
+				}
+			},
+			{
+				"timestamp": 1604412282525,
+				"votes": {
+					"one": 3796,
+					"two": 3797
+				}
+			},
+			{
+				"timestamp": 1604412342532,
+				"votes": {
+					"one": 3796,
+					"two": 3797
+				}
+			},
+			{
+				"timestamp": 1604412402550,
+				"votes": {
+					"one": 3796,
+					"two": 3797
+				}
+			},
+			{
+				"timestamp": 1604412462525,
+				"votes": {
+					"one": 3796,
+					"two": 3797
+				}
+			},
+			{
+				"timestamp": 1604412522601,
+				"votes": {
+					"one": 3796,
+					"two": 3797
+				}
+			},
+			{
+				"timestamp": 1604412582557,
+				"votes": {
+					"one": 3830,
+					"two": 3843
+				}
+			},
+			{
+				"timestamp": 1604412642524,
+				"votes": {
+					"one": 3830,
+					"two": 3843
+				}
+			},
+			{
+				"timestamp": 1604412702597,
+				"votes": {
+					"one": 3830,
+					"two": 3843
+				}
+			},
+			{
+				"timestamp": 1604412762580,
+				"votes": {
+					"one": 3830,
+					"two": 3843
+				}
+			},
+			{
+				"timestamp": 1604412822525,
+				"votes": {
+					"one": 3830,
+					"two": 3843
+				}
+			},
+			{
+				"timestamp": 1604412882539,
+				"votes": {
+					"one": 3830,
+					"two": 3843
+				}
+			},
+			{
+				"timestamp": 1604412942650,
+				"votes": {
+					"one": 3830,
+					"two": 3843
+				}
+			},
+			{
+				"timestamp": 1604413002541,
+				"votes": {
+					"one": 3830,
+					"two": 3843
+				}
+			},
+			{
+				"timestamp": 1604413062553,
+				"votes": {
+					"one": 3830,
+					"two": 3843
+				}
+			},
+			{
+				"timestamp": 1604413122545,
+				"votes": {
+					"one": 3881,
+					"two": 3893
+				}
+			},
+			{
+				"timestamp": 1604413182644,
+				"votes": {
+					"one": 3881,
+					"two": 3893
+				}
+			},
+			{
+				"timestamp": 1604413242535,
+				"votes": {
+					"one": 3881,
+					"two": 3893
+				}
+			},
+			{
+				"timestamp": 1604413302531,
+				"votes": {
+					"one": 3881,
+					"two": 3893
+				}
+			},
+			{
+				"timestamp": 1604413362618,
+				"votes": {
+					"one": 3881,
+					"two": 3893
+				}
+			},
+			{
+				"timestamp": 1604413422524,
+				"votes": {
+					"one": 3881,
+					"two": 3893
+				}
+			},
+			{
+				"timestamp": 1604413482557,
+				"votes": {
+					"one": 3881,
+					"two": 3893
+				}
+			},
+			{
+				"timestamp": 1604413542590,
+				"votes": {
+					"one": 3881,
+					"two": 3893
+				}
+			},
+			{
+				"timestamp": 1604413602561,
+				"votes": {
+					"one": 3881,
+					"two": 3893
+				}
+			},
+			{
+				"timestamp": 1604413662584,
+				"votes": {
+					"one": 3881,
+					"two": 3893
+				}
+			},
+			{
+				"timestamp": 1604413722573,
+				"votes": {
+					"one": 3936,
+					"two": 3947
+				}
+			},
+			{
+				"timestamp": 1604413782548,
+				"votes": {
+					"one": 3936,
+					"two": 3947
+				}
+			},
+			{
+				"timestamp": 1604413842549,
+				"votes": {
+					"one": 3936,
+					"two": 3947
+				}
+			},
+			{
+				"timestamp": 1604413902610,
+				"votes": {
+					"one": 3936,
+					"two": 3947
+				}
+			},
+			{
+				"timestamp": 1604413962532,
+				"votes": {
+					"one": 3936,
+					"two": 3947
+				}
+			},
+			{
+				"timestamp": 1604414022548,
+				"votes": {
+					"one": 3936,
+					"two": 3947
+				}
+			},
+			{
+				"timestamp": 1604414082552,
+				"votes": {
+					"one": 3936,
+					"two": 3947
+				}
+			},
+			{
+				"timestamp": 1604414142581,
+				"votes": {
+					"one": 3936,
+					"two": 3947
+				}
+			},
+			{
+				"timestamp": 1604414202569,
+				"votes": {
+					"one": 3936,
+					"two": 3947
+				}
+			},
+			{
+				"timestamp": 1604414262584,
+				"votes": {
+					"one": 3936,
+					"two": 3947
+				}
+			},
+			{
+				"timestamp": 1604414322561,
+				"votes": {
+					"one": 4005,
+					"two": 4022
+				}
+			},
+			{
+				"timestamp": 1604414382673,
+				"votes": {
+					"one": 4005,
+					"two": 4022
+				}
+			},
+			{
+				"timestamp": 1604414442596,
+				"votes": {
+					"one": 4005,
+					"two": 4022
+				}
+			},
+			{
+				"timestamp": 1604414502653,
+				"votes": {
+					"one": 4005,
+					"two": 4022
+				}
+			},
+			{
+				"timestamp": 1604414562690,
+				"votes": {
+					"one": 4005,
+					"two": 4022
+				}
+			},
+			{
+				"timestamp": 1604414622657,
+				"votes": {
+					"one": 4005,
+					"two": 4022
+				}
+			},
+			{
+				"timestamp": 1604414682683,
+				"votes": {
+					"one": 4005,
+					"two": 4022
+				}
+			},
+			{
+				"timestamp": 1604414742698,
+				"votes": {
+					"one": 4005,
+					"two": 4022
+				}
+			},
+			{
+				"timestamp": 1604414802698,
+				"votes": {
+					"one": 4005,
+					"two": 4022
+				}
+			},
+			{
+				"timestamp": 1604414862678,
+				"votes": {
+					"one": 4005,
+					"two": 4022
+				}
+			},
+			{
+				"timestamp": 1604414922727,
+				"votes": {
+					"one": 4005,
+					"two": 4022
+				}
+			},
+			{
+				"timestamp": 1604414982704,
+				"votes": {
+					"one": 4080,
+					"two": 4091
+				}
+			},
+			{
+				"timestamp": 1604415042719,
+				"votes": {
+					"one": 4080,
+					"two": 4091
 				}
 			}
 		]
