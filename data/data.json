@@ -55375,7 +55375,7 @@
 		},
 		{
 			"tweetId": "1323546027790606338",
-			"game": "unknown0",
+			"game": "semia1",
 			"poll": {
 				"id": "1323546027090169856",
 				"duration_minutes": 1440,
@@ -115433,8 +115433,8 @@
 			}
 		]
 	},
-	"unknown0": {
-		"game": "unknown0",
+	"semia1": {
+		"game": "semia1",
 		"options": {
 			"one": "Jubilee Line",
 			"two": "Thameslink"
