@@ -55113,6 +55113,10 @@
 			"tweetId": "1320637628518223872",
 			"game": "knockouta1",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-10-27T08:05:21.000Z",
+				"id": "1320637627821924352",
+				"duration_minutes": 1440,
 				"options": [
 					{
 						"position": 1,
@@ -55124,17 +55128,17 @@
 						"label": "Northern Line",
 						"votes": 3973
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1440,
-				"end_datetime": "2020-10-27T08:05:21.000Z",
-				"id": "1320637627821924352"
+				]
 			}
 		},
 		{
 			"tweetId": "1320637979858247680",
 			"game": "knockouta2",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-10-27T08:06:45.000Z",
+				"id": "1320637979174592513",
+				"duration_minutes": 1440,
 				"options": [
 					{
 						"position": 1,
@@ -55146,17 +55150,17 @@
 						"label": "TfL Rail",
 						"votes": 1485
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1440,
-				"end_datetime": "2020-10-27T08:06:45.000Z",
-				"id": "1320637979174592513"
+				]
 			}
 		},
 		{
 			"tweetId": "1321001660479639552",
 			"game": "knockouta3",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-10-28T08:11:53.000Z",
+				"id": "1321001659766575106",
+				"duration_minutes": 1440,
 				"options": [
 					{
 						"position": 1,
@@ -55168,17 +55172,17 @@
 						"label": "District Line",
 						"votes": 3369
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1440,
-				"end_datetime": "2020-10-28T08:11:53.000Z",
-				"id": "1321001659766575106"
+				]
 			}
 		},
 		{
 			"tweetId": "1321002110801108993",
 			"game": "knockouta4",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-10-28T08:13:40.000Z",
+				"id": "1321002110142586880",
+				"duration_minutes": 1440,
 				"options": [
 					{
 						"position": 1,
@@ -55190,17 +55194,17 @@
 						"label": "Thameslink",
 						"votes": 4006
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1440,
-				"end_datetime": "2020-10-28T08:13:40.000Z",
-				"id": "1321002110142586880"
+				]
 			}
 		},
 		{
 			"tweetId": "1321364991803621376",
 			"game": "knockoutb1",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-10-29T08:00:38.000Z",
+				"id": "1321364991115726849",
+				"duration_minutes": 1425,
 				"options": [
 					{
 						"position": 1,
@@ -55212,17 +55216,17 @@
 						"label": "Victoria Line",
 						"votes": 3223
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1425,
-				"end_datetime": "2020-10-29T08:00:38.000Z",
-				"id": "1321364991115726849"
+				]
 			}
 		},
 		{
 			"tweetId": "1321365302811217923",
 			"game": "knockoutb2",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-10-29T07:59:52.000Z",
+				"id": "1321365302144368640",
+				"duration_minutes": 1423,
 				"options": [
 					{
 						"position": 1,
@@ -55234,17 +55238,17 @@
 						"label": "Trams",
 						"votes": 2231
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1423,
-				"end_datetime": "2020-10-29T07:59:52.000Z",
-				"id": "1321365302144368640"
+				]
 			}
 		},
 		{
 			"tweetId": "1321728842680160256",
 			"game": "knockoutb3",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-10-30T08:21:27.000Z",
+				"id": "1321728842000670721",
+				"duration_minutes": 1440,
 				"options": [
 					{
 						"position": 1,
@@ -55256,17 +55260,17 @@
 						"label": "Cable Car",
 						"votes": 1588
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1440,
-				"end_datetime": "2020-10-30T08:21:27.000Z",
-				"id": "1321728842000670721"
+				]
 			}
 		},
 		{
 			"tweetId": "1321729313247547392",
 			"game": "knockoutb4",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-10-30T08:23:19.000Z",
+				"id": "1321729312584814593",
+				"duration_minutes": 1440,
 				"options": [
 					{
 						"position": 1,
@@ -55278,17 +55282,17 @@
 						"label": "Piccadilly Line",
 						"votes": 2296
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1440,
-				"end_datetime": "2020-10-30T08:23:19.000Z",
-				"id": "1321729312584814593"
+				]
 			}
 		},
 		{
 			"tweetId": "1322086641322938368",
 			"game": "quartera1",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-10-31T08:03:12.000Z",
+				"id": "1322086640505049088",
+				"duration_minutes": 1440,
 				"options": [
 					{
 						"position": 1,
@@ -55300,17 +55304,17 @@
 						"label": "Jubilee Line",
 						"votes": 3306
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1440,
-				"end_datetime": "2020-10-31T08:03:12.000Z",
-				"id": "1322086640505049088"
+				]
 			}
 		},
 		{
 			"tweetId": "1322463418738266112",
 			"game": "quartera2",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-11-01T09:00:23.000Z",
+				"id": "1322463417886715906",
+				"duration_minutes": 1440,
 				"options": [
 					{
 						"position": 1,
@@ -55322,17 +55326,17 @@
 						"label": "Thameslink",
 						"votes": 3357
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1440,
-				"end_datetime": "2020-11-01T09:00:23.000Z",
-				"id": "1322463417886715906"
+				]
 			}
 		},
 		{
 			"tweetId": "1322834253411807232",
 			"game": "quarterb1",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-11-02T09:18:57.000Z",
+				"id": "1322834252594106373",
+				"duration_minutes": 1425,
 				"options": [
 					{
 						"position": 1,
@@ -55344,17 +55348,17 @@
 						"label": "Metropolitan Line",
 						"votes": 2578
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1425,
-				"end_datetime": "2020-11-02T09:18:57.000Z",
-				"id": "1322834252594106373"
+				]
 			}
 		},
 		{
 			"tweetId": "1323192824242802688",
 			"game": "quarterb2",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-11-03T09:01:47.000Z",
+				"id": "1323192823215247360",
+				"duration_minutes": 1423,
 				"options": [
 					{
 						"position": 1,
@@ -55366,17 +55370,17 @@
 						"label": "DLR",
 						"votes": 2971
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1423,
-				"end_datetime": "2020-11-03T09:01:47.000Z",
-				"id": "1323192823215247360"
+				]
 			}
 		},
 		{
 			"tweetId": "1323546027790606338",
 			"game": "semia1",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-11-04T08:42:17.000Z",
+				"id": "1323546027090169856",
+				"duration_minutes": 1440,
 				"options": [
 					{
 						"position": 1,
@@ -55388,17 +55392,17 @@
 						"label": "Thameslink",
 						"votes": 6097
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1440,
-				"end_datetime": "2020-11-04T08:42:17.000Z",
-				"id": "1323546027090169856"
+				]
 			}
 		},
 		{
 			"tweetId": "1323911035963822080",
 			"game": "semib1",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-11-05T08:52:42.000Z",
+				"id": "1323911035229786112",
+				"duration_minutes": 1440,
 				"options": [
 					{
 						"position": 1,
@@ -55410,39 +55414,39 @@
 						"label": "DLR",
 						"votes": 3876
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1440,
-				"end_datetime": "2020-11-05T08:52:42.000Z",
-				"id": "1323911035229786112"
+				]
 			}
 		},
 		{
 			"tweetId": "1324645232135331840",
 			"game": "final",
 			"poll": {
+				"voting_status": "open",
+				"end_datetime": "2020-11-08T05:00:08.000Z",
+				"id": "1324645231481028608",
+				"duration_minutes": 2610,
 				"options": [
 					{
 						"position": 1,
 						"label": "Thameslink",
-						"votes": 9977
+						"votes": 10096
 					},
 					{
 						"position": 2,
 						"label": "DLR",
-						"votes": 9447
+						"votes": 9526
 					}
-				],
-				"voting_status": "open",
-				"duration_minutes": 2610,
-				"end_datetime": "2020-11-08T05:00:08.000Z",
-				"id": "1324645231481028608"
+				]
 			}
 		},
 		{
 			"tweetId": "1324275954668195842",
 			"game": "playoff",
 			"poll": {
+				"voting_status": "closed",
+				"end_datetime": "2020-11-06T08:45:45.000Z",
+				"id": "1324275953950969856",
+				"duration_minutes": 1423,
 				"options": [
 					{
 						"position": 1,
@@ -55454,11 +55458,7 @@
 						"label": "Victoria Line",
 						"votes": 2081
 					}
-				],
-				"voting_status": "closed",
-				"duration_minutes": 1423,
-				"end_datetime": "2020-11-06T08:45:45.000Z",
-				"id": "1324275953950969856"
+				]
 			}
 		}
 	],
@@ -155060,6 +155060,475 @@
 				"votes": {
 					"one": 9977,
 					"two": 9447
+				}
+			},
+			{
+				"timestamp": 1604787510631,
+				"votes": {
+					"one": 9977,
+					"two": 9447
+				}
+			},
+			{
+				"timestamp": 1604787570702,
+				"votes": {
+					"one": 9977,
+					"two": 9447
+				}
+			},
+			{
+				"timestamp": 1604787630718,
+				"votes": {
+					"one": 9977,
+					"two": 9447
+				}
+			},
+			{
+				"timestamp": 1604787690668,
+				"votes": {
+					"one": 9977,
+					"two": 9447
+				}
+			},
+			{
+				"timestamp": 1604787750925,
+				"votes": {
+					"one": 9977,
+					"two": 9447
+				}
+			},
+			{
+				"timestamp": 1604787810675,
+				"votes": {
+					"one": 9987,
+					"two": 9458
+				}
+			},
+			{
+				"timestamp": 1604787870657,
+				"votes": {
+					"one": 9987,
+					"two": 9458
+				}
+			},
+			{
+				"timestamp": 1604787930929,
+				"votes": {
+					"one": 9987,
+					"two": 9458
+				}
+			},
+			{
+				"timestamp": 1604787990695,
+				"votes": {
+					"one": 9987,
+					"two": 9458
+				}
+			},
+			{
+				"timestamp": 1604788050695,
+				"votes": {
+					"one": 9987,
+					"two": 9458
+				}
+			},
+			{
+				"timestamp": 1604788110607,
+				"votes": {
+					"one": 9987,
+					"two": 9458
+				}
+			},
+			{
+				"timestamp": 1604788170674,
+				"votes": {
+					"one": 9987,
+					"two": 9458
+				}
+			},
+			{
+				"timestamp": 1604788230628,
+				"votes": {
+					"one": 9987,
+					"two": 9458
+				}
+			},
+			{
+				"timestamp": 1604788290614,
+				"votes": {
+					"one": 10010,
+					"two": 9475
+				}
+			},
+			{
+				"timestamp": 1604788350614,
+				"votes": {
+					"one": 10010,
+					"two": 9475
+				}
+			},
+			{
+				"timestamp": 1604788410894,
+				"votes": {
+					"one": 10010,
+					"two": 9475
+				}
+			},
+			{
+				"timestamp": 1604788470734,
+				"votes": {
+					"one": 10010,
+					"two": 9475
+				}
+			},
+			{
+				"timestamp": 1604788530878,
+				"votes": {
+					"one": 10010,
+					"two": 9475
+				}
+			},
+			{
+				"timestamp": 1604788590688,
+				"votes": {
+					"one": 10010,
+					"two": 9475
+				}
+			},
+			{
+				"timestamp": 1604788650805,
+				"votes": {
+					"one": 10010,
+					"two": 9475
+				}
+			},
+			{
+				"timestamp": 1604788710699,
+				"votes": {
+					"one": 10010,
+					"two": 9475
+				}
+			},
+			{
+				"timestamp": 1604788770618,
+				"votes": {
+					"one": 10010,
+					"two": 9475
+				}
+			},
+			{
+				"timestamp": 1604788830659,
+				"votes": {
+					"one": 10010,
+					"two": 9475
+				}
+			},
+			{
+				"timestamp": 1604788890946,
+				"votes": {
+					"one": 10010,
+					"two": 9475
+				}
+			},
+			{
+				"timestamp": 1604788950619,
+				"votes": {
+					"one": 10019,
+					"two": 9483
+				}
+			},
+			{
+				"timestamp": 1604789010901,
+				"votes": {
+					"one": 10019,
+					"two": 9483
+				}
+			},
+			{
+				"timestamp": 1604789070991,
+				"votes": {
+					"one": 10019,
+					"two": 9483
+				}
+			},
+			{
+				"timestamp": 1604789130662,
+				"votes": {
+					"one": 10019,
+					"two": 9483
+				}
+			},
+			{
+				"timestamp": 1604789190652,
+				"votes": {
+					"one": 10019,
+					"two": 9483
+				}
+			},
+			{
+				"timestamp": 1604789250917,
+				"votes": {
+					"one": 10019,
+					"two": 9483
+				}
+			},
+			{
+				"timestamp": 1604789310746,
+				"votes": {
+					"one": 10019,
+					"two": 9483
+				}
+			},
+			{
+				"timestamp": 1604789370697,
+				"votes": {
+					"one": 10019,
+					"two": 9483
+				}
+			},
+			{
+				"timestamp": 1604789430742,
+				"votes": {
+					"one": 10019,
+					"two": 9483
+				}
+			},
+			{
+				"timestamp": 1604789490898,
+				"votes": {
+					"one": 10019,
+					"two": 9483
+				}
+			},
+			{
+				"timestamp": 1604789550669,
+				"votes": {
+					"one": 10019,
+					"two": 9483
+				}
+			},
+			{
+				"timestamp": 1604789610854,
+				"votes": {
+					"one": 10052,
+					"two": 9495
+				}
+			},
+			{
+				"timestamp": 1604789670687,
+				"votes": {
+					"one": 10052,
+					"two": 9495
+				}
+			},
+			{
+				"timestamp": 1604789730773,
+				"votes": {
+					"one": 10052,
+					"two": 9495
+				}
+			},
+			{
+				"timestamp": 1604789790922,
+				"votes": {
+					"one": 10052,
+					"two": 9495
+				}
+			},
+			{
+				"timestamp": 1604789850588,
+				"votes": {
+					"one": 10052,
+					"two": 9495
+				}
+			},
+			{
+				"timestamp": 1604789910926,
+				"votes": {
+					"one": 10052,
+					"two": 9495
+				}
+			},
+			{
+				"timestamp": 1604789970622,
+				"votes": {
+					"one": 10052,
+					"two": 9495
+				}
+			},
+			{
+				"timestamp": 1604790030933,
+				"votes": {
+					"one": 10052,
+					"two": 9495
+				}
+			},
+			{
+				"timestamp": 1604790090602,
+				"votes": {
+					"one": 10052,
+					"two": 9495
+				}
+			},
+			{
+				"timestamp": 1604790150910,
+				"votes": {
+					"one": 10072,
+					"two": 9502
+				}
+			},
+			{
+				"timestamp": 1604790210620,
+				"votes": {
+					"one": 10072,
+					"two": 9502
+				}
+			},
+			{
+				"timestamp": 1604790270846,
+				"votes": {
+					"one": 10072,
+					"two": 9502
+				}
+			},
+			{
+				"timestamp": 1604790330692,
+				"votes": {
+					"one": 10072,
+					"two": 9502
+				}
+			},
+			{
+				"timestamp": 1604790390621,
+				"votes": {
+					"one": 10072,
+					"two": 9502
+				}
+			},
+			{
+				"timestamp": 1604790450615,
+				"votes": {
+					"one": 10072,
+					"two": 9502
+				}
+			},
+			{
+				"timestamp": 1604790510669,
+				"votes": {
+					"one": 10072,
+					"two": 9502
+				}
+			},
+			{
+				"timestamp": 1604790570648,
+				"votes": {
+					"one": 10072,
+					"two": 9502
+				}
+			},
+			{
+				"timestamp": 1604790630674,
+				"votes": {
+					"one": 10072,
+					"two": 9502
+				}
+			},
+			{
+				"timestamp": 1604790690678,
+				"votes": {
+					"one": 10072,
+					"two": 9502
+				}
+			},
+			{
+				"timestamp": 1604790750620,
+				"votes": {
+					"one": 10089,
+					"two": 9519
+				}
+			},
+			{
+				"timestamp": 1604790810614,
+				"votes": {
+					"one": 10089,
+					"two": 9519
+				}
+			},
+			{
+				"timestamp": 1604790870682,
+				"votes": {
+					"one": 10089,
+					"two": 9519
+				}
+			},
+			{
+				"timestamp": 1604790930842,
+				"votes": {
+					"one": 10089,
+					"two": 9519
+				}
+			},
+			{
+				"timestamp": 1604790990928,
+				"votes": {
+					"one": 10089,
+					"two": 9519
+				}
+			},
+			{
+				"timestamp": 1604791050676,
+				"votes": {
+					"one": 10089,
+					"two": 9519
+				}
+			},
+			{
+				"timestamp": 1604791110620,
+				"votes": {
+					"one": 10089,
+					"two": 9519
+				}
+			},
+			{
+				"timestamp": 1604791170625,
+				"votes": {
+					"one": 10089,
+					"two": 9519
+				}
+			},
+			{
+				"timestamp": 1604791230916,
+				"votes": {
+					"one": 10089,
+					"two": 9519
+				}
+			},
+			{
+				"timestamp": 1604791290778,
+				"votes": {
+					"one": 10089,
+					"two": 9519
+				}
+			},
+			{
+				"timestamp": 1604791350632,
+				"votes": {
+					"one": 10096,
+					"two": 9526
+				}
+			},
+			{
+				"timestamp": 1604791410650,
+				"votes": {
+					"one": 10096,
+					"two": 9526
+				}
+			},
+			{
+				"timestamp": 1604791470650,
+				"votes": {
+					"one": 10096,
+					"two": 9526
 				}
 			}
 		]
